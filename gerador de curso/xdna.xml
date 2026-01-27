@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:wp="http://wordpress.org/export/4.1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/4.1.0/excerpt/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  <channel>
+    <title>Mesoestetic Academy</title>
+    <link>https://academy.mesoestetic.com.br</link>
+    <description>Cursos e Treinamentos</description>
+    <pubDate>Tue, 27 Jan 2026 14:08:10 +0000</pubDate>
+    <language>pt-BR</language>
+    <wp:wxr_version>4.1.0</wp:wxr_version>
+    <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
+    <wp:base_blog_url>https://academy.mesoestetic.com.br</wp:base_blog_url>
+    <wp:plugin_name>learnpress</wp:plugin_name>
+    <wp:plugin_version>4.1.0</wp:plugin_version>
+    <wp:term>
+      <wp:term_id>50000</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>atendimento-vendas</wp:term_slug>
+      <wp:term_name><![CDATA[Atendimento / Vendas]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50001</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>distribuidores</wp:term_slug>
+      <wp:term_name><![CDATA[Distribuidores]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50002</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>farmaceuticos</wp:term_slug>
+      <wp:term_name><![CDATA[Farmacêuticos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50003</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>gestores</wp:term_slug>
+      <wp:term_name><![CDATA[Gestores]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50004</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>marketing</wp:term_slug>
+      <wp:term_name><![CDATA[Marketing]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50005</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>produtos</wp:term_slug>
+      <wp:term_name><![CDATA[Produtos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50006</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>representantes</wp:term_slug>
+      <wp:term_name><![CDATA[Representantes]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50007</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>x-dna</wp:term_slug>
+      <wp:term_name><![CDATA[X-DNA]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50008</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>regeneracao-celular</wp:term_slug>
+      <wp:term_name><![CDATA[regeneração celular]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>dna</wp:term_slug>
+      <wp:term_name><![CDATA[dna]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50010</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>proteinas-estruturais</wp:term_slug>
+      <wp:term_name><![CDATA[proteínas estruturais]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <item>
+      <title>X-DNA® no gerenciamento do envelhecimento</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=x-dna-no-gerenciamento-do-envelhecimento</link>
+      <pubDate>Tue, 27 Jan 2026 14:08:10 +0000</pubDate>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
+      <content:encoded><![CDATA[<p>O curso sobre o <strong>X-DNA®</strong> apresenta este poderoso aliado no combate ao envelhecimento. Vamos explorar como este ativo atua na reparação do dna® celular e no estímulo a proteínas estruturais fundamentais para a saúde da pele.</p>
+<!-- Metadados do Curso -->
+<strong>Carga horária:</strong> 37 min<br>
+<strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
+<strong>Nível:</strong> Intermediário<br>
+<strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
+<br>
+<p><strong>Conteúdo Programático:</strong>
+- X-DNA® – O poderoso aliado
+- Proteínas estruturais
+- X-DNA® – Regeneração do dna®</p>
+<p><strong>Material para Download:</strong></p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[Domine a tecnologia de reparação celular do X-DNA®. Aprenda como este ativo biotecnológico reconstrói a estrutura da derme e protege o dna® celular contra o estresse oxidativo e o envelhecimento precoce.]]></excerpt:encoded>
+      <wp:post_id>99000</wp:post_id>
+      <wp:post_date>2026-01-27 14:08:10</wp:post_date>
+      <wp:post_name>x-dna-no-gerenciamento-do-envelhecimento</wp:post_name>
+      <wp:status>draft</wp:status>
+      <wp:post_type>lp_course</wp:post_type>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[11207]]></wp:meta_value>
+      </wp:postmeta>
+      <category domain="course_category" nicename="atendimento-vendas" id="50000" parent="0" description=""><![CDATA[Atendimento / Vendas]]></category>
+      <category domain="course_category" nicename="distribuidores" id="50001" parent="0" description=""><![CDATA[Distribuidores]]></category>
+      <category domain="course_category" nicename="farmaceuticos" id="50002" parent="0" description=""><![CDATA[Farmacêuticos]]></category>
+      <category domain="course_category" nicename="gestores" id="50003" parent="0" description=""><![CDATA[Gestores]]></category>
+      <category domain="course_category" nicename="marketing" id="50004" parent="0" description=""><![CDATA[Marketing]]></category>
+      <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
+      <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
+      <category domain="course_tag" nicename="x-dna" id="50007" parent="0" description=""><![CDATA[X-DNA]]></category>
+      <category domain="course_tag" nicename="regeneracao-celular" id="50008" parent="0" description=""><![CDATA[regeneração celular]]></category>
+      <category domain="course_tag" nicename="dna" id="50009" parent="0" description=""><![CDATA[dna]]></category>
+      <category domain="course_tag" nicename="proteinas-estruturais" id="50010" parent="0" description=""><![CDATA[proteínas estruturais]]></category>
+      <wp:section>
+        <wp:section_id>100</wp:section_id>
+        <wp:section_name>A ciência do X-DNA® na reparação celular</wp:section_name>
+        <wp:section_course_id>99000</wp:section_course_id>
+        <wp:section_order>1</wp:section_order>
+        <wp:section_description><![CDATA[Entenda como a biotecnologia do x-dna® protege e regenera o código genético da pele.]]></wp:section_description>
+        <wp:section_item>
+          <wp:section_id>100</wp:section_id>
+          <wp:item_id>100000</wp:item_id>
+          <wp:item_order>1</wp:item_order>
+          <wp:item_type>lp_lesson</wp:item_type>
+        </wp:section_item>
+        <wp:section_item>
+          <wp:section_id>100</wp:section_id>
+          <wp:item_id>100001</wp:item_id>
+          <wp:item_order>2</wp:item_order>
+          <wp:item_type>lp_lesson</wp:item_type>
+        </wp:section_item>
+        <wp:section_item>
+          <wp:section_id>100</wp:section_id>
+          <wp:item_id>100002</wp:item_id>
+          <wp:item_order>3</wp:item_order>
+          <wp:item_type>lp_lesson</wp:item_type>
+        </wp:section_item>
+      </wp:section>
+      <wp:section>
+        <wp:section_id>100</wp:section_id>
+        <wp:section_name>Avaliação Final</wp:section_name>
+        <wp:section_course_id>99000</wp:section_course_id>
+        <wp:section_order>2</wp:section_order>
+        <wp:section_description><![CDATA[]]></wp:section_description>
+        <wp:section_item>
+          <wp:section_id>100</wp:section_id>
+          <wp:item_id>100003</wp:item_id>
+          <wp:item_order>1</wp:item_order>
+          <wp:item_type>lp_quiz</wp:item_type>
+        </wp:section_item>
+      </wp:section>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[37 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_level</wp:meta_key>
+        <wp:meta_value><![CDATA[Intermediário]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_instructor</wp:meta_key>
+        <wp:meta_value><![CDATA[Dra. Ana Cléia Barbosa]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Aula 01 – X-DNA® – O poderoso aliado</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <wp:post_id>100000</wp:post_id>
+      <wp:post_date>2026-01-27 14:08:10</wp:post_date>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_lesson</wp:post_type>
+      <wp:post_name>aula-01-x-dna-o-poderoso-aliado</wp:post_name>
+      <content:encoded><![CDATA[<p style="text-align: center;"><iframe src="https://drive.google.com/file/d/1V_XFUlTu6cvse0w8fm3UWzZq9m4fARDK/preview" width="640" height="360" allow="autoplay"></iframe></p>
+]]></content:encoded>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[6 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_course</wp:meta_key>
+        <wp:meta_value><![CDATA[99000]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Aula 02 – Proteínas estruturais</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <wp:post_id>100001</wp:post_id>
+      <wp:post_date>2026-01-27 14:08:10</wp:post_date>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_lesson</wp:post_type>
+      <wp:post_name>aula-02-proteinas-estruturais</wp:post_name>
+      <content:encoded><![CDATA[<p style="text-align: center;"><iframe src="https://drive.google.com/file/d/1Q4Rk6sCcL8GCnieWvrvrNa1brDbdSUcv/preview" width="640" height="360" allow="autoplay"></iframe></p>
+]]></content:encoded>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[5 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_course</wp:meta_key>
+        <wp:meta_value><![CDATA[99000]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Aula 03 – X-DNA® – Regeneração do dna®</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <wp:post_id>100002</wp:post_id>
+      <wp:post_date>2026-01-27 14:08:10</wp:post_date>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_lesson</wp:post_type>
+      <wp:post_name>aula-03-x-dna-regeneracao-do-dna</wp:post_name>
+      <content:encoded><![CDATA[<p style="text-align: center;"><iframe src="https://drive.google.com/file/d/1vuKNz4NdTDEM5i9U8CGamg-IFsOACcPw/preview" width="640" height="360" allow="autoplay"></iframe></p>
+]]></content:encoded>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[6 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_course</wp:meta_key>
+        <wp:meta_value><![CDATA[99000]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Avaliação Final</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <wp:post_id>100003</wp:post_id>
+      <wp:post_date>2026-01-27 14:08:10</wp:post_date>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_quiz</wp:post_type>
+      <wp:post_name>avaliacao-final</wp:post_name>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[20 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_passing_grade</wp:meta_key>
+        <wp:meta_value><![CDATA[80]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_retake_count</wp:meta_key>
+        <wp:meta_value><![CDATA[10]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_show_result</wp:meta_key>
+        <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_show_check_answer</wp:meta_key>
+        <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:question>
+        <wp:quiz_id>100003</wp:quiz_id>
+        <wp:question_id>100004</wp:question_id>
+        <wp:question_order>1</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100003</wp:quiz_id>
+        <wp:question_id>100005</wp:question_id>
+        <wp:question_order>2</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100003</wp:quiz_id>
+        <wp:question_id>100006</wp:question_id>
+        <wp:question_order>3</wp:question_order>
+      </wp:question>
+      <wp:postmeta>
+        <wp:meta_key>_lp_course</wp:meta_key>
+        <wp:meta_value><![CDATA[99000]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Qual é o principal mecanismo de ação do X-DNA® no gerenciamento do envelhecimento?</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100004</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>qual-e-o-principal-mecanismo-de-acao-do-x-dna-no-gerenciamento-do-envelhecimento</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Reparação e proteção do dna® celular]]></wp:answer_title>
+        <wp:answer_value>val_100004_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Apenas a limpeza superficial da epiderme]]></wp:answer_title>
+        <wp:answer_value>val_100004_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Atuar como um pigmento de correção imediata]]></wp:answer_title>
+        <wp:answer_value>val_100004_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Nenhuma das alternativas anteriores]]></wp:answer_title>
+        <wp:answer_value>val_100004_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Em relação às proteínas estruturais, o X-DNA®:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100005</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>em-relacao-as-proteinas-estruturais-o-x-dna</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Não possui influência na síntese proteica]]></wp:answer_title>
+        <wp:answer_value>val_100005_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Estimula a produção de colágeno e componentes essenciais da derme]]></wp:answer_title>
+        <wp:answer_value>val_100005_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Destrói as fibras de elastina]]></wp:answer_title>
+        <wp:answer_value>val_100005_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Atua apenas na camada córnea]]></wp:answer_title>
+        <wp:answer_value>val_100005_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O X-DNA® é indicado principalmente para:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100006</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-x-dna-e-indicado-principalmente-para</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Peles maduras com sinais visíveis de envelhecimento e danos celulares]]></wp:answer_title>
+        <wp:answer_value>val_100006_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Peles extremamente jovens sem necessidade de revitalização]]></wp:answer_title>
+        <wp:answer_value>val_100006_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Exclusivamente para uso capilar]]></wp:answer_title>
+        <wp:answer_value>val_100006_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Peles com acne inflamada severa]]></wp:answer_title>
+        <wp:answer_value>val_100006_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>

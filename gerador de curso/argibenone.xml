@@ -1,0 +1,707 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:wp="http://wordpress.org/export/4.1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/4.1.0/excerpt/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  <channel>
+    <title>Mesoestetic Academy</title>
+    <link>https://academy.mesoestetic.com.br</link>
+    <description>Cursos e Treinamentos</description>
+    <pubDate>Tue, 27 Jan 2026 14:08:10 +0000</pubDate>
+    <language>pt-BR</language>
+    <wp:wxr_version>4.1.0</wp:wxr_version>
+    <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
+    <wp:base_blog_url>https://academy.mesoestetic.com.br</wp:base_blog_url>
+    <wp:plugin_name>learnpress</wp:plugin_name>
+    <wp:plugin_version>4.1.0</wp:plugin_version>
+    <wp:term>
+      <wp:term_id>50000</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>atendimento-vendas</wp:term_slug>
+      <wp:term_name><![CDATA[Atendimento / Vendas]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50001</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>distribuidores</wp:term_slug>
+      <wp:term_name><![CDATA[Distribuidores]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50002</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>farmaceuticos</wp:term_slug>
+      <wp:term_name><![CDATA[Farmacêuticos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50003</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>gestores</wp:term_slug>
+      <wp:term_name><![CDATA[Gestores]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50004</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>marketing</wp:term_slug>
+      <wp:term_name><![CDATA[Marketing]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50005</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>produtos</wp:term_slug>
+      <wp:term_name><![CDATA[Produtos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50006</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>representantes</wp:term_slug>
+      <wp:term_name><![CDATA[Representantes]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50007</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>age-element</wp:term_slug>
+      <wp:term_name><![CDATA[age element]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50008</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>epigenetica</wp:term_slug>
+      <wp:term_name><![CDATA[epigenética]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>rejuvenescimento-inteligente</wp:term_slug>
+      <wp:term_name><![CDATA[rejuvenescimento inteligente]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <item>
+      <title>argibenone® rejuvenecimento inteligente</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=argibenone-rejuvenecimento-inteligente</link>
+      <pubDate>Tue, 27 Jan 2026 14:08:10 +0000</pubDate>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
+      <content:encoded><![CDATA[<p>O curso <strong>argibenone®: Rejuvenescimento Inteligente</strong> apresenta uma abordagem avançada sobre o uso de peptídeos biomiméticos na estética regenerativa, o produto atua na inibição do complexo SNARE, reduzindo a liberação de neurotransmissores para suavizar contrações musculares e prevenir rugas com um efeito botox-like. Além disso, o composto combate o estresse oxidativo e o fenômeno SASP, protegendo as mitocôndrias e neutralizando radicais livres que degradam o colágeno. O uso da tecnologia visa manter a energia celular e a firmeza da pele, garantindo um aspecto revitalizado sem comprometer a expressividade natural do rosto. Referências científicas sustentam a eficácia de ativos como o acetil hexapeptídeo-8 e a idebenona® no tratamento tópico do envelhecimento cutâneo.</p>
+<!-- Metadados do Curso -->
+<strong>Carga horária:</strong> 20 min<br>
+<strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
+<strong>Nível:</strong> Intermediário<br>
+<strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
+<br>
+<p><strong>Conteúdo Programático:</strong>
+- Introdução: A Nova Era do Rejuvenescimento Facial
+- Conceito: O Primeiro Bioestimulador Específico para a Área dos Olhos
+- Composição da Fórmula: Ação Tríplice Inovadora (idebenona®, Hexapeptídeo e Ácido Hialurônico)
+- Bioestimulação Celular e Regeneração Dérmica (Ativação via CD44 e RHAMM)
+- Modulação Neuromuscular Inteligente (Efeito Botox-like Fisiológico e Ação no Complexo SNARE)
+- Ação Anti-SASP: O Combate ao Fenótipo Secretor Associado à Senescência
+- Energia Celular e Proteção Mitocondrial (Mecanismo da idebenona®)
+- Reestruturação Volumétrica: Estímulo à Adipogênese e Recuperação do Contorno
+- Resumo dos Benefícios Clínicos: Firmeza, Volume e Preservação da Expressão
+- Embasamento Científico e Referências Bibliográficas</p>
+<p><strong>Material para Download:</strong>
+- <a href="https://drive.google.com/file/d/19lag0KMJi0eD_knPB7V0GLPQPRsf9zZy/view?usp=drive_link">Aula</a>
+- <a href="https://drive.google.com/file/d/1IIX1f_tCBqiVsqTrq2fiyn-HhDaKk-Pa/view?usp=drive_link">Protocolo</a>
+- <a href="https://drive.google.com/file/d/1EqxZ9XLgU0JoaQNw4fpmK5fXvdd15lQk/view?usp=drive_link">Produto</a>
+- <a href="https://drive.google.com/file/d/1v8uqLGkxaRwdQVe_FkdCjK-YTotSSlmn/view?usp=drive_link">Antes e Depois</a>
+- <a href="https://drive.google.com/file/d/1ITU5QH9zGFi7i0d3v0nKCa_aFR7liG6a/view?usp=drive_link">Cápsula do Conhecimento</a>
+- <a href="https://drive.google.com/file/d/1L3HixWhc22eKNeRuKyL65Y3Zxpx39B3E/view?usp=drive_link">Estudo Clínico</a>
+- <a href="https://drive.google.com/file/d/110QgoabTn4I5XyGnVFe0ZMEXUR58lYaR/view?usp=drive_link">Resultados Clínicos</a></p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[O treinamento apresenta o mesohyal argibenone® como o primeiro bioestimulador ocular de ação tríplice, detalhando sua fórmula com idebenona®, Hexapeptídeos e Ácido Hialurônico para promover um efeito "Botox-like" fisiológico e regeneração dérmica.
+O conteúdo foca nos mecanismos moleculares avançados do produto, incluindo a modulação neuromuscular segura, a proteção mitocondrial e a tecnologia Anti-SASP (antissenescência), que combatem o envelhecimento e suavizam rugas preservando a expressão natural]]></excerpt:encoded>
+      <wp:post_id>99000</wp:post_id>
+      <wp:post_date>2026-01-27 14:08:10</wp:post_date>
+      <wp:post_name>argibenone-rejuvenecimento-inteligente</wp:post_name>
+      <wp:status>draft</wp:status>
+      <wp:post_type>lp_course</wp:post_type>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[11641]]></wp:meta_value>
+      </wp:postmeta>
+      <category domain="course_category" nicename="atendimento-vendas" id="50000" parent="0" description=""><![CDATA[Atendimento / Vendas]]></category>
+      <category domain="course_category" nicename="distribuidores" id="50001" parent="0" description=""><![CDATA[Distribuidores]]></category>
+      <category domain="course_category" nicename="farmaceuticos" id="50002" parent="0" description=""><![CDATA[Farmacêuticos]]></category>
+      <category domain="course_category" nicename="gestores" id="50003" parent="0" description=""><![CDATA[Gestores]]></category>
+      <category domain="course_category" nicename="marketing" id="50004" parent="0" description=""><![CDATA[Marketing]]></category>
+      <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
+      <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
+      <category domain="course_tag" nicename="age-element" id="50007" parent="0" description=""><![CDATA[age element]]></category>
+      <category domain="course_tag" nicename="epigenetica" id="50008" parent="0" description=""><![CDATA[epigenética]]></category>
+      <category domain="course_tag" nicename="rejuvenescimento-inteligente" id="50009" parent="0" description=""><![CDATA[rejuvenescimento inteligente]]></category>
+      <wp:section>
+        <wp:section_id>100</wp:section_id>
+        <wp:section_name>Avaliação</wp:section_name>
+        <wp:section_course_id>99000</wp:section_course_id>
+        <wp:section_order>1</wp:section_order>
+        <wp:section_description><![CDATA[]]></wp:section_description>
+        <wp:section_item>
+          <wp:section_id>100</wp:section_id>
+          <wp:item_id>100000</wp:item_id>
+          <wp:item_order>1</wp:item_order>
+          <wp:item_type>lp_quiz</wp:item_type>
+        </wp:section_item>
+      </wp:section>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[20 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_level</wp:meta_key>
+        <wp:meta_value><![CDATA[Intermediário]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_instructor</wp:meta_key>
+        <wp:meta_value><![CDATA[Dra. Ana Cléia Barbosa]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Avaliação</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <wp:post_id>100000</wp:post_id>
+      <wp:post_date>2026-01-27 14:08:10</wp:post_date>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_quiz</wp:post_type>
+      <wp:post_name>avaliacao</wp:post_name>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[20 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_passing_grade</wp:meta_key>
+        <wp:meta_value><![CDATA[80]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_retake_count</wp:meta_key>
+        <wp:meta_value><![CDATA[10]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_show_result</wp:meta_key>
+        <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_show_check_answer</wp:meta_key>
+        <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100001</wp:question_id>
+        <wp:question_order>1</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100002</wp:question_id>
+        <wp:question_order>2</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100003</wp:question_id>
+        <wp:question_order>3</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100004</wp:question_id>
+        <wp:question_order>4</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100005</wp:question_id>
+        <wp:question_order>5</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100006</wp:question_id>
+        <wp:question_order>6</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100007</wp:question_id>
+        <wp:question_order>7</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100008</wp:question_id>
+        <wp:question_order>8</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100009</wp:question_id>
+        <wp:question_order>9</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100010</wp:question_id>
+        <wp:question_order>10</wp:question_order>
+      </wp:question>
+      <wp:postmeta>
+        <wp:meta_key>_lp_course</wp:meta_key>
+        <wp:meta_value><![CDATA[99000]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O argibenone® é classificado como:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100001</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-argibenone-e-classificado-como</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Um peptídeo biomimético neuromodulador]]></wp:answer_title>
+        <wp:answer_value>val_100001_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Um derivado estável da ubiquinona (CoQ10)]]></wp:answer_title>
+        <wp:answer_value>val_100001_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Um ácido orgânico com ação bioestimuladora]]></wp:answer_title>
+        <wp:answer_value>val_100001_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Um polímero sintético volumizador]]></wp:answer_title>
+        <wp:answer_value>val_100001_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Um dos principais diferenciais do argibenone® em relação à CoQ10 tradicional é:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100002</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>um-dos-principais-diferenciais-do-argibenone-em-relacao-a-coq10-tradicional-e</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Maior peso molecular]]></wp:answer_title>
+        <wp:answer_value>val_100002_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Ação exclusivamente antioxidante]]></wp:answer_title>
+        <wp:answer_value>val_100002_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Maior estabilidade e melhor penetração cutânea]]></wp:answer_title>
+        <wp:answer_value>val_100002_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Ação inflamatória controlada]]></wp:answer_title>
+        <wp:answer_value>val_100002_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>No contexto do envelhecimento celular, o SASP refere-se a:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100003</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>no-contexto-do-envelhecimento-celular-o-sasp-refere-se-a</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Processo de apoptose celular acelerada]]></wp:answer_title>
+        <wp:answer_value>val_100003_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Produção de ATP mitocondrial]]></wp:answer_title>
+        <wp:answer_value>val_100003_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Fenótipo secretor associado à senescência]]></wp:answer_title>
+        <wp:answer_value>val_100003_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Processo de diferenciação adipocitária]]></wp:answer_title>
+        <wp:answer_value>val_100003_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>As células senescentes caracterizam-se principalmente por:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100004</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>as-celulas-senescentes-caracterizam-se-principalmente-por</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Alta taxa de divisão celular]]></wp:answer_title>
+        <wp:answer_value>val_100004_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Morte celular programada imediata]]></wp:answer_title>
+        <wp:answer_value>val_100004_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Permanecerem ativas e secretarem mediadores inflamatórios]]></wp:answer_title>
+        <wp:answer_value>val_100004_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Produzirem colágeno tipo III em excesso]]></wp:answer_title>
+        <wp:answer_value>val_100004_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O argibenone® atua no combate ao envelhecimento celular principalmente por:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100005</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-argibenone-atua-no-combate-ao-envelhecimento-celular-principalmente-por</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Estimular inflamação controlada]]></wp:answer_title>
+        <wp:answer_value>val_100005_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Bloquear completamente a contração muscular]]></wp:answer_title>
+        <wp:answer_value>val_100005_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Reduzir estresse oxidativo e inflamação crônica silenciosa]]></wp:answer_title>
+        <wp:answer_value>val_100005_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Induzir apoptose seletiva]]></wp:answer_title>
+        <wp:answer_value>val_100005_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A ação mitocondrial do argibenone® está relacionada a:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100006</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-acao-mitocondrial-do-argibenone-esta-relacionada-a</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Inibição da cadeia respiratória]]></wp:answer_title>
+        <wp:answer_value>val_100006_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Transporte de elétrons e aumento da produção de ATP]]></wp:answer_title>
+        <wp:answer_value>val_100006_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Bloqueio da fosforilação oxidativa]]></wp:answer_title>
+        <wp:answer_value>val_100006_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Redução do consumo de oxigênio celular]]></wp:answer_title>
+        <wp:answer_value>val_100006_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Em relação ao colágeno, o argibenone®:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100007</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>em-relacao-ao-colageno-o-argibenone</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Estimula apenas colágeno tipo III]]></wp:answer_title>
+        <wp:answer_value>val_100007_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Aumenta a atividade das MMPs]]></wp:answer_title>
+        <wp:answer_value>val_100007_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Protege a matriz extracelular da degradação]]></wp:answer_title>
+        <wp:answer_value>val_100007_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Atua apenas como preenchedor mecânico]]></wp:answer_title>
+        <wp:answer_value>val_100007_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A ação “botox-like natural” do argibenone® ocorre porque ele:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100008</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-acao-botox-like-natural-do-argibenone-ocorre-porque-ele</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Paralisa totalmente a musculatura]]></wp:answer_title>
+        <wp:answer_value>val_100008_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Desnatura proteínas musculares]]></wp:answer_title>
+        <wp:answer_value>val_100008_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Modula o complexo SNARE e reduz a liberação de acetilcolina]]></wp:answer_title>
+        <wp:answer_value>val_100008_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Bloqueia receptores nicotínicos irreversivelmente]]></wp:answer_title>
+        <wp:answer_value>val_100008_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A ativação da adipogênese promovida pelo argibenone® resulta em:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100009</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-ativacao-da-adipogenese-promovida-pelo-argibenone-resulta-em</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Hipertrofia muscular facial]]></wp:answer_title>
+        <wp:answer_value>val_100009_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Reabsorção de gordura subcutânea]]></wp:answer_title>
+        <wp:answer_value>val_100009_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Formação de novas células adiposas e recuperação de volume]]></wp:answer_title>
+        <wp:answer_value>val_100009_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Fibrose do tecido adiposo]]></wp:answer_title>
+        <wp:answer_value>val_100009_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O principal diferencial clínico do argibenone® é:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100010</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-principal-diferencial-clinico-do-argibenone-e</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Resultados imediatos e artificiais]]></wp:answer_title>
+        <wp:answer_value>val_100010_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Efeito volumizador rígido]]></wp:answer_title>
+        <wp:answer_value>val_100010_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Rejuvenescimento progressivo com preservação da expressão]]></wp:answer_title>
+        <wp:answer_value>val_100010_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Exclusiva ação superficial na epiderme]]></wp:answer_title>
+        <wp:answer_value>val_100010_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>
