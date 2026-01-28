@@ -85,21 +85,11 @@ O treinamento "Soluções para o gerenciamento do envelhecimento" apresenta o pr
 - [x] 5 a 10 sessões quinzenais
 - [ ] Sessões diárias por 1 semana
 
-#### Pergunta: O skinmark solution® pode ser usado em estrias recentes e antigas.
-- [x] Verdadeiro
-- [ ] Falso
-
-#### Pergunta: O produto não deve ser associado ao microneedling.
-- [ ] Verdadeiro
-- [x] Falso
-
-#### Pergunta: O skinmark solution® fortalece a estrutura dérmica e melhora firmeza.
-- [x] Verdadeiro
-- [ ] Falso
-
-#### Pergunta: O intervalo recomendado entre sessões é de 15 dias.
-- [x] Verdadeiro
-- [ ] Falso
+#### Pergunta: Assinale as alternativas verdadeiras:
+- [x] O skinmark solution® pode ser usado em estrias recentes e antigas.
+- [ ] O produto não deve ser associado ao microneedling.
+- [x] O skinmark solution® fortalece a estrutura dérmica e melhora firmeza.
+- [x] O intervalo recomendado entre sessões é de 15 dias.
 
 #### Pergunta: Uma característica que diferencia o skinmark solution® é:
 - [ ] Ação superficial restrita à epiderme
