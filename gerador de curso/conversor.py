@@ -26,27 +26,30 @@ class LearnPressGenerator:
             'age element', 'argibenone', 'cosmelan', 'NCTC', 'depigmentation',
             'melantranx', 'melantran3x', 'melaphenone', 'cosmesome', 'mesoestetic',
             'mesoprotech', 'c.prof', 'idebenona', 'X-DNA', 'mesotox', 'dmae', 'vitamina c', 'glutathion', 'solution',
-            'mesopeel', 'blemiskin', 'melanostop tranex', 'jessner pro', 'eyecon', 'senopeptide'
+            'mesopeel', 'blemiskin', 'melanostop tranex', 'jessner pro', 'eyecon', 'senopeptide',
+            'skinmark', 'c.prof 223', 'darutosídeo', 'chlorella vulgaris', 'm.pen [pro]', 'PDRN', 'silício orgânico',
+            'x.prof', 'dna', 'mesotox solution', 'acetil hexapeptídeo-8', 'pentapeptídeo-18', 'silício'
         ]
 
     def normalize_brand_names(self, text):
         if not text: return ""
+        
+        # Limpar símbolos existentes para evitar duplicidade e resíduos
+        text = text.replace('®', '')
+        
         # Ordenar por tamanho decrescente para evitar substituições parciais
         sorted_products = sorted(self.brand_products, key=len, reverse=True)
         
         for p in sorted_products:
-            # Regex que ignora o case e remove um ® existente para evitar duplicidade
-            pattern = re.compile(re.escape(p) + r'®?', re.IGNORECASE)
-            # Usa o nome exatamente como está na lista brand_products (respeita maiúsculas)
-            text = pattern.sub(p + '®', text)
+            pattern = re.compile(re.escape(p), re.IGNORECASE)
+            if p.lower() == 'mesoestetic':
+                text = pattern.sub(p + '®', text)
+            else:
+                text = pattern.sub(p, text)
         
-        # Correções de redundâncias e casos especiais
-        text = text.replace('®®', '®')
-        text = text.replace('® solution®', ' solution®')
-        text = text.replace('cosmessome', 'cosmesome')
-        text = text.replace('NCTC®®', 'NCTC®')
-        text = text.replace('nctc®', 'NCTC®') # Garante NCTC em maiúsculo
-        text = text.replace('x-dna®', 'X-DNA®') # Garante X-DNA em maiúsculo
+        # Correções de nomes que devem ser sempre maiúsculos
+        text = text.replace('nctc', 'NCTC')
+        text = text.replace('x-dna', 'X-DNA')
         return text
 
     def parse_markdown(self):
@@ -107,7 +110,7 @@ class LearnPressGenerator:
                 if not block: continue
                 
                 if not block.startswith('###'):
-                    section_description = block
+                    section_description = self.normalize_brand_names(block)
                     continue
                 
                 # Identificar se é Quiz ou Lesson
@@ -144,7 +147,7 @@ class LearnPressGenerator:
                         q_explanation = ""
                         expl_match = re.search(r'^- \*\*Explicação:\*\* (.*)$', q_body, re.MULTILINE | re.IGNORECASE)
                         if expl_match:
-                            q_explanation = expl_match.group(1).strip()
+                            q_explanation = self.normalize_brand_names(expl_match.group(1).strip())
                             q_body = q_body.replace(expl_match.group(0), "").strip()
 
                         # Extrair Opções
@@ -177,7 +180,7 @@ class LearnPressGenerator:
                         'type': 'lp_quiz',
                         'title': quiz_title,
                         'meta': quiz_meta,
-                        'content': clean_header_css + markdown.markdown(quiz_body),
+                        'content': clean_header_css + markdown.markdown(self.normalize_brand_names(quiz_body)),
                         'questions': questions
                     })
                 else:
@@ -199,12 +202,13 @@ class LearnPressGenerator:
                         l_video = video_match.group(1).strip()
                         l_raw_body = l_raw_body.replace(video_match.group(0), "").strip()
 
+                    l_normalized_body = self.normalize_brand_names(l_raw_body)
                     if l_video:
                         embed_url = l_video.replace('/view?usp=drive_link', '/preview').replace('/view', '/preview')
                         video_html = f'<p style="text-align: center;"><iframe src="{embed_url}" width="640" height="360" allow="autoplay"></iframe></p>\n'
-                        l_final_content = video_html + markdown.markdown(l_raw_body)
+                        l_final_content = video_html + markdown.markdown(l_normalized_body)
                     else:
-                        l_final_content = markdown.markdown(l_raw_body)
+                        l_final_content = markdown.markdown(l_normalized_body)
 
                     items.append({
                         'type': 'lp_lesson',

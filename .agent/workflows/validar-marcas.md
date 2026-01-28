@@ -6,9 +6,9 @@ Este workflow descreve como garantir que todos os cursos sigam as diretrizes de 
 
 ### Regras de Ouro
 1. **Lowercase (com Exceções)**: A maioria dos nomes de produtos deve estar em letras minúsculas.
-   - **Exceções (Sempre Maiúsculas)**: `X-DNA®` e `NCTC®`.
-   - Correto: `argibenone®`, `X-DNA®`, `NCTC®`.
-2. **Símbolo ®**: Todos os nomes de produtos no corpo do texto devem ser seguidos pelo símbolo `®`.
+   - **Exceções (Sempre Maiúsculas)**: `X-DNA` e `NCTC`.
+   - Correto: `argibenone`, `X-DNA`, `NCTC`.
+2. **Símbolo ®**: O símbolo de marca registrada deve ser utilizado **exclusivamente** no nome `mesoestetic®`. Todos os outros produtos e ativos devem ser escritos sem o símbolo.
    - **Nota**: O script remove este símbolo automaticamente do campo de **Tags** para manter as hashtags limpas.
 3. **Sem Numeração/Letras**: Perguntas e alternativas de Quizzes NÃO devem ter numeração ou letras manuais.
 4. **Links de Download**: Não incluir itens na seção "Material para Download" que não possuam URL definida.
