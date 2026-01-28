@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Wed, 28 Jan 2026 02:19:11 +0000</pubDate>
+    <pubDate>Wed, 28 Jan 2026 02:23:12 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -86,7 +86,7 @@
     <item>
       <title>mesopeel® professional: Soluções de Peeling Químico da mesoestetic® para o Profissional de Estética</title>
       <link>https://academy.mesoestetic.com.br/?lp_course=mesopeel-professional-solucoes-de-peeling-quimico-da-mesoestetic-para-o-profissional-de-estetica</link>
-      <pubDate>Wed, 28 Jan 2026 02:19:11 +0000</pubDate>
+      <pubDate>Wed, 28 Jan 2026 02:23:12 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
       <content:encoded><![CDATA[<p>O treinamento mesopeel® professional da mesoestetic® apresenta um portefólio de peelings químicos dermocosméticos direcionado exclusivamente ao profissional estético. O procedimento visa uma regeneração cutânea acelerada e controlada através de agentes quimioesfoliantes. O portefólio inclui quatro referências segmentadas por indicação: mesopeel® jessner pro® e mesopeel® eyecon® para antienvelhecimento, mesopeel® melanostop tranex® para pigmentação e mesopeel® blemiskin® para peles oleosas e acneicas. Os resultados esperados incluem purificação da pele, melhoria da textura, combate ao envelhecimento, unificação do tom, redução de hiperpigmentações e alívio das manifestações de acne.</p>
@@ -107,15 +107,22 @@
 - CICLO DE TRATAMENTO</p>
 <p><strong>Material para Download:</strong>
 - <a href="https://drive.google.com/file/d/1tUNDw59gzNZlHn-1L9hIXFtF7XiGMaNQ/view?usp=drive_link">Aula</a>
+- <a href="https://drive.google.com/file/d/16meUVXVgVwGRTPhjCldcceXjtWw08-Tc/view?usp=drive_link">Protocolo</a><br />
+- <a href="https://drive.google.com/file/d/1uq2-hiIlasg9MFlrHB-i-JRYCgDRNoC_/view?usp=drive_link">Produto</a>
+- <a href="https://drive.google.com/file/d/1OK_5MdJxWkrObUFlGqRt1tXZHfY1hRe2/view?usp=drive_link">Antes e Depois</a>
 - <a href="https://drive.google.com/file/d/1N95uoY6pRQ842khNDuXvQHCyyQqYox1_/view?usp=drive_link">Cápsula do Conhecimento</a>
 - <a href="https://drive.google.com/file/d/1R-si0wQPRpwE6ZL16uPxo1aNo_4a-_gs/view?usp=drive_link">Catálogo</a>
 - <a href="https://drive.google.com/file/d/1kDhx4tJufMTgI_3le8NII0oYFW4KzFFl/view?usp=drive_link">Estudo Clínico</a></p>]]></content:encoded>
       <excerpt:encoded><![CDATA[O treinamento mesopeel® professional apresenta um portfólio completo de peelings químicos dermocosméticos, focados na regeneração cutânea acelerada através do inovador senopeptide®. Com soluções específicas para antienvelhecimento, pigmentação e acne, o curso capacita o profissional a utilizar ferramentas de alta eficácia para purificação da pele, melhoria de textura e unificação do tom cutâneo de forma controlada e segura.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-28 02:19:11</wp:post_date>
+      <wp:post_date>2026-01-28 02:23:12</wp:post_date>
       <wp:post_name>mesopeel-professional-solucoes-de-peeling-quimico-da-mesoestetic-para-o-profissional-de-estetica</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[13347]]></wp:meta_value>
+      </wp:postmeta>
       <category domain="course_category" nicename="atendimento-vendas" id="50000" parent="0" description=""><![CDATA[Atendimento / Vendas]]></category>
       <category domain="course_category" nicename="distribuidores" id="50001" parent="0" description=""><![CDATA[Distribuidores]]></category>
       <category domain="course_category" nicename="farmaceuticos" id="50002" parent="0" description=""><![CDATA[Farmacêuticos]]></category>
@@ -155,7 +162,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-28 02:19:11</wp:post_date>
+      <wp:post_date>2026-01-28 02:23:12</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>

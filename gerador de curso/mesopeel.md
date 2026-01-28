@@ -29,7 +29,7 @@ O treinamento mesopeel® professional da mesoestetic® apresenta um portefólio 
 - [Antes e Depois](https://drive.google.com/file/d/1OK_5MdJxWkrObUFlGqRt1tXZHfY1hRe2/view?usp=drive_link)
 - [Cápsula do Conhecimento](https://drive.google.com/file/d/1N95uoY6pRQ842khNDuXvQHCyyQqYox1_/view?usp=drive_link)
 - [Catálogo](https://drive.google.com/file/d/1R-si0wQPRpwE6ZL16uPxo1aNo_4a-_gs/view?usp=drive_link)
-[Estudo Clínico](https://drive.google.com/file/d/1kDhx4tJufMTgI_3le8NII0oYFW4KzFFl/view?usp=drive_link)
+- [Estudo Clínico](https://drive.google.com/file/d/1kDhx4tJufMTgI_3le8NII0oYFW4KzFFl/view?usp=drive_link)
 
 ## Quiz: Avaliação Final
 - **Duração:** 20 minutos
