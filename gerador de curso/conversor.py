@@ -25,7 +25,8 @@ class LearnPressGenerator:
             'melan 130 pigment control', 'melan tran3x', 'depigmentation solution',
             'age element', 'argibenone', 'cosmelan', 'NCTC', 'depigmentation',
             'melantranx', 'melantran3x', 'melaphenone', 'cosmesome', 'mesoestetic',
-            'mesoprotech', 'c.prof', 'idebenona', 'X-DNA', 'mesotox', 'dmae', 'vitamina c', 'glutathion', 'solution'
+            'mesoprotech', 'c.prof', 'idebenona', 'X-DNA', 'mesotox', 'dmae', 'vitamina c', 'glutathion', 'solution',
+            'mesopeel', 'blemiskin', 'melanostop tranex', 'jessner pro', 'eyecon', 'senopeptide'
         ]
 
     def normalize_brand_names(self, text):
