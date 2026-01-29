@@ -28,7 +28,8 @@ class LearnPressGenerator:
             'mesoprotech', 'c.prof', 'idebenona', 'X-DNA', 'mesotox', 'dmae', 'vitamina c', 'glutathion', 'solution',
             'mesopeel', 'blemiskin', 'melanostop tranex', 'jessner pro', 'eyecon', 'senopeptide',
             'skinmark', 'c.prof 223', 'darutosídeo', 'chlorella vulgaris', 'm.pen [pro]', 'PDRN', 'silício orgânico',
-            'x.prof', 'dna', 'mesotox solution', 'acetil hexapeptídeo-8', 'pentapeptídeo-18', 'silício', 'skinretin', 'retinal'
+            'x.prof', 'dna', 'mesotox solution', 'acetil hexapeptídeo-8', 'pentapeptídeo-18', 'silício', 'skinretin', 'retinal',
+            'redenx', 'mesohyal', 'Tripeptídeo 2KV', 'Tetrapeptídeo HNQV', 'Transetossomas'
         ]
 
     def normalize_brand_names(self, text):

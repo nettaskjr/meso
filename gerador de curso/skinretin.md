@@ -1,4 +1,4 @@
-# O envelhecimento não começa na superfície da pele. Ele começa no silêncio da célula.
+# Skinretin: O envelhecimento não começa na superfície da pele. Ele começa no silêncio da célula.
 
 ## Metadados
 - **Carga horária:** 20 minutos
@@ -31,9 +31,7 @@ O "skinretin xpert pack" é um tratamento profissional intensivo fundamentado em
 - [Cápsula do Conhecimento](https://drive.google.com/file/d/1Ej8zA_tjvE072Fmtotd8rT0ZmoTI3L8j/view?usp=drive_link)
 - [Estudo Clínico](https://drive.google.com/file/d/1J0TVN7rd6A8Iejv4e2HObGv91l5nL22F/view?usp=drive_link)
 
-## Seção: A aplicação da linha skinretin® no tratamento do envelhecimento
-Mergulhe no mundo do melasma, neste curso, você vai aprender como se forma o melasma. Vai conhecer a célula que forma a melanina e o que desencadeia o melasma, vamos explorar os tipos de hiperpigmentação e entender a melanogênese. E para combater o melasma iremos explorar toda a linha do cosmelan® o autêntico método despigmentante profissional, assim como todo o protocolo executado em cabine e em home care.
-
+## Seção: A aplicação da linha skinretin no tratamento do envelhecimento
 ### Aula 01: Melasma
 - **Duração:** 6 minutos
 - **Vídeo:** https://drive.google.com/file/d/1-ugdb_KKsu9MBH9yq6MsTi43OfINVLe_/view?usp=drive_link

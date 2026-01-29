@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Wed, 28 Jan 2026 14:16:11 +0000</pubDate>
+    <pubDate>Thu, 29 Jan 2026 00:52:15 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -76,9 +76,9 @@
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <item>
-      <title>O envelhecimento não começa na superfície da pele. Ele começa no silêncio da célula.</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=o-envelhecimento-nao-comeca-na-superficie-da-pele-ele-comeca-no-silencio-da-celula</link>
-      <pubDate>Wed, 28 Jan 2026 14:16:11 +0000</pubDate>
+      <title>skinretin: O envelhecimento não começa na superfície da pele. Ele começa no silêncio da célula.</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=skinretin-o-envelhecimento-nao-comeca-na-superficie-da-pele-ele-comeca-no-silencio-da-celula</link>
+      <pubDate>Thu, 29 Jan 2026 00:52:15 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
       <content:encoded><![CDATA[<p>O "skinretin xpert pack" é um tratamento profissional intensivo fundamentado em três pilares: o retinal (contém retinal, a forma mais potente da vitamina A, e retinol), que estimula a renovação celular, neocolagênese profunda e síntese de colágeno; os Exossomas (de Poejo Asiático com tecnologia antienvelhecimento 360º), que promovem a regeneração celular, ativam as vias antioxidantes e protegem o dna; e a tecnologia epigenética, que reativa genes da juventude e reduz marcadores epigenéticos do envelhecimento. O tratamento é composto por uma solução aquosa e uma solução oleosa, oferecendo uma dupla ação anti-idade, regenerando e protegendo a pele, e proporcionando benefícios como redução de rugas, firmeza e hidratação.</p>
@@ -107,8 +107,8 @@
 - <a href="https://drive.google.com/file/d/1J0TVN7rd6A8Iejv4e2HObGv91l5nL22F/view?usp=drive_link">Estudo Clínico</a></p>]]></content:encoded>
       <excerpt:encoded><![CDATA[O curso apresenta o skinretin xpert pack, um tratamento profissional inovador baseado em estética regenerativa. Através da combinação sinérgica de retinal potente, exossomos vegetais e tecnologia epigenética, o curso detalha como reverter sinais do envelhecimento silenciando marcadores epigenéticos e estimulando a síntese de colágeno profunda. O profissional aprenderá o protocolo bifásico exclusivo para proporcionar regeneração celular intensa, firmeza e redução de rugas com máximo conforto para o paciente.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
-      <wp:post_name>o-envelhecimento-nao-comeca-na-superficie-da-pele-ele-comeca-no-silencio-da-celula</wp:post_name>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
+      <wp:post_name>skinretin-o-envelhecimento-nao-comeca-na-superficie-da-pele-ele-comeca-no-silencio-da-celula</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
@@ -125,10 +125,10 @@
       <category domain="course_tag" nicename="skinretin" id="50007" parent="0" description=""><![CDATA[skinretin]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
-        <wp:section_name>A aplicação da linha skinretin® no tratamento do envelhecimento</wp:section_name>
+        <wp:section_name>A aplicação da linha skinretin no tratamento do envelhecimento</wp:section_name>
         <wp:section_course_id>99000</wp:section_course_id>
         <wp:section_order>1</wp:section_order>
-        <wp:section_description><![CDATA[Mergulhe no mundo do melasma, neste curso, você vai aprender como se forma o melasma. Vai conhecer a célula que forma a melanina e o que desencadeia o melasma, vamos explorar os tipos de hiperpigmentação e entender a melanogênese. E para combater o melasma iremos explorar toda a linha do cosmelan® o autêntico método despigmentante profissional, assim como todo o protocolo executado em cabine e em home care.]]></wp:section_description>
+        <wp:section_description><![CDATA[]]></wp:section_description>
         <wp:section_item>
           <wp:section_id>100</wp:section_id>
           <wp:item_id>100000</wp:item_id>
@@ -220,7 +220,7 @@
       <title>Aula 01: Melasma</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-01-melasma</wp:post_name>
@@ -239,7 +239,7 @@
       <title>Aula 02: Fototipos de peles</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100001</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-02-fototipos-de-peles</wp:post_name>
@@ -258,7 +258,7 @@
       <title>Aula 03: Entendendo a melanogênese</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100002</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-03-entendendo-a-melanogenese</wp:post_name>
@@ -277,7 +277,7 @@
       <title>Aula 04: Dominando o melasma</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100003</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-04-dominando-o-melasma</wp:post_name>
@@ -296,7 +296,7 @@
       <title>Aula 05: melaphenone®</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100004</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-05-melaphenone</wp:post_name>
@@ -315,7 +315,7 @@
       <title>Aula 06: cosmesome®</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100005</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-06-cosmesome</wp:post_name>
@@ -334,7 +334,7 @@
       <title>Aula 07: Contra indicações</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100006</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-07-contra-indicacoes</wp:post_name>
@@ -353,7 +353,7 @@
       <title>Aula 08: Aplicação cosmelan® 1 e jornada de tratamento</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100007</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-08-aplicacao-cosmelan-1-e-jornada-de-tratamento</wp:post_name>
@@ -372,7 +372,7 @@
       <title>Aula 09: Protocolo cosmelan®</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100008</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-09-protocolo-cosmelan</wp:post_name>
@@ -391,7 +391,7 @@
       <title>Aula 10: Aplicação em cabine</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100009</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-10-aplicacao-em-cabine</wp:post_name>
@@ -410,7 +410,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100010</wp:post_id>
-      <wp:post_date>2026-01-28 14:16:11</wp:post_date>
+      <wp:post_date>2026-01-29 00:52:15</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>
