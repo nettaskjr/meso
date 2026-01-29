@@ -11,6 +11,7 @@ Use este checklist para acompanhar o upload dos cursos na plataforma. Arquivos l
 - [x ] **NCTC.xml**
 - [x ] **silicio.xml**
 - [x ] **skinmark.xml**
+- [ ] **skinretin.xml**
 - [x ] **vitaminac.xml**
 - [ ] **xdna.xml**
 

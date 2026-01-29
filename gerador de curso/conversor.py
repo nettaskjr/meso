@@ -28,26 +28,25 @@ class LearnPressGenerator:
             'mesoprotech', 'c.prof', 'idebenona', 'X-DNA', 'mesotox', 'dmae', 'vitamina c', 'glutathion', 'solution',
             'mesopeel', 'blemiskin', 'melanostop tranex', 'jessner pro', 'eyecon', 'senopeptide',
             'skinmark', 'c.prof 223', 'darutosídeo', 'chlorella vulgaris', 'm.pen [pro]', 'PDRN', 'silício orgânico',
-            'x.prof', 'dna', 'mesotox solution', 'acetil hexapeptídeo-8', 'pentapeptídeo-18', 'silício'
+            'x.prof', 'dna', 'mesotox solution', 'acetil hexapeptídeo-8', 'pentapeptídeo-18', 'silício', 'skinretin', 'retinal'
         ]
 
     def normalize_brand_names(self, text):
         if not text: return ""
         
-        # Limpar símbolos existentes para evitar duplicidade e resíduos
-        text = text.replace('®', '')
+        # 1. Garante sempre mesoestetic® (adiciona se não houver)
+        # Regex que busca mesoestetic ignorando case e garante que tenha ® depois
+        text = re.sub(r'(mesoestetic)(?!®)', r'\1®', text, flags=re.IGNORECASE)
         
-        # Ordenar por tamanho decrescente para evitar substituições parciais
+        # 2. Normaliza a grafia dos outros produtos sem remover o símbolo ® caso ele exista
         sorted_products = sorted(self.brand_products, key=len, reverse=True)
-        
         for p in sorted_products:
+            if p.lower() == 'mesoestetic': continue
+            # Mantemos o ® se existir, apenas mudamos a caixa do texto
             pattern = re.compile(re.escape(p), re.IGNORECASE)
-            if p.lower() == 'mesoestetic':
-                text = pattern.sub(p + '®', text)
-            else:
-                text = pattern.sub(p, text)
+            text = pattern.sub(p, text)
         
-        # Correções de nomes que devem ser sempre maiúsculos
+        # Correções de nomes que devem ser sempre maiúsculos (casos residuais)
         text = text.replace('nctc', 'NCTC')
         text = text.replace('x-dna', 'X-DNA')
         return text

@@ -1,32 +1,43 @@
-curso: 
+curso: skinretin
 
-Título: 
+Título: O envelhecimento não começa na superfície da pele. Ele começa no silêncio da célula.
 
 Metadados
 Carga horária: 
-       Imagem: 
+       Imagem: 13606
       Setores: Todos os colaboradores, distribuidores e representantes
         Nível: Intermediário
     Categoria: Atendimento / Vendas, Distribuidores, Farmacêuticos, Gestores, Marketing, Produtos, Representantes
-         Tags: skinmark, antioxidante
+         Tags: skinretin
   Formador(a): Dra. Ana Cléia Barbosa
 
 Descrição:
+O "skinretin xpert pack" é um tratamento profissional intensivo fundamentado em três pilares: o Retinal (contém retinal, a forma mais potente da vitamina A, e retinol), que estimula a renovação celular, neocolagênese profunda e síntese de colágeno; os Exossomas (de Poejo Asiático com tecnologia antienvelhecimento 360º), que promovem a regeneração celular, ativam as vias antioxidantes e protegem o DNA; e a Tecnologia Epigenética, que reativa genes da juventude e reduz marcadores epigenéticos do envelhecimento. O tratamento é composto por uma solução aquosa e uma solução oleosa, oferecendo uma dupla ação anti-idade, regenerando e protegendo a pele, e proporcionando benefícios como redução de rugas, firmeza e hidratação.
 
 Conteúdo Programático:
+skinretin xpert pack
+Os 3 pilares do skinretin xpert pack
+Retinol-like, Retinol, Retinal e Ácido Retinóico? Entenda de vez a diferença!
+Retinol
+Benefícios dos derivados do retinol
+Exossomos Vegetais
+Benefícios dos exossomas
+Epigenética: O Poder de Mudar Sem Mudar o DNA
+Benefícios da epigenetica
+skinretin xpert pack – Tratamento profissional intensivo
 
 Material para Download:
-[Aula]()
-[Protocolo]()
+[Aula](https://drive.google.com/file/d/1I-O3UTz9Y313cIk8Ku1FsTX8MIgudvVx/view?usp=drive_link)
+[Protocolo](https://drive.google.com/file/d/15bfaP5ARIps0NO5E-cz2VVTYmINVCXXB/view?usp=drive_link)
 [Produto]()
-[Antes e Depois]()
-[Cápsula do Conhecimento]()
+[Antes e Depois](https://drive.google.com/file/d/10-W1h8gWlIvbOPuoAKFT1tQkCfFZl8S6/view?usp=drive_link)
+[Cápsula do Conhecimento](https://drive.google.com/file/d/1Ej8zA_tjvE072Fmtotd8rT0ZmoTI3L8j/view?usp=drive_link)
 [Catálogo]()
-[Estudo Clínico]()
+[Estudo Clínico](https://drive.google.com/file/d/1J0TVN7rd6A8Iejv4e2HObGv91l5nL22F/view?usp=drive_link)
 [Resultados Clínicos]() 
 
-(Não tem vídeos)
-Seção: A aplicação da linha skinmark® no tratamento do melasma
+(Atenção!!!! Tem vídeos, vou alterar os nomes depois)
+Seção: A aplicação da linha skinretin® no tratamento do envelhecimento
 Mergulhe no mundo do melasma, neste curso, você vai aprender como se forma o melasma. Vai conhecer a célula que forma a melanina e o que desencadeia o melasma, vamos explorar os tipos de hiperpigmentação e entender a melanogênese. E para combater o melasma iremos explorar toda a linha do cosmelan® o autêntico método despigmentante profissional, assim como todo o protocolo executado em cabine e em home care.
 Aula 01: Melasma
 Duração: 6 minutos
@@ -74,6 +85,76 @@ Nota de corte: 80%
 
 Pergunta: 
 Lembre-se de colocar (pergunta, opções e resposta correta)
+
+ AVALIAÇÃO DE CONHECIMENTO – SKINRETIN XPERT®
+A nova geração da regeneração celular
+
+ O que é o Skinretin Xpert®?
+( ) Um protocolo de limpeza e hidratação profunda.
+( ) Um protocolo europeu de regeneração celular que combina retinol, epigenética e exossomos vegetais.
+( ) Um tratamento apenas clareador.
+( ) Um peeling químico de ação superficial.
+✅ Resposta correta: Segunda alternativa.
+
+ O principal diferencial tecnológico do Skinretin Xpert® é:
+( ) O uso de nanopartículas metálicas.
+( ) A combinação bifásica de retinol puro com exossomos vegetais e ativos epigenéticos.
+( ) A presença de ácido hialurônico de alto peso molecular.
+( ) A ação mecânica de esfoliação física.
+✅ Resposta correta: Segunda alternativa.
+
+ Assinale as 3 alternativas verdadeiras:
+(x) São vesículas inteligentes que transportam DNA, RNA e proteínas entre células.
+( ) São exossomos sintéticos criados em laboratório.
+(x) Promovem comunicação celular precisa e regeneração epigenética.
+(x) São derivados de origem vegetal, sustentáveis e biocompatíveis.
+
+  Assinale as 3 alternativas verdadeiras sobre as fases da fórmula bifásica:
+(x) A fase aquosa é responsável pela renovação celular e estímulo de colágeno.
+( ) A fase oleosa atua apenas na esfoliação mecânica.
+(x) A fase oleosa garante nutrição, conforto e reparo da barreira cutânea.
+(x) Ambas as fases atuam de forma sinérgica para resultados regenerativos.
+
+ Sobre a fase aquosa, assinale a alternativa correta:
+( ) Contém Retinol, Retinal e Exossomos de Poejo Asiático, com ação epigenética e antioxidante.
+( ) Atua apenas na hidratação da pele.
+( ) É composta exclusivamente por óleos e ceramidas.
+( ) Promove descamação intensa e desconforto.
+✅ Resposta correta: Primeira alternativa.
+
+ O ativo Retinoato de Hidroxipinacolona se destaca porque:
+( ) É um retinoide que atua diretamente nos receptores RAR, promovendo regeneração sem irritação.
+( ) É um ácido alfa-hidroxi com ação hidratante.
+( ) É uma ceramida responsável pela barreira cutânea.
+( ) Atua apenas na superfície da pele.
+✅ Resposta correta: Primeira alternativa.
+
+ No protocolo profissional do Skinretin Xpert®, qual é o modo correto de uso das fases aquosa e oleosa?
+( ) Aplicar separadamente, com intervalo de 24 horas.
+( ) Misturar 1 mL da fase aquosa e 1 mL da fase oleosa antes da aplicação.
+( ) Aplicar somente a fase oleosa e remover após 10 minutos.
+( ) Misturar ambas as fases em partes iguais de 5 mL.
+✅ Resposta correta: Segunda alternativa.
+
+  Assinale as 3 alternativas verdadeiras sobre o protocolo profissional:
+(x) O produto é aplicado com luvas e massagem Kobido até completa absorção.
+( ) Após a aplicação, o produto deve ser removido com algodão úmido.
+(x) O protocolo inclui o uso de Mesopeel® como etapa preparatória.
+(x) A finalização é feita com Crystal Fiber Mask e Mesoprotech® Melan 130+.
+
+  Assinale as 3 alternativas verdadeiras. Quais são os benefícios clínicos do protocolo Skinretin Xpert®?
+(x) Redução de rugas e linhas finas.
+(x) Uniformização do tom da pele.
+(x) Melhora da densidade e elasticidade cutânea.
+( ) Efeito de descamação intensa e irritação visível.
+
+
+ Sobre o conceito de estética regenerativa, assinale a alternativa correta:
+(x) É uma abordagem que estimula a regeneração natural da pele por meio da reprogramação celular.
+( ) Baseia-se apenas em procedimentos mecânicos e invasivos.
+( ) Não tem relação com epi genética.
+( ) Envolve apenas o uso de antioxidantes tópicos.
+✅ Resposta correta: Primeira alternativa.
 
 
 Resumo:
