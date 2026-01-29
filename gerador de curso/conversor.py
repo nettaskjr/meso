@@ -29,7 +29,8 @@ class LearnPressGenerator:
             'mesopeel', 'blemiskin', 'melanostop tranex', 'jessner pro', 'eyecon', 'senopeptide',
             'skinmark', 'c.prof 223', 'darutosídeo', 'chlorella vulgaris', 'm.pen [pro]', 'PDRN', 'silício orgânico',
             'x.prof', 'dna', 'mesotox solution', 'acetil hexapeptídeo-8', 'pentapeptídeo-18', 'silício', 'skinretin', 'retinal',
-            'redenx', 'mesohyal', 'Tripeptídeo 2KV', 'Tetrapeptídeo HNQV', 'Transetossomas'
+            'redenx', 'mesohyal', 'Tripeptídeo 2KV', 'Tetrapeptídeo HNQV', 'Transetossomas',
+            'melantran3x', 'melan tran3x', 'c.prof 210', 'Try Control Peptídeo', 'N-acetil glucosamina', 'idebenona', 'azeloglicina'
         ]
 
     def normalize_brand_names(self, text):

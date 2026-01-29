@@ -15,7 +15,8 @@ Use este checklist para acompanhar o upload dos cursos na plataforma. Arquivos l
 - 11-[x] **vitaminac.xml**
 - 12-[x] **xdna.xml**
 - 13-[x] **redenx.xml**
-- 14-[ ] **melantranex.xml**
+- 14-[x] **melantran3x.xml**
+- 22-[ ] **photoaging.xml**
 
 - 15-[ ] **cafeina.xml**
 - 16-[ ] **mesoestabyl.xml**
@@ -24,7 +25,7 @@ Use este checklist para acompanhar o upload dos cursos na plataforma. Arquivos l
 - 19-[ ] **cellulichoc.xml**
 - 20-[ ] **lamitina.xml**
 - 21-[ ] **m.pen.xml**
-- 22-[ ] **photoaging.xml**
+
 
 ---
 **Instruções de Importação:**
