@@ -1,41 +1,42 @@
-curso: melantran3x
+curso: photoaging
 
-Título: melantran3x: Desvendando o melasma e a utilização do produto depigmentation solution® e c.prof 210 depigmentation solution.
+Título: photoaging solution® ou c.prof 211 photoaging solution
 
 Metadados
 Carga horária: 
-       Imagem: 13668
+       Imagem: 13711
       Setores: Todos os colaboradores, distribuidores e representantes
         Nível: Intermediário
     Categoria: Atendimento / Vendas, Distribuidores, Farmacêuticos, Gestores, Marketing, Produtos, Representantes
-         Tags: melantran3x
+         Tags: photoaging
   Formador(a): Dra. Ana Cléia Barbosa
 
 Descrição:
-O treinamento tem como foco principal o Desvendando o melasma e a linha de produtos PIGMENT CONTROL SOLUTIONS da mesoestetic. O conteúdo aborda a fisiopatologia da hiperpigmentação, explicando como as manchas são construídas através das etapas de produção, transferência, ascensão e acúmulo de melanina. É detalhada a ação do produto profissional c.prof 210 depigmentation solution (também referido como depigmentation solution®), que possui dupla ação (corretiva e reguladora) e combina ácido tranexâmico, vitamina C, N-acetil glucosamina e idebenona. O treinamento também apresenta a linha de uso domiciliar melan tran3x (concentrado e gel cream), que utiliza um mecanismo de ação sinérgica depigmentante, e o protetor solar mesoprotech® melan 130 pigment control, essencial para o controle da pigmentação.
+O treinamento photoaging solution® (ou c.prof 211 photoaging solution), subtitulado como "Um booster mitocondrial", apresenta uma solução profissional da mesoestetic com uma combinação exclusiva de Ácido Hialurônico, Idebenona, Taurina e Vitamina C, com foco em efeitos redensificantes, hidratantes e antioxidantes. O produto é um poderoso antioxidante que neutraliza radicais livres, estimula a produção de colágeno, inibe a produção excessiva de melanina e atua como protetor mitocondrial e reparador de danos celulares. A Idebenona, um de seus componentes, é um transportador de elétrons que facilita a geração de ATP, reduz o estresse oxidativo e protege contra a apoptose celular, enquanto a Taurina inibe a MMP-1, preservando o colágeno e a elastina. O objetivo geral do tratamento é combater o fotoenvelhecimento, suavizar rugas e linhas finas, clarear manchas e restaurar a luminosidade da pele.
 
 Conteúdo Programático:
-Desvendando o melasma
-Fisiopatologia da hiperpigmentação
-Melanogênese e melanina
-Como se produzem as manchas? (Produção, Transferência, Ascenção e Acumulação)
-A mancha não nasce pronta — ela é construída
-c.prof 210 depigmentation solution (Ações e Composição)
-Como age o depigmentation solution®? (Dupla Ação: corretiva e reguladora)
-Ácido tranexâmico (Mecanismo de ação na inflamação e vascularização)
-melan tran3x (Produtos de uso domiciliar e Fórmulas de ação sinérgica depigmentantion)
-mesoprotech® melan 130 pigment control (Proteção solar e Ativo Azeloglicina)
+photoaging solution®
+Um booster mitocondrial
+Composição Exclusiva
+Booster photoaging solution®
+Vitamina C
+Benefícios da vitamina C
+Ácido Hialurônico não Reticulado
+Idebenona
+Taurina
+Quais são os seus benefícios?
 
 Material para Download:
-[Aula](https://drive.google.com/file/d/1cnyeQmphzRhpnFHoG6lYqFc46n2o-vI5/view?usp=drive_link)
-[Protocolo](https://drive.google.com/file/d/149JQ3nVKnlsShL70lOyztun9y_FtDrkR/view?usp=drive_link)
-[Produto](https://drive.google.com/file/d/12oIN0PiBLrlzPtLhE7CZQ3qsDc29sdDt/view?usp=drive_link)
-[Antes e Depois](https://drive.google.com/file/d/1q-vkM3EZQ8uC6ZDAK-ar939EYyVyGy3D/view?usp=drive_link)
-[Cápsula do Conhecimento](https://drive.google.com/file/d/1IoXuLHSq8ejhr2cFb1vQIFGTTAwuPkH5/view?usp=drive_link)
+[Aula](https://drive.google.com/file/d/1L_EdUjS5x9_4uSqvTjbfDOPTDleqpxYn/view?usp=drive_link)
+[Protocolo](https://drive.google.com/file/d/1WNdbRzeTvJmnDkFU2fJIyDkTUBMOoHn2/view?usp=drive_link)
+[Produto]()
+[Antes e Depois](https://drive.google.com/file/d/1m5lGkZtay5NeJ-PWNxgtxxoMEjRx6zkK/view?usp=drive_link)
+[Cápsula do Conhecimento](https://drive.google.com/file/d/1yK9wDV-EuhQE_ObSB66UR_xw539E_zLe/view?usp=drive_link)
 [Catálogo]()
+[Estudo Clínico](https://drive.google.com/file/d/1WgQ28dL_FGbgqvRhNF-sp1PT7VUT8PsE/view?usp=drive_link)
 
-(Atenção!!!! Tem vídeos, vou alterar os nomes depois)
-Seção: A aplicação da linha melantran3x® no tratamento do envelhecimento
+(Não tem videos)
+Seção: A aplicação da linha photoaging® no tratamento do envelhecimento
 Aula 01: Anatomia da pele
 Duração: 1 minuto
 Vídeo: https://drive.google.com/file/d/1xzanehKsYpppBovhQrUl5k4iMrUduSfL/view?usp=drive_link
@@ -46,79 +47,80 @@ Nota de corte: 80%
 
 Pergunta: 
 Lembre-se de colocar (pergunta, opções e resposta correta)
-AVALIAÇÃO AVANÇADA – MELAN TRAN3X®
-1. O ácido tranexâmico reduz a hiperpigmentação principalmente porque:
-a) Bloqueia diretamente a enzima tirosinase na sua fase catalítica
-b) Inibe a ação da plasmina, reduzindo inflamação, ET-1 e estímulo melanocítico
-c) Oxida a melanina já formada, facilitando sua eliminação
-d) Atua apenas sobre pigmentação epidérmica superficial
+AVALIAÇÃO  – PHOTOAGING SOLUTION®
 
-2. O Try Control Peptídeo é considerado um ativo epigenético porque:
-a) Aumenta a espessura epidérmica
-b) Modula a expressão de genes ligados à melanogênese, reduzindo TRP-1, TRP-2 e MITF
-c) Age apenas na barreira cutânea
-d) Atua exclusivamente na hidratação e cicatrização
+1. O photoaging solution® atua principalmente em qual estrutura celular?
+a) Membrana celular
+b) Mitocôndria
+c) Núcleo
+d) Lisossomos
 
-3. Ao modular MITF, o Melan Tran3x:
-a) Aumenta a velocidade da melanogênese
-b) Reduz a transcrição de tirosinase e proteínas relacionadas
-c) Intensifica a oxidação de melanina
-d) Estimula melanossomas a migrarem mais rapidamente
+2. Qual ativo do photoaging solution® é considerado um antioxidante mitocondrial de alta performance?
+a) DMAE
+b) Idebenona
+c) Taurina
+d) Ácido hialurônico
 
-4. A sinergia entre AHA e BHA no Gel Cream promove:
-a) Exfoliação agressiva e instabilidade da barreira cutânea
-b) Aumento da melanogênese por inflamação
-c) Renovação suave e liberação do pigmento compactado, melhorando a permeabilidade
-d) Inibição direta da tirosinase pela ação ácida
-5. . O Melan Tran3x pode ser definido como:
-a) Um clareador superficial de ação cosmética
-b) Um sistema despigmentante de uso domiciliar com ação multinível
-c) Um peeling químico de cabine
-d) Um mero hidratante com ativos calmantes
+3. A Vitamina C presente no photoaging solution® promove:
+a) Redução exclusiva da oleosidade
+b) Aumento da espessura da epiderme
+c) Estímulo de colágeno e clareamento
+d) Aumento da melanina
 
+4. A Taurina atua principalmente em:
+a) Aumentar a oleosidade da pele
+b) Inibir MMP-1 e preservar colágeno
+c) Provocar descamação intensa
+d) Aumentar a pigmentação da pele
 
+5. O ácido hialurônico não reticulado se liga ao receptor:
+a) CD20
+b) CD44
+c) TLR4
+d) CXCR1
 
-6. A alanina presente no Melan Tran3x atua principalmente:
-a) Inibindo a polimerização da eumelanina ao reduzir a atividade de TRP-2
-b) Aumentando síntese de feomelanina vermelha
-c) Hidratando profundamente a epiderme
-d) Estimulando fibroblastos a produzirem colágeno
+6. Uma das funções da Idebenona é:
+a) Diminuir a produção de vitamina C
+b) Aumentar ROS na mitocôndria
+c) Facilitar a produção de ATP
+d) Bloquear permeação transcutânea
 
-7. A ativação da autofagia pelos componentes do Melan Tran3x resulta em:
-a) Recidiva mais rápida da hiperpigmentação
-b) Degradação lisossomal dos melanossomas já formados
-c) Estímulo aos melanócitos para maior produção de pigmento
-d) Liberação de melanina para camadas mais profundas da derme
+7. O protocolo com m.pen[pro] utiliza quantas sessões recomendadas?
+a) 3 sessões
+b) 4 sessões
+c) 5 sessões
+d) 8 sessões
 
-8. A ação do ácido kójico no Melan Tran3x se destaca por:
-a) Oxidar melanina e mudar sua cor
-b) Quelar íons cobre da tirosinase, inativando sua função catalítica
-c) Aumentar atividade de MITF
-d) Atuar apenas em peles fototipo I e II
+8. O intervalo recomendado entre as sessões é:
+a) Semanal
+b) Quinzenal
+c) Mensal
+d) A cada 45 dias
 
-9. A proteção solar Mesoprotech Melan 130 é indispensável porque:
-a) Possui FPS alto, porém sem proteção específica contra HEV
-b) Atua apenas na radiação infravermelha
-c) Entrega proteção UVB, UVA, HEV e IR + azeloglicina reguladora de tirosinase
-d) É suficiente ser aplicada apenas uma vez por dia
+9. O pH fisiológico do photoaging solution® garante:
+a) Maior irritação cutânea
+b) Melhor tolerância e segurança do procedimento
+c) Redução da eficácia dos ativos
+d) Necessidade de neutralização após aplicação
 
-10. A característica que torna o Melan Tran3x um sistema superior a clareadores tradicionais é:
-a) A presença de fragrância e textura leve
-b) Ação unidirecional apenas sobre tirosinase
-c) Ação multinível: síntese, maturação, transferência, inflamação, barreira e autofagia
-d) Clareamento rápido, mas com maior risco de rebote
+10. A sinergia entre Vitamina C, Idebenona e Taurina resulta principalmente em:
+a) Aumento de oleosidade
+b) Estresse oxidativo elevado
+c) Forte ação antioxidante e proteção celular profunda
+d) Bloqueio da permeação dos ativos
 
-✅ GABARITO
-1 — b
-2 — b
-3 — b
-4 — c
-5 — b
-6 — a
-7 — b
-8 — b
-9 — c
-10 — c
+GABARITO
+b
+b
+c
+b
+b
+c
+c
+b
+b
+c
+
 
 Resumo:
 Faça um resumo do curso baseado na descricao
