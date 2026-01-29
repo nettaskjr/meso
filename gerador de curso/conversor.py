@@ -30,27 +30,25 @@ class LearnPressGenerator:
             'skinmark', 'c.prof 223', 'darutosídeo', 'chlorella vulgaris', 'm.pen [pro]', 'PDRN', 'silício orgânico',
             'x.prof', 'dna', 'mesotox solution', 'acetil hexapeptídeo-8', 'pentapeptídeo-18', 'silício', 'skinretin', 'retinal',
             'redenx', 'mesohyal', 'Tripeptídeo 2KV', 'Tetrapeptídeo HNQV', 'Transetossomas',
-            'melantran3x', 'melan tran3x', 'c.prof 210', 'Try Control Peptídeo', 'N-acetil glucosamina', 'idebenona', 'azeloglicina'
+            'melantran3x', 'melan tran3x', 'c.prof 210', 'Try Control Peptídeo', 'N-acetil glucosamina', 'idebenona', 'azeloglicina',
+            'solutions'
         ]
 
     def normalize_brand_names(self, text):
         if not text: return ""
         
-        # 1. Garante sempre mesoestetic® (adiciona se não houver)
-        # Regex que busca mesoestetic ignorando case e garante que tenha ® depois
-        text = re.sub(r'(mesoestetic)(?!®)', r'\1®', text, flags=re.IGNORECASE)
+        # 1. Garante sempre mesoestetic® (preservando o caso original do texto: Mesoestetic -> Mesoestetic®)
+        text = re.sub(r'\b(mesoestetic)\b(?!®)', r'\1®', text, flags=re.IGNORECASE)
         
-        # 2. Normaliza a grafia dos outros produtos sem remover o símbolo ® caso ele exista
-        sorted_products = sorted(self.brand_products, key=len, reverse=True)
-        for p in sorted_products:
-            if p.lower() == 'mesoestetic': continue
-            # Mantemos o ® se existir, apenas mudamos a caixa do texto
-            pattern = re.compile(re.escape(p), re.IGNORECASE)
-            text = pattern.sub(p, text)
+        # 2. Normaliza apenas as exceções que DEVEM ser sempre maiúsculas
+        exceptions = ['NCTC', 'X-DNA', 'PDRN']
+        for exc in exceptions:
+            pattern = re.compile(r'\b' + re.escape(exc) + r'\b', re.IGNORECASE)
+            text = pattern.sub(exc, text)
+            
+        # Nota: Removida a conversão forçada para minúsculas dos outros produtos 
+        # para respeitar a grafia original do arquivo (ex: SOLUTIONS continuará SOLUTIONS)
         
-        # Correções de nomes que devem ser sempre maiúsculos (casos residuais)
-        text = text.replace('nctc', 'NCTC')
-        text = text.replace('x-dna', 'X-DNA')
         return text
 
     def parse_markdown(self):

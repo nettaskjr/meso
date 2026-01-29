@@ -1,4 +1,4 @@
-# melantran3x: Desvendando o melasma e a utilização do produto depigmentation solution® e c.prof 210 depigmentation solution
+# melantran3x: Desvendando o melasma
 
 ## Metadados
 - **Carga horária:** 15 minutos
@@ -29,6 +29,7 @@ O treinamento tem como foco principal o desvendando o melasma e a linha de produ
 - [Protocolo](https://drive.google.com/file/d/149JQ3nVKnlsShL70lOyztun9y_FtDrkR/view?usp=drive_link)
 - [Produto](https://drive.google.com/file/d/12oIN0PiBLrlzPtLhE7CZQ3qsDc29sdDt/view?usp=drive_link)
 - [Antes e Depois](https://drive.google.com/file/d/1q-vkM3EZQ8uC6ZDAK-ar939EYyVyGy3D/view?usp=drive_link)
+- [Cápsula do Conhecimento](https://drive.google.com/file/d/1IoXuLHSq8ejhr2cFb1vQIFGTTAwuPkH5/view?usp=drive_link)
 
 ## Seção: A aplicação da linha melantran3x® no tratamento do envelhecimento
 
