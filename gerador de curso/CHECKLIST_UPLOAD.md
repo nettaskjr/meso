@@ -18,12 +18,14 @@ Use este checklist para acompanhar o upload dos cursos na plataforma. Arquivos l
 - 14-[x] **melantran3x.xml**
 - 22-[x] **photoaging.xml**
 
-- 15-[ ] **cafeina.xml**
+- 15-[x] **cafeina.xml**
+- 18-[x] **lipolytic.xml**
+- 17-[x] **glutathion.xml**
+- 20-[x] **l-carnitina.xml**
+
+
 - 16-[ ] **mesoestabyl.xml**
-- 17-[ ] **glutathione.xml**
-- 18-[ ] **lipolytic.xml**
 - 19-[ ] **cellulichoc.xml**
-- 20-[ ] **l.carnitina.xml**
 - 21-[ ] **m.pen.xml**
 
 

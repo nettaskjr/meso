@@ -1,0 +1,685 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:wp="http://wordpress.org/export/4.1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/4.1.0/excerpt/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  <channel>
+    <title>Mesoestetic Academy</title>
+    <link>https://academy.mesoestetic.com.br</link>
+    <description>Cursos e Treinamentos</description>
+    <pubDate>Fri, 30 Jan 2026 19:28:27 +0000</pubDate>
+    <language>pt-BR</language>
+    <wp:wxr_version>4.1.0</wp:wxr_version>
+    <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
+    <wp:base_blog_url>https://academy.mesoestetic.com.br</wp:base_blog_url>
+    <wp:plugin_name>learnpress</wp:plugin_name>
+    <wp:plugin_version>4.1.0</wp:plugin_version>
+    <wp:term>
+      <wp:term_id>50000</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>atendimento-vendas</wp:term_slug>
+      <wp:term_name><![CDATA[Atendimento / Vendas]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50001</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>distribuidores</wp:term_slug>
+      <wp:term_name><![CDATA[Distribuidores]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50002</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>farmaceuticos</wp:term_slug>
+      <wp:term_name><![CDATA[Farmacêuticos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50003</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>gestores</wp:term_slug>
+      <wp:term_name><![CDATA[Gestores]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50004</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>marketing</wp:term_slug>
+      <wp:term_name><![CDATA[Marketing]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50005</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>produtos</wp:term_slug>
+      <wp:term_name><![CDATA[Produtos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50006</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>representantes</wp:term_slug>
+      <wp:term_name><![CDATA[Representantes]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50007</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>cafeina</wp:term_slug>
+      <wp:term_name><![CDATA[cafeina]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <item>
+      <title>x.prof 011® Cafeína: O despertar metabólico do tecido</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=x-prof-011-cafeina-o-despertar-metabolico-do-tecido</link>
+      <pubDate>Fri, 30 Jan 2026 19:28:27 +0000</pubDate>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
+      <content:encoded><![CDATA[<p>O treinamento "x.prof 011® Cafeína" apresenta a cafeína como uma solução lipolítica de alta performance para o tratamento de gordura localizada e HLDG (celulite). Com concentração de 20%, a cafeína atua como o "despertar metabólico do tecido", estimulando a lipólise através da inibição da fosfodiesterase e aumento dos níveis de AMPc. Isso promove a quebra de triglicerídeos em ácidos graxos e glicerol, além de aumentar o metabolismo basal local e a termogênese. Os benefícios clínicos incluem a melhora da microcirculação, oxigenação tecidual e redução de edema, resultando em uma pele mais firme, lisa e revitalizada, com melhora visível do contorno corporal.</p>
+<!-- Metadados do Curso -->
+<strong>Carga horária:</strong> 20 min<br>
+<strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
+<strong>Nível:</strong> Intermediário<br>
+<strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
+<br>
+<p><strong>Conteúdo Programático:</strong>
+- x.prof 011® Cafeína
+- O despertar metabólico do tecido
+- Como age a cafeína?
+- Estimulando a lipólise
+- Termogênese e gasto energético
+- Melhora da microcirculação e HLDG (celulite)
+- Resultados clínicos</p>
+<p><strong>Material para Download:</strong>
+- <a href="https://drive.google.com/file/d/1O0bc5iqrok6qJvBp_UIWZw9_foGqbdf6/view?usp=drive_link">Aula</a>
+- <a href="https://drive.google.com/file/d/1tXfXT05ZviBXC4YISzCKzxSwvT8Y8z3a/view?usp=drive_link">Protocolo</a>
+- <a href="">Antes e Depois</a>
+- <a href="https://drive.google.com/file/d/1pveVFwuOpTJMGlSLvOoVraSEGNX3V4Yn/view?usp=drive_link">Cápsula do Conhecimento</a>
+- <a href="https://drive.google.com/file/d/1EcW-OkWhtQJgD0LkiiNrr4sWu1q6NdOi/view?usp=drive_link">OS BENEFÍCIOS FARMACOLÓGICOS DA CAFEÍNA PARA A REDUÇÃO DE GORDURA LOCALIZADA</a>
+- <a href="https://drive.google.com/file/d/1Nq0OgTDnqvCITTOcxKLiRmbCdNb6vEKd/view?usp=drive_link">Avaliação de injeções mesoterapêuticas de três diferentes combinações de agentes lipolíticos para contorno corporal</a>
+- <a href="https://drive.google.com/file/d/1hR4oEmr7_ZTesBpHSkNsjOHOTiIFviN7/view?usp=drive_link">MECANISMO DE AÇÃO DE COMPOSTOS UTILIZADOS NA COSMÉTICA PARA O TRATAMENTO DA GORDURA LOCALIZADA E DA CELULITE</a></p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[O treinamento apresenta a cafeína 20% como um potente ativo lipolítico e estimulante metabólico para tratamentos corporais. Através da ativação da lipólise por inibição da fosfodiesterase, o curso detalha como a cafeína promove a quebra de gordura, melhora a microcirculação e reduz o aspecto da celulite (HLDG). O profissional aprenderá os mecanismos de ação tecidual e como este ativo pode ser o "despertar metabólico" para resultados superiores em contorno corporal e firmeza da pele.]]></excerpt:encoded>
+      <wp:post_id>99000</wp:post_id>
+      <wp:post_date>2026-01-30 19:28:27</wp:post_date>
+      <wp:post_name>x-prof-011-cafeina-o-despertar-metabolico-do-tecido</wp:post_name>
+      <wp:status>draft</wp:status>
+      <wp:post_type>lp_course</wp:post_type>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[13725]]></wp:meta_value>
+      </wp:postmeta>
+      <category domain="course_category" nicename="atendimento-vendas" id="50000" parent="0" description=""><![CDATA[Atendimento / Vendas]]></category>
+      <category domain="course_category" nicename="distribuidores" id="50001" parent="0" description=""><![CDATA[Distribuidores]]></category>
+      <category domain="course_category" nicename="farmaceuticos" id="50002" parent="0" description=""><![CDATA[Farmacêuticos]]></category>
+      <category domain="course_category" nicename="gestores" id="50003" parent="0" description=""><![CDATA[Gestores]]></category>
+      <category domain="course_category" nicename="marketing" id="50004" parent="0" description=""><![CDATA[Marketing]]></category>
+      <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
+      <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
+      <category domain="course_tag" nicename="cafeina" id="50007" parent="0" description=""><![CDATA[cafeina]]></category>
+      <wp:section>
+        <wp:section_id>100</wp:section_id>
+        <wp:section_name>Avaliação Final</wp:section_name>
+        <wp:section_course_id>99000</wp:section_course_id>
+        <wp:section_order>1</wp:section_order>
+        <wp:section_description><![CDATA[]]></wp:section_description>
+        <wp:section_item>
+          <wp:section_id>100</wp:section_id>
+          <wp:item_id>100000</wp:item_id>
+          <wp:item_order>1</wp:item_order>
+          <wp:item_type>lp_quiz</wp:item_type>
+        </wp:section_item>
+      </wp:section>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[20 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_level</wp:meta_key>
+        <wp:meta_value><![CDATA[Intermediário]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_instructor</wp:meta_key>
+        <wp:meta_value><![CDATA[Dra. Ana Cléia Barbosa]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Avaliação Final</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <wp:post_id>100000</wp:post_id>
+      <wp:post_date>2026-01-30 19:28:27</wp:post_date>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_quiz</wp:post_type>
+      <wp:post_name>avaliacao-final</wp:post_name>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[20 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_passing_grade</wp:meta_key>
+        <wp:meta_value><![CDATA[80]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_retake_count</wp:meta_key>
+        <wp:meta_value><![CDATA[10]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_show_result</wp:meta_key>
+        <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_show_check_answer</wp:meta_key>
+        <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100001</wp:question_id>
+        <wp:question_order>1</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100002</wp:question_id>
+        <wp:question_order>2</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100003</wp:question_id>
+        <wp:question_order>3</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100004</wp:question_id>
+        <wp:question_order>4</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100005</wp:question_id>
+        <wp:question_order>5</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100006</wp:question_id>
+        <wp:question_order>6</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100007</wp:question_id>
+        <wp:question_order>7</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100008</wp:question_id>
+        <wp:question_order>8</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100009</wp:question_id>
+        <wp:question_order>9</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100010</wp:question_id>
+        <wp:question_order>10</wp:question_order>
+      </wp:question>
+      <wp:postmeta>
+        <wp:meta_key>_lp_course</wp:meta_key>
+        <wp:meta_value><![CDATA[99000]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A principal ação da cafeína no tecido adiposo ocorre por meio de:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100001</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-principal-acao-da-cafeina-no-tecido-adiposo-ocorre-por-meio-de</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Inibição direta da lipase hormônio-sensível]]></wp:answer_title>
+        <wp:answer_value>val_100001_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Estímulo da fosfodiesterase, reduzindo AMPc]]></wp:answer_title>
+        <wp:answer_value>val_100001_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Inibição da fosfodiesterase, aumentando os níveis de AMPc]]></wp:answer_title>
+        <wp:answer_value>val_100001_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Bloqueio dos receptores adrenérgicos]]></wp:answer_title>
+        <wp:answer_value>val_100001_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A cafeína contribui para a melhora do aspecto da celulite principalmente porque:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100002</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-cafeina-contribui-para-a-melhora-do-aspecto-da-celulite-principalmente-porque</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Estimula apenas a síntese de colágeno dérmico]]></wp:answer_title>
+        <wp:answer_value>val_100002_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Reduz o tamanho do adipócito e melhora a microcirculação local]]></wp:answer_title>
+        <wp:answer_value>val_100002_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Atua exclusivamente na drenagem linfática]]></wp:answer_title>
+        <wp:answer_value>val_100002_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Inibe a ação das catecolaminas]]></wp:answer_title>
+        <wp:answer_value>val_100002_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A cafeína potencializa a lipólise principalmente por:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100003</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-cafeina-potencializa-a-lipolise-principalmente-por</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Estimular diretamente a síntese de colágeno]]></wp:answer_title>
+        <wp:answer_value>val_100003_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Aumentar a liberação de catecolaminas e a atividade da lipase]]></wp:answer_title>
+        <wp:answer_value>val_100003_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Inibir a oxidação mitocondrial]]></wp:answer_title>
+        <wp:answer_value>val_100003_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Atuar apenas como vasoconstritora]]></wp:answer_title>
+        <wp:answer_value>val_100003_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>No contexto da HLDG (celulite), a cafeína é especially indicada porque:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100004</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>no-contexto-da-hldg-celulite-a-cafeina-e-especially-indicada-porque</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Atua apenas no edema linfático]]></wp:answer_title>
+        <wp:answer_value>val_100004_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Reduz exclusivamente a fibrose dérmica]]></wp:answer_title>
+        <wp:answer_value>val_100004_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Estimula lipólise e melhora a microcirculação local]]></wp:answer_title>
+        <wp:answer_value>val_100004_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Substitui completamente as tecnologias energéticas]]></wp:answer_title>
+        <wp:answer_value>val_100004_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Um dos efeitos fisiológicos secundários da cafeína é:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100005</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>um-dos-efeitos-fisiologicos-secundarios-da-cafeina-e</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Aumento da retenção hídrica]]></wp:answer_title>
+        <wp:answer_value>val_100005_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Diminuição do fluxo sanguíneo]]></wp:answer_title>
+        <wp:answer_value>val_100005_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Estímulo da microcirculação]]></wp:answer_title>
+        <wp:answer_value>val_100005_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Inibição da oxigenação tecidual]]></wp:answer_title>
+        <wp:answer_value>val_100005_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A associação da cafeína com tecnologias térmicas (ex: radiofrequência) promove:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100006</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-associacao-da-cafeina-com-tecnologias-termicas-ex-radiofrequencia-promove</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Neutralização do efeito lipolítico]]></wp:answer_title>
+        <wp:answer_value>val_100006_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Redução da penetração do ativo]]></wp:answer_title>
+        <wp:answer_value>val_100006_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Sinergia metabólica com maior mobilização de gordura]]></wp:answer_title>
+        <wp:answer_value>val_100006_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Apenas estímulo sensorial superficial]]></wp:answer_title>
+        <wp:answer_value>val_100006_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A cafeína atua preferencialmente em qual tipo de gordura corporal?</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100007</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-cafeina-atua-preferencialmente-em-qual-tipo-de-gordura-corporal</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Gordura visceral]]></wp:answer_title>
+        <wp:answer_value>val_100007_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Gordura marrom]]></wp:answer_title>
+        <wp:answer_value>val_100007_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Gordura subcutânea localizada]]></wp:answer_title>
+        <wp:answer_value>val_100007_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Gordura intramuscular]]></wp:answer_title>
+        <wp:answer_value>val_100007_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Em protocolos corporais, a cafeína é considerada um ativo:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100008</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>em-protocolos-corporais-a-cafeina-e-considerada-um-ativo</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Estrutural dérmico]]></wp:answer_title>
+        <wp:answer_value>val_100008_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Bioestimulador de colágeno direto]]></wp:answer_title>
+        <wp:answer_value>val_100008_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Lipolítico e estimulante metabólico]]></wp:answer_title>
+        <wp:answer_value>val_100008_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Exclusivamente drenante]]></wp:answer_title>
+        <wp:answer_value>val_100008_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Em relação ao uso da cafeína em protocolos corporais, é correto afirmar que:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100009</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>em-relacao-ao-uso-da-cafeina-em-protocolos-corporais-e-correto-afirmar-que</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Seu efeito é apenas cosmético e imediato]]></wp:answer_title>
+        <wp:answer_value>val_100009_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Atua melhor quando aplicada isoladamente, sem estímulos físicos]]></wp:answer_title>
+        <wp:answer_value>val_100009_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Apresenta melhor desempenho quando associada a técnicas que aumentam a circulação e a permeabilidade cutânea]]></wp:answer_title>
+        <wp:answer_value>val_100009_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Não deve ser associada a outros ativos lipolíticos]]></wp:answer_title>
+        <wp:answer_value>val_100009_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O principal objetivo clínico da cafeína em tratamentos corporais é:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100010</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-principal-objetivo-clinico-da-cafeina-em-tratamentos-corporais-e</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Aumentar o volume do adipócito]]></wp:answer_title>
+        <wp:answer_value>val_100010_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Promover lipólise, melhora do contorno e aspecto da pele]]></wp:answer_title>
+        <wp:answer_value>val_100010_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Substituir a reeducação metabólica]]></wp:answer_title>
+        <wp:answer_value>val_100010_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Atuar apenas como ativo cosmético sensorial]]></wp:answer_title>
+        <wp:answer_value>val_100010_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>

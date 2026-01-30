@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:wp="http://wordpress.org/export/4.1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/4.1.0/excerpt/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  <channel>
+    <title>Mesoestetic Academy</title>
+    <link>https://academy.mesoestetic.com.br</link>
+    <description>Cursos e Treinamentos</description>
+    <pubDate>Fri, 30 Jan 2026 20:09:05 +0000</pubDate>
+    <language>pt-BR</language>
+    <wp:wxr_version>4.1.0</wp:wxr_version>
+    <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
+    <wp:base_blog_url>https://academy.mesoestetic.com.br</wp:base_blog_url>
+    <wp:plugin_name>learnpress</wp:plugin_name>
+    <wp:plugin_version>4.1.0</wp:plugin_version>
+    <wp:term>
+      <wp:term_id>50000</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>atendimento-vendas</wp:term_slug>
+      <wp:term_name><![CDATA[Atendimento / Vendas]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50001</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>distribuidores</wp:term_slug>
+      <wp:term_name><![CDATA[Distribuidores]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50002</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>farmaceuticos</wp:term_slug>
+      <wp:term_name><![CDATA[Farmacêuticos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50003</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>gestores</wp:term_slug>
+      <wp:term_name><![CDATA[Gestores]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50004</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>marketing</wp:term_slug>
+      <wp:term_name><![CDATA[Marketing]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50005</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>produtos</wp:term_slug>
+      <wp:term_name><![CDATA[Produtos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50006</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>representantes</wp:term_slug>
+      <wp:term_name><![CDATA[Representantes]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50007</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>glutathion</wp:term_slug>
+      <wp:term_name><![CDATA[glutathion]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <item>
+      <title>Glutathion: Antioxidante Mestre no Combate ao Fotoenvelhecimento</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=glutathion-antioxidante-mestre-no-combate-ao-fotoenvelhecimento</link>
+      <pubDate>Fri, 30 Jan 2026 20:09:05 +0000</pubDate>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
+      <content:encoded><![CDATA[<p>O treinamento "Glutathion" apresenta o principal antioxidante intracelular e sua importância no combate ao fotoenvelhecimento. O glutathion é um tripeptídeo endógeno (ácido glutâmico + cisteína + glicina) essencial para manter o equilíbrio REDOX e proteger o DNA das células. O curso explica como o passar dos anos e a radiação UV reduzem os níveis de GSH, aumentando o estresse oxidativo e a degradação de colágeno via MMPs. Os benefícios do glutathion incluem a neutralização de radicais livres, regeneração das vitaminas C e E, modulação da melanogênese para tons mais claros e proteção ampla da matriz dérmica, resultando em uma pele mais iluminada, uniforme e firme.</p>
+<!-- Metadados do Curso -->
+<strong>Carga horária:</strong> 20 min<br>
+<strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
+<strong>Nível:</strong> Intermediário<br>
+<strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
+<br>
+<p><strong>Conteúdo Programático:</strong>
+- Glutathion: antioxidante mestre
+- Trípeptido endógeno e equilíbrio REDOX
+- Envelhecimento e queda progressiva dos níveis de GSH
+- Fotoenvelhecimento: radiação UV e radicais livres (ROS)
+- Mecanismos de ação: neutralização de radicais livres e regeneração de antioxidantes
+- Glutathion e melanogênese: efeito clareador e "glow"
+- Proteção da matriz dérmica e preservação de colágeno e elastina
+- Benefícios e resultados clínicos</p>
+<p><strong>Material para Download:</strong>
+- <a href="https://drive.google.com/file/d/1DT6Z0tsWbNoAVHnaBte-lwR9VAFo8rnw/view?usp=drive_link">Aula</a>
+- <a href="https://drive.google.com/file/d/1L2xIabnn278BwUaJbL_Ejc7sv8xbJT38/view?usp=drive_link">Protocolo</a>
+- <a href="https://drive.google.com/file/d/12w5VdoFR9LuioZt5qIsnYWqer49LGvqB/view?usp=drive_link">Cápsula do Conhecimento</a>
+- <a href="https://drive.google.com/file/d/1zFYpDKk3Q_kFA8Hzt4tjCpKO7KxGGN0Y/view?usp=drive_link">Glutationa como agente clareador da pele: fatos, mitos, evidências e controvérsias.</a></p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[O treinamento explora o papel do glutathion como o "antioxidante mestre" essencial para a saúde e rejuvenescimento da pele. O curso detalha como o tripeptídeo protege o DNA e a matriz dérmica contra os danos causados por radicais livres e radiação UV, além de atuar na modulação da melanina para um tom mais uniforme e iluminado. O profissional compreenderá como os níveis de GSH impactam o envelhecimento celular e como utilizar este ativo para neutralizar a inflamação silenciosa e preservar a integridade das fibras de colágeno e elastina.]]></excerpt:encoded>
+      <wp:post_id>99000</wp:post_id>
+      <wp:post_date>2026-01-30 20:09:05</wp:post_date>
+      <wp:post_name>glutathion-antioxidante-mestre-no-combate-ao-fotoenvelhecimento</wp:post_name>
+      <wp:status>draft</wp:status>
+      <wp:post_type>lp_course</wp:post_type>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[13727]]></wp:meta_value>
+      </wp:postmeta>
+      <category domain="course_category" nicename="atendimento-vendas" id="50000" parent="0" description=""><![CDATA[Atendimento / Vendas]]></category>
+      <category domain="course_category" nicename="distribuidores" id="50001" parent="0" description=""><![CDATA[Distribuidores]]></category>
+      <category domain="course_category" nicename="farmaceuticos" id="50002" parent="0" description=""><![CDATA[Farmacêuticos]]></category>
+      <category domain="course_category" nicename="gestores" id="50003" parent="0" description=""><![CDATA[Gestores]]></category>
+      <category domain="course_category" nicename="marketing" id="50004" parent="0" description=""><![CDATA[Marketing]]></category>
+      <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
+      <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
+      <category domain="course_tag" nicename="glutathion" id="50007" parent="0" description=""><![CDATA[glutathion]]></category>
+      <wp:section>
+        <wp:section_id>100</wp:section_id>
+        <wp:section_name>Avaliação Final</wp:section_name>
+        <wp:section_course_id>99000</wp:section_course_id>
+        <wp:section_order>1</wp:section_order>
+        <wp:section_description><![CDATA[]]></wp:section_description>
+        <wp:section_item>
+          <wp:section_id>100</wp:section_id>
+          <wp:item_id>100000</wp:item_id>
+          <wp:item_order>1</wp:item_order>
+          <wp:item_type>lp_quiz</wp:item_type>
+        </wp:section_item>
+      </wp:section>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[20 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_level</wp:meta_key>
+        <wp:meta_value><![CDATA[Intermediário]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_instructor</wp:meta_key>
+        <wp:meta_value><![CDATA[Dra. Ana Cléia Barbosa]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Avaliação Final</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <wp:post_id>100000</wp:post_id>
+      <wp:post_date>2026-01-30 20:09:05</wp:post_date>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_quiz</wp:post_type>
+      <wp:post_name>avaliacao-final</wp:post_name>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[20 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_passing_grade</wp:meta_key>
+        <wp:meta_value><![CDATA[80]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_retake_count</wp:meta_key>
+        <wp:meta_value><![CDATA[10]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_show_result</wp:meta_key>
+        <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_show_check_answer</wp:meta_key>
+        <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100001</wp:question_id>
+        <wp:question_order>1</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100002</wp:question_id>
+        <wp:question_order>2</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100003</wp:question_id>
+        <wp:question_order>3</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100004</wp:question_id>
+        <wp:question_order>4</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100005</wp:question_id>
+        <wp:question_order>5</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100006</wp:question_id>
+        <wp:question_order>6</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100007</wp:question_id>
+        <wp:question_order>7</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100008</wp:question_id>
+        <wp:question_order>8</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100009</wp:question_id>
+        <wp:question_order>9</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100010</wp:question_id>
+        <wp:question_order>10</wp:question_order>
+      </wp:question>
+      <wp:postmeta>
+        <wp:meta_key>_lp_course</wp:meta_key>
+        <wp:meta_value><![CDATA[99000]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O glutathion reduz o envelhecimento cutâneo principalmente porque:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100001</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-glutathion-reduz-o-envelhecimento-cutaneo-principalmente-porque</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Estimula a proliferação de melanócitos.]]></wp:answer_title>
+        <wp:answer_value>val_100001_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Neutraliza ROS e diminui a inflamação subclínica.]]></wp:answer_title>
+        <wp:answer_value>val_100001_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Aumenta a atividade das MMPs.]]></wp:answer_title>
+        <wp:answer_value>val_100001_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Reduz o pH da epiderme.]]></wp:answer_title>
+        <wp:answer_value>val_100001_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O uso de glutathion é especialmente indicado para pacientes:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100002</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-uso-de-glutathion-e-especialmente-indicado-para-pacientes</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Com pele oleosa apenas.]]></wp:answer_title>
+        <wp:answer_value>val_100002_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Expostos a estresse oxidativo, melasma e fotoenvelhecimento.]]></wp:answer_title>
+        <wp:answer_value>val_100002_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Sem exposição solar.]]></wp:answer_title>
+        <wp:answer_value>val_100002_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Que desejam aumentar a oleosidade.]]></wp:answer_title>
+        <wp:answer_value>val_100002_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O motivo pelo qual o glutathion atua como “antioxidante mestre” é:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100003</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-motivo-pelo-qual-o-glutathion-atua-como-antioxidante-mestre-e</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Ser o mais abundante antioxidante lipossolúvel.]]></wp:answer_title>
+        <wp:answer_value>val_100003_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Regenerar vitamina C e vitamina E, mantendo o ciclo antioxidante ativo.]]></wp:answer_title>
+        <wp:answer_value>val_100003_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Ser exclusivamente um despigmentante.]]></wp:answer_title>
+        <wp:answer_value>val_100003_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Atuar apenas na membrana celular.]]></wp:answer_title>
+        <wp:answer_value>val_100003_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Na melanogênese, o glutathion exerce seu efeito clareador porque:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100004</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>na-melanogenese-o-glutathion-exerce-seu-efeito-clareador-porque</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Estimula diretamente a tirosinase.]]></wp:answer_title>
+        <wp:answer_value>val_100004_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Inibe a tirosinase e favorece a rota da feomelanina.]]></wp:answer_title>
+        <wp:answer_value>val_100004_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Aumenta a produção de eumelanina.]]></wp:answer_title>
+        <wp:answer_value>val_100004_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Provoca destruição dos melanócitos.]]></wp:answer_title>
+        <wp:answer_value>val_100004_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>No fotoenvelhecimento, o papel central do glutathion é:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100005</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>no-fotoenvelhecimento-o-papel-central-do-glutathion-e</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Promover inflamação controlada.]]></wp:answer_title>
+        <wp:answer_value>val_100005_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Reduzir danos no DNA causados por UV.]]></wp:answer_title>
+        <wp:answer_value>val_100005_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Aumentar a glicação das fibras.]]></wp:answer_title>
+        <wp:answer_value>val_100005_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Estimular hiperplasia epidérmica.]]></wp:answer_title>
+        <wp:answer_value>val_100005_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Por que os níveis de glutathion caem com o envelhecimento?</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100006</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>por-que-os-niveis-de-glutathion-caem-com-o-envelhecimento</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Redução da atividade mitocondrial + estresse oxidativo excessivo.]]></wp:answer_title>
+        <wp:answer_value>val_100006_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Aumento natural da síntese hepática.]]></wp:answer_title>
+        <wp:answer_value>val_100006_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Ação direta da vitamina C.]]></wp:answer_title>
+        <wp:answer_value>val_100006_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Maior produção de colágeno.]]></wp:answer_title>
+        <wp:answer_value>val_100006_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A queda do glutathion contribui diretamente para:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100007</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-queda-do-glutathion-contribui-diretamente-para</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Aumento da firmeza dérmica.]]></wp:answer_title>
+        <wp:answer_value>val_100007_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Aceleração do dano oxidativo e maior ativação de MMPs.]]></wp:answer_title>
+        <wp:answer_value>val_100007_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Redução da oxidação lipídica.]]></wp:answer_title>
+        <wp:answer_value>val_100007_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Aumento espontâneo da hidratação natural.]]></wp:answer_title>
+        <wp:answer_value>val_100007_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Em pacientes com melasma, o glutathion auxilia porque:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100008</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>em-pacientes-com-melasma-o-glutathion-auxilia-porque</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Aumenta a síntese de melanina.]]></wp:answer_title>
+        <wp:answer_value>val_100008_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Reduz ROS que estimulam melanócitos e modula a via da tirosinase.]]></wp:answer_title>
+        <wp:answer_value>val_100008_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Aumenta o tempo de ação da radiação UV.]]></wp:answer_title>
+        <wp:answer_value>val_100008_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Ativa mais MMP-1 no tecido dérmico.]]></wp:answer_title>
+        <wp:answer_value>val_100008_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A associação Glutathion + Vitamina C é altamente eficaz porque:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100009</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-associacao-glutathion-vitamina-c-e-altamente-eficaz-porque</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[A vitamina C regenera o glutathion oxidado (GSSG → GSH).]]></wp:answer_title>
+        <wp:answer_value>val_100009_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[A vitamina C compete com o GSH, potencializando-o.]]></wp:answer_title>
+        <wp:answer_value>val_100009_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[O GSH ativa a oxidação da Vitamina C.]]></wp:answer_title>
+        <wp:answer_value>val_100009_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Ambos aumentam glicação.]]></wp:answer_title>
+        <wp:answer_value>val_100009_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A maior contribuição do glutathion para protocolos de rejuvenescimento é:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100010</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-maior-contribuicao-do-glutathion-para-protocolos-de-rejuvenescimento-e</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Aumentar proliferação de queratinócitos sem controle.]]></wp:answer_title>
+        <wp:answer_value>val_100010_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Proteger colágeno/elastina da degradação e reduzir inflamação silenciosa.]]></wp:answer_title>
+        <wp:answer_value>val_100010_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Induzir apoptose acelerada.]]></wp:answer_title>
+        <wp:answer_value>val_100010_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Reduzir a barreira cutânea para torná-la mais permeável.]]></wp:answer_title>
+        <wp:answer_value>val_100010_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>

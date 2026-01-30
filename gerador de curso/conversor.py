@@ -31,7 +31,8 @@ class LearnPressGenerator:
             'x.prof', 'dna', 'mesotox solution', 'acetil hexapeptídeo-8', 'pentapeptídeo-18', 'silício', 'skinretin', 'retinal',
             'redenx', 'mesohyal', 'Tripeptídeo 2KV', 'Tetrapeptídeo HNQV', 'Transetossomas',
             'melantran3x', 'melan tran3x', 'c.prof 210', 'Try Control Peptídeo', 'N-acetil glucosamina', 'idebenona', 'azeloglicina',
-            'solutions', 'photoaging solution', 'photoaging', 'c.prof 211', 'taurina'
+            'solutions', 'photoaging solution', 'photoaging', 'c.prof 211', 'taurina', 'cafeina', 'cafeína',
+            'lipolytic solution', 'lipolytic', 'alcachofra', 'L-carnitina', 'teofilina'
         ]
 
     def normalize_brand_names(self, text):

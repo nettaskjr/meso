@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:wp="http://wordpress.org/export/4.1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:excerpt="http://wordpress.org/export/4.1.0/excerpt/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+  <channel>
+    <title>Mesoestetic Academy</title>
+    <link>https://academy.mesoestetic.com.br</link>
+    <description>Cursos e Treinamentos</description>
+    <pubDate>Fri, 30 Jan 2026 19:58:27 +0000</pubDate>
+    <language>pt-BR</language>
+    <wp:wxr_version>4.1.0</wp:wxr_version>
+    <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
+    <wp:base_blog_url>https://academy.mesoestetic.com.br</wp:base_blog_url>
+    <wp:plugin_name>learnpress</wp:plugin_name>
+    <wp:plugin_version>4.1.0</wp:plugin_version>
+    <wp:term>
+      <wp:term_id>50000</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>atendimento-vendas</wp:term_slug>
+      <wp:term_name><![CDATA[Atendimento / Vendas]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50001</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>distribuidores</wp:term_slug>
+      <wp:term_name><![CDATA[Distribuidores]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50002</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>farmaceuticos</wp:term_slug>
+      <wp:term_name><![CDATA[Farmacêuticos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50003</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>gestores</wp:term_slug>
+      <wp:term_name><![CDATA[Gestores]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50004</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>marketing</wp:term_slug>
+      <wp:term_name><![CDATA[Marketing]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50005</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>produtos</wp:term_slug>
+      <wp:term_name><![CDATA[Produtos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50006</wp:term_id>
+      <wp:term_taxonomy>course_category</wp:term_taxonomy>
+      <wp:term_slug>representantes</wp:term_slug>
+      <wp:term_name><![CDATA[Representantes]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50007</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>lipolytic</wp:term_slug>
+      <wp:term_name><![CDATA[lipolytic]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <item>
+      <title>c.prof 221® Lipolytic Solution: Ação tripla inteligente</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=c-prof-221-lipolytic-solution-acao-tripla-inteligente</link>
+      <pubDate>Fri, 30 Jan 2026 19:58:27 +0000</pubDate>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
+      <content:encoded><![CDATA[<p>O treinamento "c.prof 221® Lipolytic Solution" apresenta uma solução de ação tripla inteligente: lipolítica, drenante e detoxificante. O produto combina alcachofra, L-carnitina, teofilina e silício orgânico para atuar de forma multinível na HLDG (celulite). A alcachofra estimula a lipólise e favorece a desintoxicação metabólica; a L-carnitina facilita o transporte de ácidos graxos para a mitocôndria (β-oxidação); a teofilina promove o despertar metabólico do tecido e a termogênese; e o silício orgânico revitaliza o tecido conjuntivo como um "cimento dérmico natural", combatendo a flacidez e estimulando fibroblastos. O objetivo clínico é alcançar uma pele mais firme, lisa e revitalizada, com melhora visível do contorno corporal através da redução de gordura, edema e toxinas.</p>
+<!-- Metadados do Curso -->
+<strong>Carga horária:</strong> 20 min<br>
+<strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
+<strong>Nível:</strong> Intermediário<br>
+<strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
+<br>
+<p><strong>Conteúdo Programático:</strong>
+- c.prof 221® Lipolytic Solution
+- Ação tripla inteligente: lipolítica, drenante e detoxificante
+- Alcachofra: lipólise e desintoxicação
+- L-Carnitina: O transporte inteligente da energia celular
+- Ação metabólica (β-oxidação) e equilíbrio bioenergético
+- Teofilina: despertar metabólico e termogênese
+- Silício Orgânico: revitalização e estímulo de colágeno
+- Sinergia com tecnologias corporais e resultados clínicos</p>
+<p><strong>Material para Download:</strong>
+- <a href="https://drive.google.com/file/d/1Q4nWSYQ_7qt7pA0riwYCCm66oX9nLIMK/view?usp=drive_link">Aula</a>
+- <a href="https://drive.google.com/file/d/1V_t97--HbwdRd_Mru1bpbLAv-ItG_5g0/view?usp=drive_link">Protocolo</a>
+- <a href="https://drive.google.com/file/d/1yaHsLrB_5hmzYjNzw5zXavF5WhUuMg3z/view?usp=drive_link">Produto</a>
+- <a href="https://drive.google.com/file/d/1l1_M1mg7awjHuZF4pz951KqiAyPt2Fp-/view?usp=drive_link">Cápsula do Conhecimento</a></p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[O curso apresenta o Lipolytic Solution® como uma solução multinível de alta performance para o combate à celulite (HLDG). Combinando alcachofra, L-carnitina, teofilina e silício orgânico, o treinamento detalha como a quebra de gordura, a detoxificação e a reestruturação dérmica trabalham em sinergia para remodelar o contorno corporal. O profissional aprenderá os mecanismos bioenergéticos e as aplicações clínicas para oferecer tratamentos que integram lipólise, drenagem e firmeza tecidual.]]></excerpt:encoded>
+      <wp:post_id>99000</wp:post_id>
+      <wp:post_date>2026-01-30 19:58:27</wp:post_date>
+      <wp:post_name>c-prof-221-lipolytic-solution-acao-tripla-inteligente</wp:post_name>
+      <wp:status>draft</wp:status>
+      <wp:post_type>lp_course</wp:post_type>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[13726]]></wp:meta_value>
+      </wp:postmeta>
+      <category domain="course_category" nicename="atendimento-vendas" id="50000" parent="0" description=""><![CDATA[Atendimento / Vendas]]></category>
+      <category domain="course_category" nicename="distribuidores" id="50001" parent="0" description=""><![CDATA[Distribuidores]]></category>
+      <category domain="course_category" nicename="farmaceuticos" id="50002" parent="0" description=""><![CDATA[Farmacêuticos]]></category>
+      <category domain="course_category" nicename="gestores" id="50003" parent="0" description=""><![CDATA[Gestores]]></category>
+      <category domain="course_category" nicename="marketing" id="50004" parent="0" description=""><![CDATA[Marketing]]></category>
+      <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
+      <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
+      <category domain="course_tag" nicename="lipolytic" id="50007" parent="0" description=""><![CDATA[lipolytic]]></category>
+      <wp:section>
+        <wp:section_id>100</wp:section_id>
+        <wp:section_name>Avaliação Final</wp:section_name>
+        <wp:section_course_id>99000</wp:section_course_id>
+        <wp:section_order>1</wp:section_order>
+        <wp:section_description><![CDATA[]]></wp:section_description>
+        <wp:section_item>
+          <wp:section_id>100</wp:section_id>
+          <wp:item_id>100000</wp:item_id>
+          <wp:item_order>1</wp:item_order>
+          <wp:item_type>lp_quiz</wp:item_type>
+        </wp:section_item>
+      </wp:section>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[20 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_level</wp:meta_key>
+        <wp:meta_value><![CDATA[Intermediário]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_instructor</wp:meta_key>
+        <wp:meta_value><![CDATA[Dra. Ana Cléia Barbosa]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Avaliação Final</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <wp:post_id>100000</wp:post_id>
+      <wp:post_date>2026-01-30 19:58:27</wp:post_date>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_quiz</wp:post_type>
+      <wp:post_name>avaliacao-final</wp:post_name>
+      <wp:postmeta>
+        <wp:meta_key>_lp_duration</wp:meta_key>
+        <wp:meta_value><![CDATA[20 minute]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_passing_grade</wp:meta_key>
+        <wp:meta_value><![CDATA[80]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_retake_count</wp:meta_key>
+        <wp:meta_value><![CDATA[10]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_show_result</wp:meta_key>
+        <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_show_check_answer</wp:meta_key>
+        <wp:meta_value><![CDATA[yes]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100001</wp:question_id>
+        <wp:question_order>1</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100002</wp:question_id>
+        <wp:question_order>2</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100003</wp:question_id>
+        <wp:question_order>3</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100004</wp:question_id>
+        <wp:question_order>4</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100005</wp:question_id>
+        <wp:question_order>5</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100006</wp:question_id>
+        <wp:question_order>6</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100007</wp:question_id>
+        <wp:question_order>7</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100008</wp:question_id>
+        <wp:question_order>8</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100009</wp:question_id>
+        <wp:question_order>9</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100000</wp:quiz_id>
+        <wp:question_id>100010</wp:question_id>
+        <wp:question_order>10</wp:question_order>
+      </wp:question>
+      <wp:postmeta>
+        <wp:meta_key>_lp_course</wp:meta_key>
+        <wp:meta_value><![CDATA[99000]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O principal objetivo terapêutico do Lipolytic Solution é:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100001</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-principal-objetivo-terapeutico-do-lipolytic-solution-e</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Promover apenas a quebra mecânica dos adipócitos]]></wp:answer_title>
+        <wp:answer_value>val_100001_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Atuar exclusivamente como drenante linfático]]></wp:answer_title>
+        <wp:answer_value>val_100001_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Atuar de forma multinível na HLDG, combinando lipólise, drenagem e remodelação]]></wp:answer_title>
+        <wp:answer_value>val_100001_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100001</wp:question_id>
+        <wp:answer_title><![CDATA[Substituir tecnologias corporais invasivas]]></wp:answer_title>
+        <wp:answer_value>val_100001_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A estimulação da lipólise promovida pelo Lipolytic Solution® está diretamente relacionada a:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100002</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-estimulacao-da-lipolise-promovida-pelo-lipolytic-solution-esta-diretamente-relacionada-a</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Inibição da circulação local]]></wp:answer_title>
+        <wp:answer_value>val_100002_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Redução da oxigenação tecidual]]></wp:answer_title>
+        <wp:answer_value>val_100002_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Aumento do metabolismo basal e da termogênese celular]]></wp:answer_title>
+        <wp:answer_value>val_100002_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100002</wp:question_id>
+        <wp:answer_title><![CDATA[Bloqueio da atividade mitocondrial]]></wp:answer_title>
+        <wp:answer_value>val_100002_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A ação drenante do Lipolytic Solution® contribui principalmente para:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100003</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-acao-drenante-do-lipolytic-solution-contribui-principalmente-para</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Aumento do volume tecidual]]></wp:answer_title>
+        <wp:answer_value>val_100003_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Redução de toxinas e edema intersticial]]></wp:answer_title>
+        <wp:answer_value>val_100003_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Formação de fibrose]]></wp:answer_title>
+        <wp:answer_value>val_100003_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100003</wp:question_id>
+        <wp:answer_title><![CDATA[Estímulo inflamatório controlado]]></wp:answer_title>
+        <wp:answer_value>val_100003_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>No tratamento da HLDG, o diferencial do Lipolytic Solution® está em:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100004</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>no-tratamento-da-hldg-o-diferencial-do-lipolytic-solution-esta-em</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Atuar apenas na gordura localizada]]></wp:answer_title>
+        <wp:answer_value>val_100004_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Focar exclusivamente no tecido dérmico]]></wp:answer_title>
+        <wp:answer_value>val_100004_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Combinar lipólise, detoxificação e remodelação do tecido]]></wp:answer_title>
+        <wp:answer_value>val_100004_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100004</wp:question_id>
+        <wp:answer_title><![CDATA[Ser indicado apenas para fases iniciais da celulite]]></wp:answer_title>
+        <wp:answer_value>val_100004_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A melhora da firmeza da pele observada com o uso do Lipolytic Solution® está relacionada a:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100005</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-melhora-da-firmeza-da-pele-observada-com-o-uso-do-lipolytic-solution-esta-relacionada-a</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Desidratação controlada do tecido]]></wp:answer_title>
+        <wp:answer_value>val_100005_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Reestruturação tecidual e melhora da qualidade da matriz extracelular]]></wp:answer_title>
+        <wp:answer_value>val_100005_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Aumento da retenção hídrica]]></wp:answer_title>
+        <wp:answer_value>val_100005_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100005</wp:question_id>
+        <wp:answer_title><![CDATA[Ação queratolítica superficial]]></wp:answer_title>
+        <wp:answer_value>val_100005_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O efeito remodelador do Lipolytic Solution® ocorre principalmente devido à:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100006</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-efeito-remodelador-do-lipolytic-solution-ocorre-principalmente-devido-a</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Necrose adipocitária]]></wp:answer_title>
+        <wp:answer_value>val_100006_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Ação cumulativa de lipólise, drenagem e reorganização tecidual]]></wp:answer_title>
+        <wp:answer_value>val_100006_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Estímulo inflamatório intenso]]></wp:answer_title>
+        <wp:answer_value>val_100006_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[Contração muscular reflexa]]></wp:answer_title>
+        <wp:answer_value>val_100006_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Em protocolos corporais, o Lipolytic Solution® é considerado ideal porque:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100007</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>em-protocolos-corporais-o-lipolytic-solution-e-considerado-ideal-porque</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Dispensa o uso de tecnologias]]></wp:answer_title>
+        <wp:answer_value>val_100007_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Atua de forma isolada e definitiva]]></wp:answer_title>
+        <wp:answer_value>val_100007_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Apresenta sinergia com tecnologias corporais]]></wp:answer_title>
+        <wp:answer_value>val_100007_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Substitui a drenagem manual]]></wp:answer_title>
+        <wp:answer_value>val_100007_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A associação do Lipolytic Solution® com tecnologias corporais é indicada porque:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100008</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-associacao-do-lipolytic-solution-com-tecnologias-corporais-e-indicada-porque</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[O produto atua apenas na epiderme]]></wp:answer_title>
+        <wp:answer_value>val_100008_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Potencializa os efeitos lipolíticos, drenantes e remodeladores do tratamento]]></wp:answer_title>
+        <wp:answer_value>val_100008_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Reduz a necessidade de sessões seriadas]]></wp:answer_title>
+        <wp:answer_value>val_100008_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Substitui completamente protocolos manuais]]></wp:answer_title>
+        <wp:answer_value>val_100008_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A atuação do Lipolytic Solution® sobre o metabolismo local contribui diretamente para:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100009</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-atuacao-do-lipolytic-solution-sobre-o-metabolismo-local-contribui-diretamente-para</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Redução da atividade mitocondrial]]></wp:answer_title>
+        <wp:answer_value>val_100009_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Diminuição do consumo energético celular]]></wp:answer_title>
+        <wp:answer_value>val_100009_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Aceleração da oxidação de lipídios no tecido adiposo]]></wp:answer_title>
+        <wp:answer_value>val_100009_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Bloqueio da circulação sanguínea local]]></wp:answer_title>
+        <wp:answer_value>val_100009_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O resultado clínico esperado com o uso correto do Lipolytic Solution® é:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100010</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-resultado-clinico-esperado-com-o-uso-correto-do-lipolytic-solution-e</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Apenas redução de medidas]]></wp:answer_title>
+        <wp:answer_value>val_100010_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Redução volumétrica sem melhora da pele]]></wp:answer_title>
+        <wp:answer_value>val_100010_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Redução com melhora da textura, firmeza e uniformidade do tecido]]></wp:answer_title>
+        <wp:answer_value>val_100010_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Apenas efeito temporário de drenagem]]></wp:answer_title>
+        <wp:answer_value>val_100010_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>
