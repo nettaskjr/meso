@@ -1,4 +1,4 @@
-# x.prof 012® L-Carnitina: O despertar metabólico do tecido
+# x.prof 012® L-Carnitina: O Despertar Metabólico e Transporte de Energia Celular
 
 ## Metadados
 - **Carga horária:** 10 minutos
@@ -6,22 +6,23 @@
 - **Setores:** Todos os colaboradores, distribuidores e representantes
 - **Nível:** Intermediário
 - **Categoria:** Atendimento / Vendas, Distribuidores, Farmacêuticos, Gestores, Marketing, Produtos, Representantes
-- **Tags:** l-carnitina
+- **Tags:** l-carnitina, metabolismo energético, β-oxidação, gordura localizada, contorno corporal, mitocôndria
 - **Formador(a):** Dra. Ana Cléia Barbosa
 
 ## Descrição
-O treinamento "x.prof 012® L-Carnitina" detalha o papel fundamental deste aminoácido essencial no metabolismo energético e na remodelação corporal. A L-carnitina atua como uma transportadora metabólica inteligente, conduzindo os ácidos graxos livres do tecido adiposo para o interior das mitocôndrias, onde ocorre a β-oxidação — o processo que transforma gordura em combustível celular (ATP). O curso aborda como essa conversão metabólica favorece a quebra de gordura acumulada, aumenta o metabolismo energético e a performance física, além de melhorar a tonicidade, firmeza e o contorno corporal. São discutidos também os benefícios na recuperação muscular e a sinergia com tecnologias corporais para resultados visíveis e duradouros.
+O treinamento **x.prof 012® L-Carnitina** detalha o papel fundamental deste aminoácido essencial no metabolismo energético e na remodelação corporal. A L-carnitina atua como uma transportadora metabólica inteligente, conduzindo os ácidos graxos livres do tecido adiposo para o interior das mitocôndrias, onde ocorre a β-oxidação — o processo que transforma gordura em combustível celular (ATP). O curso aborda como essa conversão metabólica favorece a quebra de gordura acumulada, aumenta o metabolismo energético e a performance física, além de melhorar a tonicidade, firmeza e o contorno corporal. São discutidos também os benefícios na recuperação muscular e a sinergia estratégica com tecnologias corporais e microagulhamento para resultados visíveis, duradouros e restauração do equilíbrio bioenergético.
 
 **Conteúdo Programático:**
-- x.prof 012® L-Carnitina
-- O transporte inteligente da energia celular
-- Mecanismo de ação: A L-carnitina como transportadora metabólica
-- β-oxidação: Transformando gordura em energia (ATP)
-- Equilíbrio bioenergético: Catabolismo e Anabolismo
-- Ação metabólica e Acetilcoenzima A
-- Benefícios clínicos: Queima de gordura, firmeza e tônus
-- Protocolo integrativo: Microagulhamento (m.pen Pro) e Sinergia com tecnologias
-- Resultados clínicos e contorno corporal
+- x.prof 012® L-Carnitina: A Ciência do Metabolismo Energético
+- O Transporte Inteligente de Energia: Como a carnitina atua na célula
+- Mecanismo de Ação: Do citol para a Matriz Mitocondrial
+- β-oxidação dos Ácidos Graxos: Transformando lipídios em ATP
+- Equilíbrio Bioenergético: Catabolismo de gordura e Acetilcoenzima A
+- Impacto Estético: Redução da gordura localizada e definição corporal
+- Performance e Tonicidade: Melhoria da qualidade e força do tecido
+- L-Carnitina na Recuperação Muscular e Regeneração Tecitual
+- Protocolo Integrativo m.pen [pro]®: Sinergia e Permeação de Ativos
+- Resultados Clínicos: Contorno Corporal, Firmeza e Contorno Definido
 
 **Material para Download:**
 - [Aula](https://drive.google.com/file/d/1a1XxuMbq5emWWXykVlZ_1hYlNTXH5YtQ/view?usp=drive_link)
@@ -94,4 +95,4 @@ O treinamento "x.prof 012® L-Carnitina" detalha o papel fundamental deste amino
 - [ ] Um antioxidante estrutural
 
 ## Resumo
-O treinamento foca na L-carnitina como um aminoácido essencial para o transporte inteligente de energia celular. O curso detalha o mecanismo da β-oxidação, processado nas mitocôndrias, que converte depósitos residuais de gordura em ATP, promovendo simultaneamente a quebra de gordura localizada e o aumento da firmeza e performance muscular. O profissional aprenderá como integrar a L-carnitina em protocolos lipolíticos e remodeladores, utilizando tecnologias corporais para potencializar a oxidação lipídica e restaurar o contorno e a tonicidade da pele.
+O treinamento detalha a função bioenergética da x.prof 012® L-Carnitina na remodelação silhueta corporal. O curso explica como este ativo atua como a transportadora mestre de ácidos graxos para a mitocôndria, ativando a β-oxidação e convertendo depósitos residuais de gordura em energia celular (ATP). O profissional dominará os mecanismos de queima lipídica e aprenderá a integrar a L-carnitina em protocolos de alta performance, resultando em um corpo visivelmente mais definido, tonificado e com metabolismo tecidual otimizado.

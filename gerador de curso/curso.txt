@@ -1,120 +1,116 @@
-curso: l carnitina
+curso: mpen
 
-Título: x.prof 012® L-Carnitina: O transporte inteligente da energia celular
+Título: m.pen [pro]®: O Avanço Definitivo na Bioestimulação Dermoepidérmica
 
 Metadados
-Carga horária: 
-       Imagem: 13728
+Carga horária: 15 minutos
+       Imagem: 13795
       Setores: Todos os colaboradores, distribuidores e representantes
-        Nível: Intermediário
+        Nível: Avançado
     Categoria: Atendimento / Vendas, Distribuidores, Farmacêuticos, Gestores, Marketing, Produtos, Representantes
-         Tags: l-carnitina
+         Tags: m.pen pro, microneedling, microagulhamento, bioestimulação, rejuvenescimento, permeação de ativos
   Formador(a): Dra. Ana Cléia Barbosa
 
 Descrição:
-O treinamento "x.prof 012® L-Carnitina" detalha o papel fundamental deste aminoácido essencial no metabolismo energético e na remodelação corporal. A L-carnitina atua como uma transportadora metabólica inteligente, conduzindo os ácidos graxos livres do tecido adiposo para o interior das mitocôndrias, onde ocorre a β-oxidação — o processo que transforma gordura em combustível celular (ATP). O curso aborda como essa conversão metabólica favorece a quebra de gordura acumulada, aumenta o metabolismo energético e a performance física, além de melhorar a tonicidade, firmeza e o contorno corporal. São discutidos também os benefícios na recuperação muscular e a sinergia com tecnologias corporais para resultados visíveis e duradouros.
+O treinamento "m.pen [pro]®" apresenta o avanço definitivo no campo da bioestimulação dermoepidérmica. O curso detalha a tecnologia de microneedling da mesoestetic®, consistindo na criação de microcanais que facilitam a passagem de ativos e ativam a regeneração cutânea natural através da indução de colágeno e elastina, sem a necessidade de calor ou agressões extensas. São exploradas as vantagens clínicas do equipamento portátil (caneta), sua versatilidade em diferentes regiões do rosto e corpo, e protocolos avançados para melasma vascularizado, estrias, cicatrizes atróficas e alopecia. O profissional aprenderá a ajustar profundidades e velocidades de forma segura, garantindo o aumento da permeação de ativos e resultados superiores no rejuvenescimento e tratamento de imperfeições cutâneas.
 
 Conteúdo Programático:
-x.prof 012® L-Carnitina
-O transporte inteligente da energia celular
-Mecanismo de ação: A L-carnitina como transportadora metabólica
-β-oxidação: Transformando gordura em energia (ATP)
-Equilíbrio bioenergético: Catabolismo e Anabolismo
-Ação metabólica e Acetilcoenzima A
-Benefícios clínicos: Queima de gordura, firmeza e tônus
-Protocolo integrativo: Microagulhamento (m.pen Pro) e Sinergia com tecnologias
-Resultados clínicos e contorno corporal
+m.pen [pro]®: Microneedling de Alta Performance
+O Que Consiste o Microneedling: Criação de Microcanais e Regeneração
+Vantagens Biológicas: Estímulo Natural de Colágeno e Elastina
+Tecnologia e Formato: Precisão, Segurança e Manuseio do Equipamento
+Versatilidade Clínica: Aplicação Facial, Corporal e Capilar
+Bioestimulação Dermoepidérmica: Fisiologia do Reparo Tecitual
+Estratégias para Melasma Vascularizado e Hiperpigmentação (PIH)
+Protocolos para Cicatrizes Atróficas e Estrias (Brancas e Vermelhas)
+Alopecia Androgenética: Estímulo Foliular e Profundidade Segura
+Sinergia com Ativos c.prof® e x.prof®: Aumento da Permeação
 
 Material para Download:
-[Aula](https://drive.google.com/file/d/1a1XxuMbq5emWWXykVlZ_1hYlNTXH5YtQ/view?usp=drive_link)
-[Protocolo](https://drive.google.com/file/d/1TOZoE5D_p-EfMGyvoT4Se6WzkJ3ZMPIk/view?usp=drive_link)
-[Produto]()
-[Antes e Depois]()
-[Cápsula do Conhecimento](https://drive.google.com/file/d/1_4n4UZVmiTLeAsBcUHVwsuFGwN7dbE4d/view?usp=drive_link)
-[Catálogo]()
-[Redução da adiposidade localizada](https://drive.google.com/file/d/18ivREo1HZC3iFbq4MbCT9OdyLGZxyI12/view?usp=drive_link)
+- [Aula](https://drive.google.com/file/d/1CXwJ88_cEF8JkVbPzOyQbFyXpzAzQg3Z/view?usp=drive_link)
+- [Protocolo](https://drive.google.com/file/d/1qbVNCMI3yaWFSSjnezVXZbvKXsxk-_bY/view?usp=drive_link)
+- [Cápsula do Conhecimento](https://drive.google.com/file/d/1Ko5t61EwBJLwHFiKmC0TnrJ5mPSOuyuA/view?usp=drive_link)
+- [Catálogo](https://drive.google.com/file/d/1SqUjJl01VPbJWTmyxSeo2YKms9qbHVFf/view?usp=drive_link)
+- [Estudo Clínico - Eficácia demonstrada](https://drive.google.com/file/d/1rb8yqNBn-pUydkbmS5uN5BFHmemBj3gs/view?usp=drive_link)
 
-(Não tem vídeos)
-Seção: A aplicação da L-carnitina no metabolismo energético e contorno corporal
+(Não possui vídeos)
 
 Quiz: Avaliação Final
 Duração: 20 minutos
 Nota de corte: 80%
 
-Pergunta: 
-Lembre-se de colocar (pergunta, opções e resposta correta)
+Pergunta:
+AVALIAÇÃO – m.pen [pro]
 
-AVALIAÇÃO – L-CARNITINA
+1. Em casos de melasma vascularizado, qual estratégia é mais segura ao usar o m.pen[pro]?
+( ) Profundidade > 1,5 mm para atingir a derme reticular
+( ) Alta velocidade com movimentos repetitivos na mesma área
+(x) Profundidade leve (< 0,5 mm) + ativos despigmentantes
+( ) Microagulhamento agressivo para “quebrar” pigmento
+✅ Resposta correta: Terceira alternativa.
 
-1. A principal função metabólica da L-carnitina é:
-( ) Estimular diretamente a lipase hormônio-sensível
-( ) Transportar ácidos graxos para o interior das mitocôndrias
-( ) Inibir a formação de triglicerídeos
-( ) Aumentar a síntese de glicogênio muscular
+2. Para potencializar resultados em estrias brancas antigas, a combinação mais eficaz é:
+( ) m.pen + vitamina C tópica apenas
+(x) m.pen + silício orgânico + PDRN
+( ) m.pen superficial (< 0,5 mm)
+( ) m.pen com ativos clareadores apenas
 ✅ Resposta correta: Segunda alternativa.
 
-2. A L-carnitina atua de forma essencial em qual processo metabólico?
-( ) Glicólise
-( ) Ciclo da ureia
-( ) β-oxidação dos ácidos graxos
-( ) Fosforilação oxidativa
-✅ Resposta correta: Terceira alternativa.
-
-3. A β-oxidação ocorre principalmente em qual organela celular?
-( ) Retículo endoplasmático
-( ) Lisossomo
-( ) Núcleo
-( ) Mitocôndria
-✅ Resposta correta: Quarta alternativa.
-
-4. Do ponto de vista estético, a L-carnitina contribui para:
-( ) Apenas drenagem linfática
-( ) Redução de gordura localizada e melhora do contorno corporal
-( ) Exclusivamente estímulo de colágeno
-( ) Inibição da circulação local
+3. Em cicatrizes atróficas profundas, qual abordagem técnica é mais apropriada?
+( ) Profundidade única em toda a área
+(x) Técnica cruzada com diferentes profundidades (>1 mm)
+( ) Movimentos apenas circulares
+( ) Aplicação sem ativo associado
 ✅ Resposta correta: Segunda alternativa.
 
-5. A energia (ATP) gerada a partir da ação da L-carnitina é utilizada principalmente para:
-( ) Formação de triglicerídeos
-( ) Processos inflamatórios
-( ) Atividade muscular e metabolismo celular
-( ) Armazenamento energético
+4. Em alopecia androgenética, qual é a profundidade média mais utilizada para estimular folículos com segurança?
+( ) 0,25 mm
+( ) 0,50 mm
+(x) 1,0 mm
+( ) 2,0 mm
 ✅ Resposta correta: Terceira alternativa.
 
-6. Em protocolos corporais, a L-carnitina apresenta melhor desempenho quando associada a:
-( ) Técnicas que reduzam a circulação local
-( ) Tecnologias que aumentem o metabolismo e a oxigenação tecidual
-( ) Exclusivamente massagens relaxantes
-( ) Apenas ativos antioxidantes
-✅ Resposta correta: Segunda alternativa.
-
-7. Em relação à gordura localizada, a L-carnitina atua principalmente:
-( ) Diminuindo a ingestão calórica
-( ) Bloqueando a entrada de gordura no adipócito
-( ) Facilitando o uso da gordura como combustível celular
-( ) Promovendo apenas efeito térmico
+5. Sobre a permeação de ativos durante o microneedling, assinale a correta:
+( ) Ativos lipossomados não possuem maior permeação
+( ) Ativos aplicados após o procedimento não permeiam
+(x) Durante a criação dos microcanais, a absorção aumenta em múltiplas vezes
+( ) O uso de ativos é opcional e não altera o resultado final
 ✅ Resposta correta: Terceira alternativa.
 
-8. A L-carnitina é especialmente relevante em tecidos com alta demanda energética, como:
-( ) Tecido adiposo apenas
-( ) Epiderme
-( ) Tecido muscular
-( ) Cartilagem
+6. Em casos de fotoenvelhecimento avançado, a sinergia recomendada é:
+(x) m.pen + c.prof 211 (photoaging solution)
+( ) m.pen + c.prof 221 (lipolítico)
+( ) m.pen + vitamina C isolada
+( ) Apenas m.pen sem ativos associados
+✅ Resposta correta: Primeira alternativa.
+
+7. Verdadeiro (V) ou Falso (F):
+- Alta velocidade favorece maior uniformidade dos microcanais: (V)
+- Profundidade elevada (>2 mm) sempre aumenta a eficácia: (F)
+- Quanto maior o dano térmico, melhor o resultado do microneedling: (F)
+- Associações com peelings químicos devem ser avaliadas com cautela: (V)
+✅ Resposta correta: V – F – F – V.
+
+8. Durante o tratamento de flacidez leve a moderada com m.pen[pro], o ativo mais adequado é:
+( ) c.prof 213 mesotox
+( ) c.prof 210 despigmentante
+(x) Silício orgânico (x.prof)
+( ) Lipolítico (c.prof 221)
 ✅ Resposta correta: Terceira alternativa.
 
-9. Em protocolos de remodelação corporal, a L-carnitina contribui para:
-( ) Aumento de retenção hídrica
-( ) Melhora da resistência, firmeza e definição corporal
-( ) Redução da circulação local
-( ) Aumento da inflamação tecidual
-✅ Resposta correta: Segunda alternativa.
-
-10. Do ponto de vista metabólico, a L-carnitina pode ser corretamente definida como:
-( ) Um agente termogênico direto
-( ) Um hormônio lipolítico
-( ) Uma molécula transportadora essencial para o uso da gordura como energia
-( ) Um antioxidante estrutural
+9. Qual é o principal risco de se trabalhar com profundidades agressivas sem necessidade clínica?
+( ) Aumentar a eficácia
+( ) Melhorar a permeação
+(x) Induzir hiperpigmentação pós-inflamatória (PIH)
+( ) Reduzir a sensibilidade da pele
 ✅ Resposta correta: Terceira alternativa.
+
+10. Em estrias recentes (vermelhas), qual estratégia é mais indicada?
+(x) Profundidade baixa + ativos anti-inflamatórios e regeneradores
+( ) Profundidade máxima desde a 1ª sessão
+( ) Não utilizar nenhum ativo
+( ) Movimentos lentos com baixa velocidade
+✅ Resposta correta: Primeira alternativa.
 
 Resumo:
-O treinamento foca na L-carnitina como um aminoácido essencial para o transporte inteligente de energia celular. O curso detalha o mecanismo da β-oxidação, processado nas mitocôndrias, que converte depósitos residuais de gordura em ATP, promovendo simultaneamente a queima de gordura localizada e o aumento da firmeza e performance muscular. O profissional aprenderá como integrar a L-carnitina em protocolos lipolíticos e remodeladores, utilizando tecnologias corporais para potencializar a oxidação lipídica e restaurar o contorno e a tonicidade da pele.
+O treinamento capacita o profissional no domínio da tecnologia m.pen [pro]® para bioestimulação dermoepidérmica avançada. O curso detalha os mecanismos de indução de colágeno e a versatilidade da técnica de microneedling em tratamentos faciais, corporais e capilares. O especialista dominará o ajuste seguro de profundidades e velocidades, aprendendo a combinar o equipamento com ativos de alta performance para entregar resultados superiores em rejuvenescimento, cicatrizes e alopecias, com total controle biológico e segurança clínica.

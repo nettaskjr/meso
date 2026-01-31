@@ -1,4 +1,4 @@
-# Skinretin: O envelhecimento não começa na superfície da pele. Ele começa no silêncio da célula.
+# skinretin xpert®: Estética Regenerativa com Retinal, Exossomos e Epigenética
 
 ## Metadados
 - **Carga horária:** 20 minutos
@@ -6,71 +6,30 @@
 - **Setores:** Todos os colaboradores, distribuidores e representantes
 - **Nível:** Intermediário
 - **Categoria:** Atendimento / Vendas, Distribuidores, Farmacêuticos, Gestores, Marketing, Produtos, Representantes
-- **Tags:** skinretin
+- **Tags:** skinretin, estética regenerativa, retinal, exossomos, epigenética, retinol
 - **Formador(a):** Dra. Ana Cléia Barbosa
 
 ## Descrição
-O "skinretin xpert pack" é um tratamento profissional intensivo fundamentado em três pilares: o Retinal (contém retinal, a forma mais potente da vitamina A, e retinol), que estimula a renovação celular, neocolagênese profunda e síntese de colágeno; os Exossomas (de Poejo Asiático com tecnologia antienvelhecimento 360º), que promovem a regeneração celular, ativam as vias antioxidantes e protegem o DNA; e a tecnologia epigenética, que reativa genes da juventude e reduz marcadores epigenéticos do envelhecimento. O tratamento é composto por uma solução aquosa e uma solução oleosa, oferecendo uma dupla ação anti-idade, regenerando e protegendo a pele, e proporcionando benefícios como redução de rugas, firmeza e hidratação.
+O treinamento apresenta o **skinretin xpert pack**, um tratamento profissional intensivo fundamentado nos três pilares da estética regenerativa moderna: o Retinal (forma mais potente da Vitamina A), os Exossomos Vegetais e a Tecnologia Epigenética. O curso detalha como o Retinal estimula a neocolagênese profunda e a renovação celular, enquanto os Exossomos (vesículas inteligentes) promovem a comunicação celular precisa e a regeneração 360º. Além disso, a tecnologia epigenética atua "silenciando" os marcadores do envelhecimento e reativando genes da juventude. O profissional aprenderá sobre a fórmula bifásica exclusiva (aquosa e oleosa) que garante regeneração intensa com máximo conforto, além do protocolo clínico que inclui massagem Kobido e finalização regeneradora para resultados excepcionais em firmeza, densidade e redução de rugas.
 
 **Conteúdo Programático:**
-- skinretin xpert pack
-- Os 3 pilares do skinretin xpert pack
-- Retinol-like, Retinol, Retinal e Ácido Retinóico? Entenda de vez a diferença!
-- Retinol
-- Benefícios dos derivados do retinol
-- Exossomos vegetais
-- Benefícios dos exossomas
-- Epigenética: O Poder de Mudar Sem Mudar o DNA
-- Benefícios da epigenetica
-- skinretin xpert pack – Tratamento profissional intensivo
+- skinretin xpert pack: Estética Regenerativa
+- Os 3 Pilares do skinretin xpert pack: Retinal, Exossomos e Epigenética
+- Retinoides Desvendados: Retinol, Retinal e Ácido Retinoico
+- Retinoato de Hidroxipinacolona: Regeneração sem irritação
+- Exossomos Vegetais (Poejo Asiático): Comunicação e Regeneração 360º
+- Epigenética: O poder de reativar genes da juventude sem mudar o DNA
+- Fórmula Bifásica Exclusiva: Sinergia entre as fases Aquosa e Oleosa
+- Protocolo Profissional: Preparação com mesopeel® e Massagem Kobido
+- Resultados Clínicos: Redução de rugas, uniformidade e densidade cutânea
+- Segurança e Conforto: Reparo da barreira cutânea e proteção fotobiológica
 
 **Material para Download:**
 - [Aula](https://drive.google.com/file/d/1I-O3UTz9Y313cIk8Ku1FsTX8MIgudvVx/view?usp=drive_link)
 - [Protocolo](https://drive.google.com/file/d/15bfaP5ARIps0NO5E-cz2VVTYmINVCXXB/view?usp=drive_link)
 - [Antes e Depois](https://drive.google.com/file/d/10-W1h8gWlIvbOPuoAKFT1tQkCfFZl8S6/view?usp=drive_link)
-- [Cápsula do Conhecimento](https://drive.google.com/file/d/1Ej8zA_tjvE072Fmtotd8rT0ZmoTI3L8j/view?usp=drive_link)
-- [Estudo Clínico](https://drive.google.com/file/d/1J0TVN7rd6A8Iejv4e2HObGv91l5nL22F/view?usp=drive_link)
-
-## Seção: A aplicação da linha skinretin no tratamento do envelhecimento
-### Aula 01: Melasma
-- **Duração:** 6 minutos
-- **Vídeo:** https://drive.google.com/file/d/1-ugdb_KKsu9MBH9yq6MsTi43OfINVLe_/view?usp=drive_link
-
-### Aula 02: Fototipos de peles
-- **Duração:** 6 minutos
-- **Vídeo:** https://drive.google.com/file/d/1fQNeyB1xLD05Azj0yJ84L5oXJE4oYwkg/view?usp=drive_link
-
-### Aula 03: Entendendo a melanogênese
-- **Duração:** 7 minutos
-- **Vídeo:** https://drive.google.com/file/d/1JE2SxUEhNi0oz5Jikavl8CQJWJhg2DSZ/view?usp=drive_link
-
-### Aula 04: Dominando o melasma
-- **Duração:** 8 minutos
-- **Vídeo:** https://drive.google.com/file/d/1D8vhEHBBMied3hzBZpahUxY6fwhiLEXx/view?usp=drive_link
-
-### Aula 05: melaphenone®
-- **Duração:** 17 minutos
-- **Vídeo:** https://drive.google.com/file/d/1KcobRY1vGIGBYYAZnePgHy2ywK_F0SED/view?usp=drive_link
-
-### Aula 06: cosmesome®
-- **Duração:** 3 minutos
-- **Vídeo:** https://drive.google.com/file/d/1H22cc0HjCwcA5lRjDifvNvCkvHxBD5fn/view?usp=drive_link
-
-### Aula 07: Contra indicações
-- **Duração:** 3 minutos
-- **Vídeo:** https://drive.google.com/file/d/1VXTt1kS1CBKxOdGhVZVcKWtYXjjIjtxI/view?usp=drive_link
-
-### Aula 08: Aplicação cosmelan® 1 e jornada de tratamento
-- **Duração:** 10 minutos
-- **Vídeo:** https://drive.google.com/file/d/1WePvVdKY_ttEybji0JaekYUziJSLkyB6/view?usp=drive_link
-
-### Aula 09: Protocolo cosmelan®
-- **Duração:** 7 minutos
-- **Vídeo:** https://drive.google.com/file/d/1F1WfQThAeecHKkZuRjafu7LSUBI3iQb-/view?usp=drive_link
-
-### Aula 10: Aplicação em cabine
-- **Duração:** 3 minutos
-- **Vídeo:** https://drive.google.com/file/d/1-LA8JV7tPkVcvC4SYz1FHPEgHQVKZhpi/view?usp=drive_link
+- [Cápsula do Conhecimento](https://drive.google.com/file/d/1h1GbwfLOSvZmFPhCobHW6kLZfXBTJitN/view?usp=drive_link)
+- [Estudo Clínico - Estudo in vitro em EPIDERME – Queratinócitos](https://drive.google.com/file/d/1J0TVN7rd6A8Iejv4e2HObGv91l5nL22F/view?usp=drive_link)
 
 ## Quiz: Avaliação Final
 - **Duração:** 20 minutos
@@ -88,53 +47,53 @@ O "skinretin xpert pack" é um tratamento profissional intensivo fundamentado em
 - [ ] A presença de ácido hialurônico de alto peso molecular.
 - [ ] A ação mecânica de esfoliação física.
 
-#### Pergunta: Assinale as 3 alternativas verdadeiras sobre exossomos:
-- [x] São vesículas inteligentes que transportam DNA, RNA e proteínas entre células.
-- [ ] São exossomos sintéticos criados em laboratório.
-- [x] Promovem comunicação celular precisa e regeneração epigenética.
-- [x] São derivados de origem vegetal, sustentáveis e biocompatíveis.
+#### Pergunta: Sobre os exossomos vegetais do skinretin xpert®, é correto afirmar:
+- [x] São vesículas inteligentes que transportam RNA e proteínas entre células para regeneração.
+- [ ] São exossomos sintéticos criados para esfoliação.
+- [ ] São derivados de origem animal de alta pureza.
+- [ ] Atuam apenas como conservantes biológicos.
 
-#### Pergunta: Assinale as 3 alternativas verdadeiras sobre as fases da fórmula bifásica:
-- [x] A fase aquosa é responsável pela renovação celular e estímulo de colágeno.
-- [ ] A fase oleosa atua apenas na esfoliação mecânica.
-- [x] A fase oleosa garante nutrição, conforto e reparo da barreira cutânea.
-- [x] Ambas as fases atuam de forma sinérgica para resultados regenerativos.
+#### Pergunta: Assinale a alternativa correta sobre a característica bifásica da fórmula:
+- [ ] A fase oleosa deve ser aplicada sozinha para remover a maquiagem.
+- [x] Ambas as fases (aquosa e oleosa) atuam de forma sinérgica para resultados regenerativos.
+- [ ] A fase aquosa atua apenas na esfoliação mecânica.
+- [ ] A fase oleosa causa inflamação proposital para estimular o colágeno.
 
-#### Pergunta: Sobre a fase aquosa, assinale a alternativa correta:
-- [x] Contém retinol, retinal e exossomos de poejo asiático, com ação epigenética e antioxidante.
-- [ ] Atua apenas na hidratação da pele.
-- [ ] É composta exclusivamente por óleos e ceramidas.
-- [ ] Promove descamação intensa e desconforto.
+#### Pergunta: Sobre a fase aquosa do pack, assinale a alternativa correta:
+- [x] Contém retinal e exossomos, com ação epigenética e antioxidante.
+- [ ] Atua apenas na hidratação superficial da pele.
+- [ ] É composta exclusivamente por óleos minerais para oclusão.
+- [ ] Promove descamação agressiva e imediata.
 
 #### Pergunta: O ativo retinoato de hidroxipinacolona se destaca porque:
 - [x] É um retinoide que atua diretamente nos receptores RAR, promovendo regeneração sem irritação.
-- [ ] É um ácido alfa-hidroxi com ação hidratante.
+- [ ] É um ácido hialurônico de baixo peso molecular.
 - [ ] É uma ceramida responsável pela barreira cutânea.
-- [ ] Atua apenas na superfície da pele.
+- [ ] Atua apenas na superfície da epiderme sem penetração dermoepidérmica.
 
-#### Pergunta: No protocolo profissional do skinretin xpert®, qual é o modo correto de uso das fases aquosa e oleosa?
-- [ ] Aplicar separadamente, com intervalo de 24 horas.
-- [x] Misturar 1 mL da fase aquosa e 1 mL da fase oleosa antes da aplicação.
+#### Pergunta: No protocolo profissional, qual é o modo correto de manipular as fases aquosa e oleosa?
+- [ ] Aplicar separadamente em dias diferentes.
+- [x] Misturar 1 mL da fase aquosa e 1 mL da fase oleosa na cuba antes da aplicação.
 - [ ] Aplicar somente a fase oleosa e remover após 10 minutos.
-- [ ] Misturar ambas as fases em partes iguais de 5 mL.
+- [ ] Usar apenas a fase aquosa e descartar a oleosa caso a pele seja mista.
 
-#### Pergunta: Assinale as 3 alternativas verdadeiras sobre o protocolo profissional:
-- [x] O produto é aplicado com luvas e massagem kobido até completa absorção.
-- [ ] Após a aplicação, o produto deve ser removido com algodão úmido.
-- [x] O protocolo inclui o uso de mesopeel® como etapa preparatória.
-- [x] A finalização é feita com Crystal Fiber Mask e mesoprotech® melan 130+.
+#### Pergunta: Sobre o protocolo profissional do skinretin xpert®, é verdade que:
+- [ ] O produto deve ser removido obrigatoriamente com água fria após 5 minutos.
+- [x] A finalização é feita com Crystal Fiber Mask e fotoproteção mesoprotech®.
+- [ ] O protocolo dispensa o uso de peelings preparatórios.
+- [ ] Deve ser aplicado com algodão e deixado secar naturalmente sem massagem.
 
-#### Pergunta: Assinale as 3 alternativas verdadeiras. Quais são os benefícios clínicos do protocolo skinretin xpert®?
-- [x] Redução de rugas e linhas finas.
-- [x] Uniformização do tom da pele.
-- [x] Melhora da densidade e elasticidade cutânea.
-- [ ] Efeito de descamação intensa e irritação visível.
+#### Pergunta: Quais são os principais benefícios clínicos observados com o skinretin xpert®?
+- [ ] Apenas hidratação e redução de poros.
+- [x] Redução de rugas, uniformização do tom e melhora da densidade cutânea.
+- [ ] Descamação severa e clareamento imediato de melasma.
+- [ ] Reposição hídrica exclusiva em peles jovens.
 
-#### Pergunta: Sobre o conceito de estética regenerativa, assinale a alternativa correta:
-- [x] É uma abordagem que estimula a regeneração natural da pele por meio da reprogramação celular.
-- [ ] Baseia-se apenas em procedimentos mecânicos e invasivos.
-- [ ] Não tem relação com epigenética.
-- [ ] Envolve apenas o uso de antioxidantes tópicos.
+#### Pergunta: O conceito de "Estética Regenerativa" aplicado ao skinretin baseia-se em:
+- [ ] Procedimentos puramente invasivos e indutores de inflamação severa.
+- [x] Estimular a regeneração natural da pele por meio da reprogramação e comunicação celular.
+- [ ] Uso de ácidos em alta concentração para queima química controlada.
+- [ ] Troca mecânica das camadas da pele via dermoabrasão.
 
 ## Resumo
-O curso apresenta o skinretin xpert pack, um tratamento profissional inovador baseado em estética regenerativa. Através da combinação sinérgica de retinal potente, exossomos vegetais e tecnologia epigenética, o curso detalha como reverter sinais do envelhecimento silenciando marcadores epigenéticos e estimulando a síntese de colágeno profunda. O profissional aprenderá o protocolo bifásico exclusivo para proporcionar regeneração celular intensa, firmeza e redução de rugas com máximo conforto para o paciente.
+O treinamento profissional skinretin xpert pack apresenta o ápice da estética regenerativa da mesoestetic®, unindo a potência do Retinal com a inteligência dos Exossomos e da Epigenética. O curso detalha o mecanismo de reativação gênica e comunicação celular para reverter os sinais do envelhecimento "de dentro para fora", preservando a integridade da barreira cutânea. O profissional aprenderá a executar o protocolo bifásico exclusivo, focado em densificação dérmica, redução de rugas e uniformização do tom, entregando resultados clínicos superiores com máximo conforto e segurança biológica.

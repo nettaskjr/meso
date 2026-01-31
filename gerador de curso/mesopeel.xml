@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Wed, 28 Jan 2026 03:50:38 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 02:14:45 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -78,18 +78,42 @@
     <wp:term>
       <wp:term_id>50008</wp:term_id>
       <wp:term_taxonomy>course_tag</wp:term_taxonomy>
-      <wp:term_slug>antioxidante</wp:term_slug>
-      <wp:term_name><![CDATA[antioxidante]]></wp:term_name>
+      <wp:term_slug>peeling-quimico</wp:term_slug>
+      <wp:term_name><![CDATA[peeling químico]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>senopeptide</wp:term_slug>
+      <wp:term_name><![CDATA[SENOPEPTIDE]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50010</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>renovacao-celular</wp:term_slug>
+      <wp:term_name><![CDATA[renovação celular]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50011</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>rejuvenescimento</wp:term_slug>
+      <wp:term_name><![CDATA[rejuvenescimento]]></wp:term_name>
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <item>
-      <title>mesopeel professional: Soluções de Peeling Químico da mesoestetic® para o Profissional de Estética</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=mesopeel-professional-solucoes-de-peeling-quimico-da-mesoestetic-para-o-profissional-de-estetica</link>
-      <pubDate>Wed, 28 Jan 2026 03:50:38 +0000</pubDate>
+      <title>mesopeel® professional: Soluções de Peeling Químico com Tecnologia SENOPEPTIDE®</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=mesopeel-professional-solucoes-de-peeling-quimico-com-tecnologia-senopeptide</link>
+      <pubDate>Sat, 31 Jan 2026 02:14:45 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
-      <content:encoded><![CDATA[<p>O treinamento mesopeel professional da mesoestetic® apresenta um portefólio de peelings químicos dermocosméticos direcionado exclusivamente ao profissional estético. O procedimento visa uma regeneração cutânea acelerada e controlada através de agentes quimioesfoliantes. O portefólio inclui quatro referências segmentadas por indicação: mesopeel jessner pro e mesopeel eyecon para antienvelhecimento, mesopeel melanostop tranex para pigmentação e mesopeel blemiskin para peles oleosas e acneicas. Os resultados esperados incluem purificação da pele, melhoria da textura, combate ao envelhecimento, unificação do tom, redução de hiperpigmentações e alívio das manifestações de acne.</p>
+      <content:encoded><![CDATA[<p>O treinamento <strong>mesopeel® professional</strong> apresenta um portfólio avançado de peelings químicos dermocosméticos da mesoestetic®, desenvolvidos exclusivamente para o profissional estético. O curso detalha o diferencial biotecnológico da linha: o SENOPEPTIDE®, um peptídeo sintético com ação senolítica que reduz células senescentes ("células zumbis") e estimula a regeneração cutânea controlada. O treinamento abrange quatro referências principais segmentadas por indicação clínica: mesopeel Jessner Pro (antienvelhecimento), mesopeel Melanostop Tranex (pigmentação), mesopeel Blemiskin (oleosidade/acne) e mesopeel Eyecon (área periocular). O profissional aprenderá sobre os mecanismos dos alfa-hidroxiácidos (AHA) e beta-hidroxiácidos (BHA), recomendações gerais de aplicação, protocolos de segurança e ciclos de tratamento para purificação, melhoria de textura e unificação do tom de pele.</p>
 <!-- Metadados do Curso -->
 <strong>Carga horária:</strong> 20 min<br>
 <strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
@@ -97,26 +121,28 @@
 <strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
 <br>
 <p><strong>Conteúdo Programático:</strong>
-- mesopeel professional
-- Peeling químico
-- Nova embalagem
-- senopeptide
-- Recomendações gerais de aplicação
-- Portefólio estético: produtos por indicação
-- Portefólio estético: protocolo
-- CICLO DE TRATAMENTO</p>
+- mesopeel® professional: O novo padrão em Peeling Químico
+- Conceito de Regeneração Cutânea Acelerada e Controlada
+- Inovação SENOPEPTIDE®: Ação senolítica e combate à inflamação
+- Portefólio Estético: Segmentação de produtos por indicação clínica
+- mesopeel Jessner Pro: Rejuvenescimento e luminosidade
+- mesopeel Melanostop Tranex: Foco em hiperpigmentações superficiais
+- mesopeel Blemiskin: Solução para peles oleosas e acneicas
+- mesopeel Eyecon: Protocolo específico para a zona periorbital
+- Mecanismos Moleculares: Alfa-hidroxiácidos (AHA) vs. Beta-hidroxiácidos (BHA)
+- Recomendações Gerais, Protocolos de Aplicação e Selagem com Pore Sealing Cream</p>
 <p><strong>Material para Download:</strong>
 - <a href="https://drive.google.com/file/d/1tUNDw59gzNZlHn-1L9hIXFtF7XiGMaNQ/view?usp=drive_link">Aula</a>
-- <a href="https://drive.google.com/file/d/16meUVXVgVwGRTPhjCldcceXjtWw08-Tc/view?usp=drive_link">Protocolo</a><br />
+- <a href="https://drive.google.com/file/d/16meUVXVgVwGRTPhjCldcceXjtWw08-Tc/view?usp=drive_link">Protocolo</a>
 - <a href="https://drive.google.com/file/d/1uq2-hiIlasg9MFlrHB-i-JRYCgDRNoC_/view?usp=drive_link">Produto</a>
 - <a href="https://drive.google.com/file/d/1OK_5MdJxWkrObUFlGqRt1tXZHfY1hRe2/view?usp=drive_link">Antes e Depois</a>
 - <a href="https://drive.google.com/file/d/1N95uoY6pRQ842khNDuXvQHCyyQqYox1_/view?usp=drive_link">Cápsula do Conhecimento</a>
 - <a href="https://drive.google.com/file/d/1R-si0wQPRpwE6ZL16uPxo1aNo_4a-_gs/view?usp=drive_link">Catálogo</a>
-- <a href="https://drive.google.com/file/d/1kDhx4tJufMTgI_3le8NII0oYFW4KzFFl/view?usp=drive_link">Estudo Clínico</a></p>]]></content:encoded>
-      <excerpt:encoded><![CDATA[O treinamento mesopeel professional apresenta um portfólio completo de peelings químicos dermocosméticos, focados na regeneração cutânea acelerada através do inovador senopeptide. Com soluções específicas para antienvelhecimento, pigmentação e acne, o curso capacita o profissional a utilizar ferramentas de alta eficácia para purificação da pele, melhoria de textura e unificação do tom cutâneo de forma controlada e segura.]]></excerpt:encoded>
+- <a href="https://drive.google.com/file/d/1kDhx4tJufMTgI_3le8NII0oYFW4KzFFl/view?usp=drive_link">Estudo Clínico - correção de imperfeições na zona periorbital:</a></p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[O treinamento profissional mesopeel® professional capacita o esteticista no uso da linha de peelings químicos de alta performance da mesoestetic®, agora potencializada com a tecnologia SENOPEPTIDE®. O curso detalha os protocolos específicos para rejuvenescimento, tratamento de hiperpigmentações e controle da acne, focando na regeneração cutânea acelerada e controlada. O profissional dominará os mecanismos de ação dos AHA e BHA e a aplicação segura de soluções especializadas como Melanostop Tranex e Jessner Pro, entregando resultados visíveis em purificação, textura e uniformidade do tom de pele.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:38</wp:post_date>
-      <wp:post_name>mesopeel-professional-solucoes-de-peeling-quimico-da-mesoestetic-para-o-profissional-de-estetica</wp:post_name>
+      <wp:post_date>2026-01-31 02:14:45</wp:post_date>
+      <wp:post_name>mesopeel-professional-solucoes-de-peeling-quimico-com-tecnologia-senopeptide</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
@@ -131,7 +157,10 @@
       <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
       <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
       <category domain="course_tag" nicename="mesopeel" id="50007" parent="0" description=""><![CDATA[mesopeel]]></category>
-      <category domain="course_tag" nicename="antioxidante" id="50008" parent="0" description=""><![CDATA[antioxidante]]></category>
+      <category domain="course_tag" nicename="peeling-quimico" id="50008" parent="0" description=""><![CDATA[peeling químico]]></category>
+      <category domain="course_tag" nicename="senopeptide" id="50009" parent="0" description=""><![CDATA[SENOPEPTIDE]]></category>
+      <category domain="course_tag" nicename="renovacao-celular" id="50010" parent="0" description=""><![CDATA[renovação celular]]></category>
+      <category domain="course_tag" nicename="rejuvenescimento" id="50011" parent="0" description=""><![CDATA[rejuvenescimento]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
         <wp:section_name>Avaliação Final</wp:section_name>
@@ -162,7 +191,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:38</wp:post_date>
+      <wp:post_date>2026-01-31 02:14:45</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>
@@ -258,7 +287,7 @@
       </wp:answer>
       <wp:answer>
         <wp:question_id>100001</wp:question_id>
-        <wp:answer_title><![CDATA[senopeptide]]></wp:answer_title>
+        <wp:answer_title><![CDATA[SENOPEPTIDE]]></wp:answer_title>
         <wp:answer_value>val_100001_2</wp:answer_value>
         <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true>yes</wp:answer_is_true>
@@ -287,7 +316,7 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>A ação senolítica do senopeptide está relacionada a:</title>
+      <title>A ação senolítica do SENOPEPTIDE está relacionada a:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100002</wp:post_id>
@@ -341,28 +370,28 @@
       <wp:post_name>qual-linha-mesopeel-e-considerada-padrao-ouro-para-tratamento-de-hiperpigmentacoes-superficiais</wp:post_name>
       <wp:answer>
         <wp:question_id>100003</wp:question_id>
-        <wp:answer_title><![CDATA[jessner pro]]></wp:answer_title>
+        <wp:answer_title><![CDATA[Jessner Pro]]></wp:answer_title>
         <wp:answer_value>val_100003_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100003</wp:question_id>
-        <wp:answer_title><![CDATA[blemiskin]]></wp:answer_title>
+        <wp:answer_title><![CDATA[Blemiskin]]></wp:answer_title>
         <wp:answer_value>val_100003_2</wp:answer_value>
         <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100003</wp:question_id>
-        <wp:answer_title><![CDATA[eyecon]]></wp:answer_title>
+        <wp:answer_title><![CDATA[Eyecon]]></wp:answer_title>
         <wp:answer_value>val_100003_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100003</wp:question_id>
-        <wp:answer_title><![CDATA[melanostop tranex]]></wp:answer_title>
+        <wp:answer_title><![CDATA[Melanostop Tranex]]></wp:answer_title>
         <wp:answer_value>val_100003_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
         <wp:answer_is_true>yes</wp:answer_is_true>
@@ -467,7 +496,7 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>O peeling eyecon é indicado principalmente para:</title>
+      <title>O peeling Eyecon é indicado principalmente para:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100006</wp:post_id>
@@ -512,7 +541,7 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>O ácido tranexâmico presente no melanostop tranex tem como principal ação:</title>
+      <title>O ácido tranexâmico presente no Melanostop Tranex tem como principal ação:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100007</wp:post_id>
@@ -557,7 +586,7 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>O blemiskin é indicado para:</title>
+      <title>O Blemiskin é indicado para:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100008</wp:post_id>

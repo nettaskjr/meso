@@ -1,4 +1,4 @@
-# melantran3x: Desvendando o melasma
+# melan tran3x system: A Ciência do Controle do Melasma e Hiperpigmentação
 
 ## Metadados
 - **Carga horária:** 15 minutos
@@ -6,23 +6,23 @@
 - **Setores:** Todos os colaboradores, distribuidores e representantes
 - **Nível:** Intermediário
 - **Categoria:** Atendimento / Vendas, Distribuidores, Farmacêuticos, Gestores, Marketing, Produtos, Representantes
-- **Tags:** melantran3x
+- **Tags:** melantran3x, melasma, ácido tranexâmico, despigmentante, PIGMENT CONTROL, controle solar
 - **Formador(a):** Dra. Ana Cléia Barbosa
 
 ## Descrição
-O treinamento tem como foco principal o desvendando o melasma e a linha de produtos PIGMENT CONTROL SOLUTIONS da mesoestetic®. O conteúdo aborda a fisiopatologia da hiperpigmentação, explicando como as manchas são construídas através das etapas de produção, transferência, ascensão e acúmulo de melanina. É detalhada a ação do produto profissional c.prof 210 depigmentation solution (também referido como depigmentation solution®), que possui dupla ação (corretiva e reguladora) e combina ácido tranexâmico, vitamina c, N-acetil glucosamina e idebenona. O treinamento também apresenta a linha de uso domiciliar melan tran3x (concentrado e gel cream), que utiliza um mecanismo de ação sinérgica depigmentante, e o protetor solar mesoprotech® melan 130 pigment control, essencial para o controle da pigmentação.
+O treinamento **melan tran3x system** apresenta o estado da arte no controle multifatorial das hiperpigmentações. O curso detalha a fisiopatologia do melasma, explicando como a mancha é construída através das etapas de produção, transferência, maturação e acúmulo de melanina. É explorada a ação sinérgica multinível da linha Melan Tran3x (Concentrate e Gel Cream) e do produto profissional c.prof 210, focando em ativos revolucionários como o Ácido Tranexâmico (inibidor de plasmina e vascularização), o Try Control Peptídeo (modulação epigenética de TRP-1 e MITF) e o Ácido Kójico (quelante de cobre). O profissional aprenderá como o sistema promove a degradação lisossomal dos melanossomas (autofagia) e a importância vital da fotoproteção específica com Mesoprotech® Melan 130 para estabilizar os resultados e prevenir recidivas.
 
 **Conteúdo Programático:**
-- Desvendando o melasma
-- Fisiopatologia da hiperpigmentação
-- Melanogênese e melanina
-- Como se produzem as manchas? (Produção, Transferência, Ascenção e Acumulação)
-- A mancha não nasce pronta — ela é construída
-- c.prof 210 depigmentation solution (Ações e Composição)
-- Como age o depigmentation solution®? (Dupla Ação: corretiva e reguladora)
-- Ácido tranexâmico (Mecanismo de ação na inflamação e vascularização)
-- melan tran3x (Produtos de uso domiciliar e Fórmulas de ação sinérgica depigmentantion)
-- mesoprotech® melan 130 pigment control (Proteção solar e Ativo Azeloglicina)
+- Desvendando o Melasma: Por que a mancha é uma construção celular?
+- Fisiopatologia da Hiperpigmentação: Produção, Transferência e Acúmulo
+- melan tran3x system: A Abordagem Multinível da mesoestetic®
+- Ácido Tranexâmico: O inibidor mestre de plasmina e inflamação vascular
+- Try Control Peptídeo: Epigenética aplicada à regulação de MITF
+- Mecanismos de Ação: Inibição de Tirosinase, Barreira e Autofagia
+- melan tran3x Concentrate & Gel Cream: Sinergia de Domiciliar
+- Degradação Lisossomal: A ciência de eliminar o pigmento formado
+- mesoprotech® melan 130 pigment control: Proteção UVB, UVA, HEV e IR
+- Protocolo Integrado: Cabine, Home Care e Manutenção de Longo Prazo
 
 **Material para Download:**
 - [Aula](https://drive.google.com/file/d/1cnyeQmphzRhpnFHoG6lYqFc46n2o-vI5/view?usp=drive_link)
@@ -69,7 +69,7 @@ O treinamento tem como foco principal o desvendando o melasma e a linha de produ
 - [ ] Um clareador superficial de ação cosmética
 - [x] Um sistema despigmentante de uso domiciliar com ação multinível
 - [ ] Um peeling químico de cabine
-- [ ] Um mero hidratante com ativos calmantes
+- [ ] Um mero hidratante com ativos canalisantes
 
 #### Pergunta: A alanina presente no melan tran3x atua principalmente:
 - [x] Inibindo a polimerização da eumelanina ao reduzir a atividade de TRP-2
@@ -102,4 +102,4 @@ O treinamento tem como foco principal o desvendando o melasma e a linha de produ
 - [ ] Clareamento rápido, mas com maior risco de rebote
 
 ## Resumo
-O curso apresenta o sistema despigmentante avançado melan tran3x e o produto profissional c.prof 210 depigmentation solution. O treinamento detalha a fisiopatologia do melasma e como os ativos de última geração, como o ácido tranexâmico e o Try Control Peptídeo, atuam em múltiplos níveis da melanogênese, desde a inflamação até a degradação do pigmento via autofagia. O profissional aprenderá a combinar o tratamento de cabine com a manutenção domiciliar e proteção solar específica para resultados eficazes e duradouros no controle das hiperpigmentações.
+O treinamento profissional capacita o especialista no domínio do sistema melan tran3x para o controle de hiperpigmentações complexas. O curso detalha como o sistema atua na reprogramação biológica da melanogênese, inibindo a transferência de pigmentos e ativando a autofagia celular para remover manchas acumuladas. O profissional dominará a ciência do Ácido Tranexâmico e do Try Control Peptídeo, integrando protocolos de cabine com o cuidado homecare especializado e fotoproteção avançada para entregar resultados de clareamento superiores com estabilidade clínica.

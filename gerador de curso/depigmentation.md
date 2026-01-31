@@ -1,4 +1,4 @@
-# depigmentation® e melantran3x®: a jornada da renovação
+# c.prof 210 depigmentation solution®: Jornada da Renovação e Controle do Melasma
 
 ## Metadados
 - **Carga horária:** 15 minutos
@@ -6,18 +6,23 @@
 - **Setores:** Todos os colaboradores, distribuidores e representantes
 - **Nível:** Intermediário
 - **Categoria:** Atendimento / Vendas, Distribuidores, Farmacêuticos, Gestores, Marketing, Produtos, Representantes
-- **Tags:** age element®, epigenética, rejuvenescimento inteligente
+- **Tags:** depigmentation, melasma, ácido tranexâmico, hiperpigmentação, PIGMENT CONTROL, renovação celular
 - **Formador(a):** Ana Cléia Barbosa
 
 ## Descrição
-O treinamento sobre o **depigmentation® e melantranx®** aborda o tema "Desvendando o melasma" e a solução despigmentante da mesoestetic®, a c.prof® 210 depigmentation solution®. A solução é um concentrado despigmentante intensivo da linha PIGMENT CONTROL solution®S da mesoestetic®. O treinamento detalha o produto, o programa modular e as múltiplas camadas de ação.
+O treinamento **c.prof 210 depigmentation solution®** apresenta um mergulho profundo no gerenciamento do melasma e das hiperpigmentações moderadas e resistentes. O curso detalha a solução profissional da mesoestetic® que atua através de uma dupla ação estratégica: corretiva (removendo a melanina já formada) e reguladora (controlando a produção na origem). São abordados os mecanismos moleculares de ativos como o Ácido Tranexâmico (modulação inflamatória e vascular), Vitamina C (antioxidante e inibidor de tirosinase), N-Acetil Glicosamina (renovação de textura) e Idebenona (proteção celular). O profissional aprenderá o método de tratamento estruturado em duas fases, integrando o IPC (Injeção de PIGMENT CONTROL) em consultório com o protocolo homecare especializado para garantir resultados duradouros, uniformização do tom e uma pele visivelmente renovada.
 
 **Conteúdo Programático:**
-- depigmentation® e melantranx®.
-- Desvendando o melasma.
-- Método de tratamento.
-- depigmentation® na prática com IPC.
-- Home Care.
+- Desvendando o Melasma: Fisiopatologia e Gatilhos da Hiperpigmentação
+- c.prof 210 depigmentation solution®: O Concentrado Intensivo
+- Dupla Camada de Ação: Corretiva e Reguladora
+- Ativos de Alta Performance: Ácido Tranexâmico e N-Acetil Glicosamina
+- Ação Reguladora Intercelular: Sinalizadores inflamatórios e comunicação
+- Programa Modular mesoestetic®: IPC na prática profissional
+- As Duas Fases do Tratamento: Consultório e Home Care
+- Protocolos para Manchas Resistentes e Regiões Pós-Laser
+- Gestão do Melasma: Prevenção, Correção e Manutenção do Glow
+- Estudos Clínicos: Eficácia do Microagulhamento e IPC no Tratamento
 
 **Material para Download:**
 - [Aula](https://drive.google.com/file/d/1adchPV0bFr5puE9ILtrRory6hI83k0Ty/view?usp=drive_link)
@@ -28,8 +33,9 @@ O treinamento sobre o **depigmentation® e melantranx®** aborda o tema "Desvend
 - [Estudo Clínico - microagulhamento e mesoneedling no tratamento do melasma epidérmico](https://drive.google.com/file/d/1rYjLCFuXicX88lKBegl-Maix__lpwmah/view?usp=drive_link)
 - [Estudo Clínico - despigmentante con ácido tranexámico aplicado mediante microneedling](https://drive.google.com/file/d/1-uf1-b8OGv6icpyKc0-s5KtacR3S5mpx/view?usp=drive_link)
 
-## Seção: Desvendando o melasma uma jornada rumo à pele renovada com depigmentation solution® e melantranx®
+## Seção: Desvendando o melasma uma jornada rumo à pele renovada
 Chegou a hora de dominar os tratamentos mais complexos e oferecer uma transformação real. Convidamos você para o curso "Desvendando o Melasma: Uma Jornada Rumo à Pele Renovada". Neste curso intensivo, vamos explorar a fundo o que há de mais moderno no combate à hiperpigmentação, com foco total nos revolucionários depigmentation solution® e melantranx®.
+
 ### Aula 01 – depigmentation® e melantranx®
 - **Duração:** 14 minutos
 - **Vídeo:** https://drive.google.com/file/d/1NeYzYrC4x74V11wl_OxBYlqIpbUKw46M/view?usp=drive_link
@@ -115,4 +121,4 @@ Chegou a hora de dominar os tratamentos mais complexos e oferecer uma transforma
 - [ ] Expandir a vascularização
 
 ## Resumo
-O treinamento "Desvendando o melasma" apresenta a solução despigmentante c.prof® 210 depigmentation solution® da mesoestetic®, detalhando sua dupla ação (corretiva e reguladora) e os mecanismos de ação dos seus ativos profissionais. A solução é um concentrado intensivo com uma combinação exclusiva de ácido tranexâmico, vitamina C, N-acetil glucosamina e idebenona®, indicado para o tratamento de hiperpigmentações.
+O treinamento capacita o profissional no uso da c.prof 210 depigmentation solution® como uma abordagem de excelência para hiperpigmentações resistentes. O curso detalha como a ação sinérgica de ativos reguladores intracelulares e sinalizadores inflamatórios atua no controle biológico do melasma. O especialista dominará o protocolo modular de duas etapas, integrando IPC e homecare para entregar resultados visíveis de clareamento, uniformidade e rejuvenescimento da pele, com foco na estabilidade a longo prazo dos resultados despigmentantes.

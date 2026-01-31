@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Fri, 30 Jan 2026 19:58:27 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 02:24:05 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -75,13 +75,61 @@
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
+    <wp:term>
+      <wp:term_id>50008</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>gordura-localizada</wp:term_slug>
+      <wp:term_name><![CDATA[gordura localizada]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>hldg</wp:term_slug>
+      <wp:term_name><![CDATA[HLDG]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50010</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>celulite</wp:term_slug>
+      <wp:term_name><![CDATA[celulite]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50011</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>alcachofra</wp:term_slug>
+      <wp:term_name><![CDATA[alcachofra]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50012</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>l-carnitina</wp:term_slug>
+      <wp:term_name><![CDATA[L-carnitina]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50013</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>teofilina</wp:term_slug>
+      <wp:term_name><![CDATA[teofilina]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
     <item>
-      <title>c.prof 221® Lipolytic Solution: Ação tripla inteligente</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=c-prof-221-lipolytic-solution-acao-tripla-inteligente</link>
-      <pubDate>Fri, 30 Jan 2026 19:58:27 +0000</pubDate>
+      <title>c.prof 221® Lipolytic Solution: Ação Tripla Multinível para Celulite e Gordura</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=c-prof-221-lipolytic-solution-acao-tripla-multinivel-para-celulite-e-gordura</link>
+      <pubDate>Sat, 31 Jan 2026 02:24:05 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
-      <content:encoded><![CDATA[<p>O treinamento "c.prof 221® Lipolytic Solution" apresenta uma solução de ação tripla inteligente: lipolítica, drenante e detoxificante. O produto combina alcachofra, L-carnitina, teofilina e silício orgânico para atuar de forma multinível na HLDG (celulite). A alcachofra estimula a lipólise e favorece a desintoxicação metabólica; a L-carnitina facilita o transporte de ácidos graxos para a mitocôndria (β-oxidação); a teofilina promove o despertar metabólico do tecido e a termogênese; e o silício orgânico revitaliza o tecido conjuntivo como um "cimento dérmico natural", combatendo a flacidez e estimulando fibroblastos. O objetivo clínico é alcançar uma pele mais firme, lisa e revitalizada, com melhora visível do contorno corporal através da redução de gordura, edema e toxinas.</p>
+      <content:encoded><![CDATA[<p>O treinamento <strong>c.prof 221® Lipolytic Solution</strong> apresenta uma solução de alta performance com ação tripla inteligente: lipolítica, drenante e detoxificante. O curso detalha como o produto atua de forma multinível na HLDG (celulite) e gordura localizada através da sinergia entre Alcachofra (lipólise e detoxificação), L-Carnitina (transporte de ácidos graxos para β-oxidação mitocondrial), Teofilina (estimulante metabólico e termogênico) e Silício Orgânico (reestruturação dérmica e firmeza). O profissional aprenderá os mecanismos bioenergéticos de quebra de gordura e eliminação de toxinas e edema intersticial. O objetivo clínico é proporcionar uma redensificação tecidual fisiológica, resultando em uma pele mais firme, lisa e um contorno corporal visivelmente remodelado com total segurança biológica.</p>
 <!-- Metadados do Curso -->
 <strong>Carga horária:</strong> 20 min<br>
 <strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
@@ -89,23 +137,25 @@
 <strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
 <br>
 <p><strong>Conteúdo Programático:</strong>
-- c.prof 221® Lipolytic Solution
-- Ação tripla inteligente: lipolítica, drenante e detoxificante
-- Alcachofra: lipólise e desintoxicação
-- L-Carnitina: O transporte inteligente da energia celular
-- Ação metabólica (β-oxidação) e equilíbrio bioenergético
-- Teofilina: despertar metabólico e termogênese
-- Silício Orgânico: revitalização e estímulo de colágeno
-- Sinergia com tecnologias corporais e resultados clínicos</p>
+- c.prof 221® Lipolytic Solution: O Conceito de Ação Tripla
+- Fisiopatologia da Celulite (HLDG) e Gordura Localizada
+- Alcachofra: Estímulo lipolítico e desintoxicação metabólica
+- L-Carnitina: O transporte inteligente da energia celular (β-oxidação)
+- Teofilina: Despertar metabólico, termogênese e quebra de triglicerídeos
+- Silício Orgânico: Reestruturação do tecido conjuntivo (Cimento Dérmico)
+- Mecanismos Multinível: Lipólise, Drenagem e Remodelação Dérmica
+- Atuação na Matriz Extracelular: Redução de Edema e Toxinas
+- Sinergia com Tecnologias Corporais: m.pen [pro]® e Radiofrequência
+- Resultados Clínicos: Firmeza, Textura e Contorno Corporal</p>
 <p><strong>Material para Download:</strong>
 - <a href="https://drive.google.com/file/d/1Q4nWSYQ_7qt7pA0riwYCCm66oX9nLIMK/view?usp=drive_link">Aula</a>
 - <a href="https://drive.google.com/file/d/1V_t97--HbwdRd_Mru1bpbLAv-ItG_5g0/view?usp=drive_link">Protocolo</a>
 - <a href="https://drive.google.com/file/d/1yaHsLrB_5hmzYjNzw5zXavF5WhUuMg3z/view?usp=drive_link">Produto</a>
 - <a href="https://drive.google.com/file/d/1l1_M1mg7awjHuZF4pz951KqiAyPt2Fp-/view?usp=drive_link">Cápsula do Conhecimento</a></p>]]></content:encoded>
-      <excerpt:encoded><![CDATA[O curso apresenta o Lipolytic Solution® como uma solução multinível de alta performance para o combate à celulite (HLDG). Combinando alcachofra, L-carnitina, teofilina e silício orgânico, o treinamento detalha como a quebra de gordura, a detoxificação e a reestruturação dérmica trabalham em sinergia para remodelar o contorno corporal. O profissional aprenderá os mecanismos bioenergéticos e as aplicações clínicas para oferecer tratamentos que integram lipólise, drenagem e firmeza tecidual.]]></excerpt:encoded>
+      <excerpt:encoded><![CDATA[O treinamento detalha o uso da c.prof 221® Lipolytic Solution como uma ferramenta essencial para o gerenciamento da celulite e gordura localizada. O curso explica como a combinação de ativos lipolíticos e estruturais promove uma "ação tripla" que drena toxinas, quebra gordura e fortalece a derme. O profissional aprenderá a integrar estes mecanismos em protocolos corporais avançados, entregando resultados visíveis na redução de medidas, na uniformidade da textura cutânea e na firmeza do contorno corporal.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-30 19:58:27</wp:post_date>
-      <wp:post_name>c-prof-221-lipolytic-solution-acao-tripla-inteligente</wp:post_name>
+      <wp:post_date>2026-01-31 02:24:05</wp:post_date>
+      <wp:post_name>c-prof-221-lipolytic-solution-acao-tripla-multinivel-para-celulite-e-gordura</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
@@ -120,6 +170,12 @@
       <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
       <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
       <category domain="course_tag" nicename="lipolytic" id="50007" parent="0" description=""><![CDATA[lipolytic]]></category>
+      <category domain="course_tag" nicename="gordura-localizada" id="50008" parent="0" description=""><![CDATA[gordura localizada]]></category>
+      <category domain="course_tag" nicename="hldg" id="50009" parent="0" description=""><![CDATA[HLDG]]></category>
+      <category domain="course_tag" nicename="celulite" id="50010" parent="0" description=""><![CDATA[celulite]]></category>
+      <category domain="course_tag" nicename="alcachofra" id="50011" parent="0" description=""><![CDATA[alcachofra]]></category>
+      <category domain="course_tag" nicename="l-carnitina" id="50012" parent="0" description=""><![CDATA[L-carnitina]]></category>
+      <category domain="course_tag" nicename="teofilina" id="50013" parent="0" description=""><![CDATA[teofilina]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
         <wp:section_name>Avaliação Final</wp:section_name>
@@ -150,7 +206,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-30 19:58:27</wp:post_date>
+      <wp:post_date>2026-01-31 02:24:05</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>
@@ -230,7 +286,7 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>O principal objetivo terapêutico do Lipolytic Solution é:</title>
+      <title>O principal objetivo terapêutico do Lipolytic Solution® é:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100001</wp:post_id>

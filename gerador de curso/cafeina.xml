@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Fri, 30 Jan 2026 19:28:27 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 02:23:29 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -75,13 +75,53 @@
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
+    <wp:term>
+      <wp:term_id>50008</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>lipolise</wp:term_slug>
+      <wp:term_name><![CDATA[lipólise]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>gordura-localizada</wp:term_slug>
+      <wp:term_name><![CDATA[gordura localizada]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50010</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>hldg</wp:term_slug>
+      <wp:term_name><![CDATA[HLDG]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50011</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>celulite</wp:term_slug>
+      <wp:term_name><![CDATA[celulite]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50012</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>metabolismo-local</wp:term_slug>
+      <wp:term_name><![CDATA[metabolismo local]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
     <item>
-      <title>x.prof 011® Cafeína: O despertar metabólico do tecido</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=x-prof-011-cafeina-o-despertar-metabolico-do-tecido</link>
-      <pubDate>Fri, 30 Jan 2026 19:28:27 +0000</pubDate>
+      <title>x.prof 011® Cafeína: O Despertar Metabólico do Tecido para Gordura e Celulite</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=x-prof-011-cafeina-o-despertar-metabolico-do-tecido-para-gordura-e-celulite</link>
+      <pubDate>Sat, 31 Jan 2026 02:23:29 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
-      <content:encoded><![CDATA[<p>O treinamento "x.prof 011® Cafeína" apresenta a cafeína como uma solução lipolítica de alta performance para o tratamento de gordura localizada e HLDG (celulite). Com concentração de 20%, a cafeína atua como o "despertar metabólico do tecido", estimulando a lipólise através da inibição da fosfodiesterase e aumento dos níveis de AMPc. Isso promove a quebra de triglicerídeos em ácidos graxos e glicerol, além de aumentar o metabolismo basal local e a termogênese. Os benefícios clínicos incluem a melhora da microcirculação, oxigenação tecidual e redução de edema, resultando em uma pele mais firme, lisa e revitalizada, com melhora visível do contorno corporal.</p>
+      <content:encoded><![CDATA[<p>O treinamento <strong>x.prof 011® Cafeína</strong> apresenta a cafeína como uma solução lipolítica de alta performance para o tratamento de gordura localizada e HLDG (celulite). Com concentração de 20%, a cafeína atua como o "despertar metabólico do tecido", estimulando a lipólise através da inibição da fosfodiesterase e aumento dos níveis de AMPc. Isso promove a quebra de triglicerídeos em ácidos graxos e glicerol, além de aumentar o metabolismo basal local e a termogênese. Os benefícios clínicos incluem a melhora da microcirculação, oxigenação tecidual e redução de edema, resultando em uma pele mais firme, lisa e revitalizada, com melhora visível do contorno corporal.</p>
 <!-- Metadados do Curso -->
 <strong>Carga horária:</strong> 20 min<br>
 <strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
@@ -89,25 +129,27 @@
 <strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
 <br>
 <p><strong>Conteúdo Programático:</strong>
-- x.prof 011® Cafeína
-- O despertar metabólico do tecido
-- Como age a cafeína?
-- Estimulando a lipólise
-- Termogênese e gasto energético
-- Melhora da microcirculação e HLDG (celulite)
-- Resultados clínicos</p>
+- x.prof 011® Cafeína: Bioquímica e Atividade Lipolítica
+- O Despertar Metabólico do Tecido: Mecanismo de ação biológico
+- Estimulando a Lipólise: Inibição da fosfodiesterase e aumento de AMPc
+- Termogênese e Gasto Energético: O papel da cafeína no metabolismo de gordura
+- Melhora da Microcirculação e Tratamento da HLDG (Celulite)
+- Efeitos Fisiológicos Secundários: Oxigenação e Gestão de Edema
+- Cafeína e Tecnologias Térmicas: Sinergia com Radiofrequência
+- Protocolos Corporais: Foco em Gordura Subcutânea Localizada
+- Resultados Clínicos: Contorno Corporal e Melhoria da Textura da Pele
+- Associações Estratégicas: Cafeína + Ativos Lipolíticos Complementares</p>
 <p><strong>Material para Download:</strong>
 - <a href="https://drive.google.com/file/d/1O0bc5iqrok6qJvBp_UIWZw9_foGqbdf6/view?usp=drive_link">Aula</a>
 - <a href="https://drive.google.com/file/d/1tXfXT05ZviBXC4YISzCKzxSwvT8Y8z3a/view?usp=drive_link">Protocolo</a>
-- <a href="">Antes e Depois</a>
 - <a href="https://drive.google.com/file/d/1pveVFwuOpTJMGlSLvOoVraSEGNX3V4Yn/view?usp=drive_link">Cápsula do Conhecimento</a>
-- <a href="https://drive.google.com/file/d/1EcW-OkWhtQJgD0LkiiNrr4sWu1q6NdOi/view?usp=drive_link">OS BENEFÍCIOS FARMACOLÓGICOS DA CAFEÍNA PARA A REDUÇÃO DE GORDURA LOCALIZADA</a>
+- <a href="https://drive.google.com/file/d/1EcW-OkWhtQJgD0LkiiNrr4sWu1q6NdOi/view?usp=drive_link">Os benefícios farmacológicos da cafeína para a redução de gordura localizada</a>
 - <a href="https://drive.google.com/file/d/1Nq0OgTDnqvCITTOcxKLiRmbCdNb6vEKd/view?usp=drive_link">Avaliação de injeções mesoterapêuticas de três diferentes combinações de agentes lipolíticos para contorno corporal</a>
-- <a href="https://drive.google.com/file/d/1hR4oEmr7_ZTesBpHSkNsjOHOTiIFviN7/view?usp=drive_link">MECANISMO DE AÇÃO DE COMPOSTOS UTILIZADOS NA COSMÉTICA PARA O TRATAMENTO DA GORDURA LOCALIZADA E DA CELULITE</a></p>]]></content:encoded>
-      <excerpt:encoded><![CDATA[O treinamento apresenta a cafeína 20% como um potente ativo lipolítico e estimulante metabólico para tratamentos corporais. Através da ativação da lipólise por inibição da fosfodiesterase, o curso detalha como a cafeína promove a quebra de gordura, melhora a microcirculação e reduz o aspecto da celulite (HLDG). O profissional aprenderá os mecanismos de ação tecidual e como este ativo pode ser o "despertar metabólico" para resultados superiores em contorno corporal e firmeza da pele.]]></excerpt:encoded>
+- <a href="https://drive.google.com/file/d/1hR4oEmr7_ZTesBpHSkNsjOHOTiIFviN7/view?usp=drive_link">Mecanismo de ação de compostos utilizados na cosmética para o tratamento da gordura localizada e da celulite</a></p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[O treinamento profissional apresenta o x.prof 011® Cafeína como o catalisador metabólico fundamental para o contorno corporal e combate à celulite. O curso detalha a atuação bioquímica da cafeína na quebra de triglicerídeos e no estímulo à microcirculação, resultando em uma pele mais lisa e uma silhueta mais definida. O profissional dominará a ciência da lipólise por mediação de AMPc e aprenderá a integrar este potente ativo em protocolos corporais de alta performance, entregando resultados visíveis na redução de medidas e na qualidade do tecido cutâneo.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-30 19:28:27</wp:post_date>
-      <wp:post_name>x-prof-011-cafeina-o-despertar-metabolico-do-tecido</wp:post_name>
+      <wp:post_date>2026-01-31 02:23:29</wp:post_date>
+      <wp:post_name>x-prof-011-cafeina-o-despertar-metabolico-do-tecido-para-gordura-e-celulite</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
@@ -122,6 +164,11 @@
       <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
       <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
       <category domain="course_tag" nicename="cafeina" id="50007" parent="0" description=""><![CDATA[cafeina]]></category>
+      <category domain="course_tag" nicename="lipolise" id="50008" parent="0" description=""><![CDATA[lipólise]]></category>
+      <category domain="course_tag" nicename="gordura-localizada" id="50009" parent="0" description=""><![CDATA[gordura localizada]]></category>
+      <category domain="course_tag" nicename="hldg" id="50010" parent="0" description=""><![CDATA[HLDG]]></category>
+      <category domain="course_tag" nicename="celulite" id="50011" parent="0" description=""><![CDATA[celulite]]></category>
+      <category domain="course_tag" nicename="metabolismo-local" id="50012" parent="0" description=""><![CDATA[metabolismo local]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
         <wp:section_name>Avaliação Final</wp:section_name>
@@ -152,7 +199,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-30 19:28:27</wp:post_date>
+      <wp:post_date>2026-01-31 02:23:29</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>
@@ -367,13 +414,13 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>No contexto da HLDG (celulite), a cafeína é especially indicada porque:</title>
+      <title>No contexto da HLDG (celulite), a cafeína é especialmente indicada porque:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100004</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>no-contexto-da-hldg-celulite-a-cafeina-e-especially-indicada-porque</wp:post_name>
+      <wp:post_name>no-contexto-da-hldg-celulite-a-cafeina-e-especialmente-indicada-porque</wp:post_name>
       <wp:answer>
         <wp:question_id>100004</wp:question_id>
         <wp:answer_title><![CDATA[Atua apenas no edema linfático]]></wp:answer_title>

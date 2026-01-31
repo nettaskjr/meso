@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Thu, 29 Jan 2026 01:33:36 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 02:22:09 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -75,13 +75,53 @@
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
+    <wp:term>
+      <wp:term_id>50008</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>neoestimulacao</wp:term_slug>
+      <wp:term_name><![CDATA[neoestimulação]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>rejuvenescimento-inteligente</wp:term_slug>
+      <wp:term_name><![CDATA[rejuvenescimento inteligente]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50010</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>peptideos</wp:term_slug>
+      <wp:term_name><![CDATA[peptídeos]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50011</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>acido-hialuronico</wp:term_slug>
+      <wp:term_name><![CDATA[ácido hialurônico]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50012</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>sem-inflamacao</wp:term_slug>
+      <wp:term_name><![CDATA[sem inflamação]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
     <item>
-      <title>redenx: A Nova Era da NEOestimulação Celular para um Rejuvenescimento Inteligente e Sem Inflamação</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=redenx-a-nova-era-da-neoestimulacao-celular-para-um-rejuvenescimento-inteligente-e-sem-inflamacao</link>
-      <pubDate>Thu, 29 Jan 2026 01:33:36 +0000</pubDate>
+      <title>mesohyal® redenx: NEOestimulação Celular e Rejuvenescimento sem Inflamação</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=mesohyal-redenx-neoestimulacao-celular-e-rejuvenescimento-sem-inflamacao</link>
+      <pubDate>Sat, 31 Jan 2026 02:22:09 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
-      <content:encoded><![CDATA[<p>O treinamento "mesohyal® redenx: A Nova Era da NEOestimulação Celular para um Rejuvenescimento Inteligente e Sem Inflamação" apresenta a mais recente solução intradérmica da mesoestetic® para o rejuvenescimento cutâneo, combinando ácido hialurônico não reticulado (15 mg/ml) com polipeptídeos (Tripeptídeo 2KV e Tetrapeptídeo HNQV) encapsulados em Transetossomas, garantindo entrega otimizada e maior absorção dos ativos. Diferentemente da bioestimulação tradicional que depende de inflamação controlada, o mesohyal® redenx promove uma neoestimulação celular com atuação biológica inteligente e seletiva, ativando diretamente os fibroblastos e estimulando a síntese de colágeno e elastina sem causar inflamação. O resultado é um tratamento seguro e eficaz que melhora a densidade e firmeza da pele, reduz rugas gravitacionais e sinais de envelhecimento, com benefícios adicionais como ação antioxidante, anti-inflamatória e estímulo da biogênese mitocondrial, proporcionando resultados naturais e duradouros, e sem downtime.</p>
+      <content:encoded><![CDATA[<p>O treinamento <strong>mesohyal® redenx</strong> apresenta a nova era da neoestimulação celular para um rejuvenescimento inteligente e sem inflamação. O curso detalha a solução intradérmica da mesoestetic® que combina Ácido Hialurônico não reticulado (15 mg/ml) com polipeptídeos avançados (Tripeptídeo 2KV e Tetrapeptídeo HNQV) encapsulados em Transetossomas para máxima absorção. O diferencial central do Mesohyal Redenx é a neoestimulação: a ativação direta de fibroblastos e estímulo da síntese de colágeno, elastina e lumican sem induzir o processo inflamatório tradicional dos bioestimuladores comuns. O profissional aprenderá sobre a regulação da via TGF-β, especialmente crítica em pacientes peri e pós-menopáusicas, e como o tratamento restaura a densidade cutânea, reduz rugas gravitacionais e melhora a firmeza do rosto e decote com alto perfil de segurança e sem downtime.</p>
 <!-- Metadados do Curso -->
 <strong>Carga horária:</strong> 22 min<br>
 <strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
@@ -89,16 +129,16 @@
 <strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
 <br>
 <p><strong>Conteúdo Programático:</strong>
-- mesohyal® redenx
-- Rejuvenescimento Inteligente, Sem Inflamação
-- Bioestimulação Tradicional
-- Neoestimulação
-- Composição do mesohyal® redenx
-- Tripeptídeo 2KV
-- Tetrapeptídeo HNQV
-- Transetossomas
-- Benefícios do redenx
-- A Nova Era do Rejuvenescimento Cutâneo</p>
+- mesohyal® redenx: O Rejuvenescimento Inteligente
+- Bioestimulação Tradicional Inflamatória vs. Neoestimulação Celular
+- Ativos em Destaque: Ácido Hialurônico não reticulado e Polipeptídeos
+- Tripeptídeo 2KV: Ativação da via TGF-β e síntese de proteínas estruturais
+- Tetrapeptídeo HNQV: Aumento do Lumican e organização do colágeno
+- Tecnologia Transetossomas: Estabilidade e entrega otimizada de ativos
+- Mecanismos de Redensificação: Adeus às rugas gravitacionais
+- Estética Regenerativa na Peri e Pós-Menopausa
+- Análise de Estudos Clínicos e Resultados In Vivo
+- Protocolos de Aplicação, Jornada de Tratamento e Sinergias</p>
 <p><strong>Material para Download:</strong>
 - <a href="https://drive.google.com/file/d/1yUYd8nFaYh2FlMt02imyZcKhKYOfTStb/view?usp=drive_link">Aula</a>
 - <a href="https://drive.google.com/file/d/1kByunwcT-e5qyCnhxRHj34NA7jroSIyG/view?usp=drive_link">Protocolo</a>
@@ -108,10 +148,10 @@
 - <a href="https://drive.google.com/file/d/1XwFGL8sFUtMVm9wVZLhwynxcIB_0vD58/view?usp=drive_link">Estudo Clínico - Redução de rugas gravitacionais e aumento de firmeza</a>
 - <a href="https://drive.google.com/file/d/1bduDzkLLi7iOta_lKzV_vvwt9yE_MRGE/view?usp=drive_link">Estudo Clínico - Abordagem integral do envelhecimento do decote</a>
 - <a href="https://drive.google.com/file/d/1B2gUsuQOOLETsd-sTiTdnmkjY4RfnNgb/view?usp=drive_link">Resultados Clínicos</a></p>]]></content:encoded>
-      <excerpt:encoded><![CDATA[O curso apresenta o mesohyal® redenx, um avanço na medicina regenerativa estética que introduz o conceito de neoestimulação sem inflamação. Através de uma combinação sinérgica de ácido hialurônico e polipeptídeos avançados (Tripeptídeo 2KV e Tetrapeptídeo HNQV) estabilizados em Transetossomas, o produto ativa fibroblastos e aumenta colágeno e lumican de forma fisiológica. Ideal para pacientes que buscam redensificação e tratamento de rugas gravitacionais com segurança e resultados naturais, o treinamento capacita o profissional a dominar esta nova era do rejuvenescimento.]]></excerpt:encoded>
+      <excerpt:encoded><![CDATA[O treinamento detalha a tecnologia inovadora do mesohyal® redenx como um marco na neoestimulação dérmica. O curso explica como o Tripeptídeo 2KV e o Tetrapeptídeo HNQV atuam na redensificação da pele, agindo via TGF-β e Lumican para melhorar a estrutura e elasticidade cutânea de forma bioidêntica e sem inflamação. O profissional dominará os protocolos de aplicação para rejuvenescimento em decote e rugas gravitacionais, oferecendo resultados de alta performance e naturais para pacientes que buscam reestruturação tecidual sem downtime.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-29 01:33:36</wp:post_date>
-      <wp:post_name>redenx-a-nova-era-da-neoestimulacao-celular-para-um-rejuvenescimento-inteligente-e-sem-inflamacao</wp:post_name>
+      <wp:post_date>2026-01-31 02:22:09</wp:post_date>
+      <wp:post_name>mesohyal-redenx-neoestimulacao-celular-e-rejuvenescimento-sem-inflamacao</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
@@ -126,6 +166,11 @@
       <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
       <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
       <category domain="course_tag" nicename="redenx" id="50007" parent="0" description=""><![CDATA[redenx]]></category>
+      <category domain="course_tag" nicename="neoestimulacao" id="50008" parent="0" description=""><![CDATA[neoestimulação]]></category>
+      <category domain="course_tag" nicename="rejuvenescimento-inteligente" id="50009" parent="0" description=""><![CDATA[rejuvenescimento inteligente]]></category>
+      <category domain="course_tag" nicename="peptideos" id="50010" parent="0" description=""><![CDATA[peptídeos]]></category>
+      <category domain="course_tag" nicename="acido-hialuronico" id="50011" parent="0" description=""><![CDATA[ácido hialurônico]]></category>
+      <category domain="course_tag" nicename="sem-inflamacao" id="50012" parent="0" description=""><![CDATA[sem inflamação]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
         <wp:section_name>A aplicação da linha redenx® no tratamento do envelhecimento</wp:section_name>
@@ -172,10 +217,10 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Aula 01: A revolucao do redenx</title>
+      <title>Aula 01: A revolução do Redenx</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-29 01:33:36</wp:post_date>
+      <wp:post_date>2026-01-31 02:22:09</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-01-a-revolucao-do-redenx</wp:post_name>
@@ -194,7 +239,7 @@
       <title>Aula 02: Ação do produto</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100001</wp:post_id>
-      <wp:post_date>2026-01-29 01:33:36</wp:post_date>
+      <wp:post_date>2026-01-31 02:22:09</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-02-acao-do-produto</wp:post_name>
@@ -213,7 +258,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100002</wp:post_id>
-      <wp:post_date>2026-01-29 01:33:36</wp:post_date>
+      <wp:post_date>2026-01-31 02:22:09</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>

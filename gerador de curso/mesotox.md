@@ -1,4 +1,4 @@
-# mesotox solution®: ação dermorelaxante e potencialização da toxina botulínica
+# c.prof 213® mesotox solution: Ação Dermorelaxante e Modulação Muscular Avançada
 
 ## Metadados
 - **Carga horária:** 20 minutos
@@ -6,25 +6,23 @@
 - **Setores:** Todos os colaboradores, distribuidores e representantes
 - **Nível:** Intermediário
 - **Categoria:** Atendimento / Vendas, Distribuidores, Farmacêuticos, Gestores, Marketing, Produtos, Representantes
-- **Tags:** mesotox solution®, peptídeos botulínicos, toxina botulínica, dermorelaxante
+- **Tags:** mesotox solution, peptídeos botulínicos, toxina botulínica, dermorelaxante
 - **Formador(a):** Dra. Ana Cléia Barbosa
 
 ## Descrição
-O treinamento é sobre a **c.prof 213® mesotox solution®** da mesoestetic®, que utiliza peptídeos botulínicos para o relaxamento muscular e a melhoria da aparência de rugas de expressão e da pele. Exploramos a fisiologia da contração muscular e como os ativos exclusivos atuam sinergicamente para prolongar e potencializar os resultados de procedimentos injetáveis.
+O treinamento detalha o uso da **c.prof 213® mesotox solution** da mesoestetic®, uma solução inovadora focada no relaxamento muscular e na redução de rugas de expressão. O curso explora a tecnologia de peptídeos botulínicos (Acetil Hexapeptídeo-8 e Pentapeptídeo-18) e seu mecanismo de ação sinérgico: enquanto o primeiro compete com a proteína SNAP-25 para desestabilizar o complexo SNARE, o segundo inibe a entrada de cálcio no neurônio motor, ambos reduzindo a liberação de acetilcolina. Além da ação dermorelaxante, o treinamento destaca os benefícios da Niacinamida (Vitamina B3) na fórmula para clareamento, estímulo de colágeno e reforço da barreira cutânea. O profissional aprenderá como o Mesotox potencializa e prolonga os resultados da toxina botulínica injetável, com foco em resultados in vivo e segurança farmacológica.
 
 **Conteúdo Programático:**
-- c.prof 213® mesotox solution®
-- Peptídeos botulínicos
-- Acetil Hexapeptídeo-8
-- Pentapeptídeo-18
-- Niacinamida
-- Fisiologia da contração muscular
-- Mecanismo de ação
-- Como funciona o mesotox®?
-- Quais são os seus benefícios?
-- c.prof 213® mesotox solution® + toxina botulínica
-- Reducción de arrugas según Janus II
-- Resultados in vivo
+- c.prof 213® mesotox solution: Conceito e Indicações
+- Fisiologia da Contração Muscular e Liberação de Acetilcolina
+- Peptídeos Botulínicos: Acetil Hexapeptídeo-8 (Complexo SNARE/SNAP-25)
+- Peptídeos Botulínicos: Pentapeptídeo-18 (Inibição dos Canais de Cálcio)
+- Mecanismo de Ação Sinergista: Dermorelaxamento vs. Paralisia
+- Niacinamida: Ação multifuncional em clareamento e barreira
+- Benefícios Clínicos: Suavização de Rugas de Expressão e Textura
+- Associação Estratégica: Mesotox + Toxina Botulínica Injetável
+- Análise de Resultados In Vivo (Metodologia Janus II)
+- Protocolos de Aplicação e Jornada de Tratamento
 
 **Material para Download:**
 - [Aula](https://drive.google.com/file/d/1Af4tykfpd5Yn-TqpRCbxZrAdAHAfjDdj/view?usp=drive_link)
@@ -32,7 +30,7 @@ O treinamento é sobre a **c.prof 213® mesotox solution®** da mesoestetic®, q
 - [Produto](https://drive.google.com/file/d/1011N7eOB_g6LJ5J5oOBAfUGn7ledhVAd/view?usp=drive_link)
 - [Antes e Depois](https://drive.google.com/file/d/1RaQNjxROaSNuqAn1ySnIJMXXoxjY-1jE/view?usp=drive_link)
 - [Cápsula do Conhecimento](https://drive.google.com/file/d/1ZvK-4wNrsyhLfqyPIZIB_1PNrzcw4xsj/view?usp=drive_link)
-- [Estudo Clínico](https://drive.google.com/file/d/10Xnf6ttSOAGEaEM8XAHJJYm5BaVyydgN/view?usp=drive_link)
+- [Estudo Clínico - Resumo do Estudo In Vivo da Solução c.prof 213 mesotox](https://drive.google.com/file/d/10Xnf6ttSOAGEaEM8XAHJJYm5BaVyydgN/view?usp=drive_link)
 
 ## Quiz: Avaliação Final
 - **Duração:** 20 minutos
@@ -87,7 +85,6 @@ O treinamento é sobre a **c.prof 213® mesotox solution®** da mesoestetic®, q
 - [ ] Ação de fibroblastos dérmicos
 
 #### Pergunta: Após a aplicação do c.prof 213® mesotox solution®, em quanto tempo pode-se observar o início do efeito relaxante nas linhas de expressão?
-- **Explicação:** A ação moduladora dos peptídeos permite um efeito rápido na junção neuromuscular.
 - [ ] Imediatamente após aplicação
 - [ ] De 48 a 72 horas
 - [x] Em até 24 horas
@@ -100,4 +97,4 @@ O treinamento é sobre a **c.prof 213® mesotox solution®** da mesoestetic®, q
 - [ ] Aumento da oleosidade cutânea
 
 ## Resumo
-O treinamento detalha o uso da c.prof 213® mesotox solution® para o relaxamento muscular e rejuvenescimento, focando na tecnologia de peptídeos botulínicos e na sua aplicação combinada com a toxina botulínica para potencializar resultados.
+O treinamento profissional c.prof 213® mesotox solution detalha uma abordagem farmacológica avançada para o relaxamento das fibras musculares e suavização de rugas de expressão. O curso foco na sinergia entre o Acetil Hexapeptídeo-8 e o Pentapeptídeo-18 para modular a liberação de acetilcolina, oferecendo um efeito "botox-like" funcional e seguro. O profissional aprenderá a integrar o Mesotox com procedimentos injetáveis para potencializar resultados clínicos, garantindo uma pele mais lisa, uniforme e com barreira cutânea fortalecida pela ação da Niacinamida.

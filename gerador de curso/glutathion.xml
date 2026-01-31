@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Fri, 30 Jan 2026 20:09:05 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 02:24:44 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -75,13 +75,53 @@
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
+    <wp:term>
+      <wp:term_id>50008</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>antioxidante-mestre</wp:term_slug>
+      <wp:term_name><![CDATA[antioxidante mestre]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>redox</wp:term_slug>
+      <wp:term_name><![CDATA[REDOX]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50010</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>iluminacao</wp:term_slug>
+      <wp:term_name><![CDATA[iluminação]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50011</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>rejuvenescimento</wp:term_slug>
+      <wp:term_name><![CDATA[rejuvenescimento]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50012</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>gsh</wp:term_slug>
+      <wp:term_name><![CDATA[GSH]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
     <item>
-      <title>Glutathion: Antioxidante Mestre no Combate ao Fotoenvelhecimento</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=glutathion-antioxidante-mestre-no-combate-ao-fotoenvelhecimento</link>
-      <pubDate>Fri, 30 Jan 2026 20:09:05 +0000</pubDate>
+      <title>x.prof 014 Glutathion: Antioxidante Mestre para Revitalização e Glow Cutâneo</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=x-prof-014-glutathion-antioxidante-mestre-para-revitalizacao-e-glow-cutaneo</link>
+      <pubDate>Sat, 31 Jan 2026 02:24:44 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
-      <content:encoded><![CDATA[<p>O treinamento "Glutathion" apresenta o principal antioxidante intracelular e sua importância no combate ao fotoenvelhecimento. O glutathion é um tripeptídeo endógeno (ácido glutâmico + cisteína + glicina) essencial para manter o equilíbrio REDOX e proteger o DNA das células. O curso explica como o passar dos anos e a radiação UV reduzem os níveis de GSH, aumentando o estresse oxidativo e a degradação de colágeno via MMPs. Os benefícios do glutathion incluem a neutralização de radicais livres, regeneração das vitaminas C e E, modulação da melanogênese para tons mais claros e proteção ampla da matriz dérmica, resultando em uma pele mais iluminada, uniforme e firme.</p>
+      <content:encoded><![CDATA[<p>O treinamento <strong>Glutathion</strong> apresenta o principal antioxidante intracelular e sua importância crítica na medicina estética e no combate ao fotoenvelhecimento. O curso detalha o papel deste tripeptídeo endógeno (formado por ácido glutâmico, cisteína e glicina) na manutenção do equilíbrio REDOX celular e na proteção do DNA. É abordado o impacto da queda dos níveis de Glutathion (GSH) com o envelhecimento e a exposição solar, resultando no aumento da inflamação silenciosa e na degradação das fibras de colágeno via metaloproteinases (MMPs). O curso explora a capacidade única do Glutathion de regenerar as Vitaminas C e E, além de sua poderosa ação na modulação da melanogênese, inibindo a tirosinase para promover um efeito clareador e "glow" natural. O profissional aprenderá a utilizar este ativo para neutralizar danos oxidativos profundos e restaurar a luminosidade e uniformidade da pele.</p>
 <!-- Metadados do Curso -->
 <strong>Carga horária:</strong> 20 min<br>
 <strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
@@ -89,23 +129,25 @@
 <strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
 <br>
 <p><strong>Conteúdo Programático:</strong>
-- Glutathion: antioxidante mestre
-- Trípeptido endógeno e equilíbrio REDOX
-- Envelhecimento e queda progressiva dos níveis de GSH
-- Fotoenvelhecimento: radiação UV e radicais livres (ROS)
-- Mecanismos de ação: neutralização de radicais livres e regeneração de antioxidantes
-- Glutathion e melanogênese: efeito clareador e "glow"
-- Proteção da matriz dérmica e preservação de colágeno e elastina
-- Benefícios e resultados clínicos</p>
+- Glutathion: A Ciência do Antioxidante Mestre
+- Bioquímica do Tripeptídeo Endógeno e Ciclo REDOX
+- Envelhecimento Celular: Por que os níveis de GSH caem com o tempo?
+- Fotoenvelhecimento: Proteção do DNA contra radiação UV e Radicais Livres (ROS)
+- Mecanismos de Regeneração: O ciclo sinérgico com as Vitaminas C e E
+- Ação na Melanogênese: Inibição da Tyrosinase e Efeito Iluminador
+- GSH e Melasma: Redução do Estresse que Estimula Melanócitos
+- Proteção da Matriz Dérmica: Preservação de Colágeno e Elastina
+- Glutathion + Vitamina C: A Sinergia Imbatível no Rejuvenescimento
+- Resultados Clínicos: Uniformidade, Viço e Redução da Inflamação Subclínica</p>
 <p><strong>Material para Download:</strong>
 - <a href="https://drive.google.com/file/d/1DT6Z0tsWbNoAVHnaBte-lwR9VAFo8rnw/view?usp=drive_link">Aula</a>
 - <a href="https://drive.google.com/file/d/1L2xIabnn278BwUaJbL_Ejc7sv8xbJT38/view?usp=drive_link">Protocolo</a>
 - <a href="https://drive.google.com/file/d/12w5VdoFR9LuioZt5qIsnYWqer49LGvqB/view?usp=drive_link">Cápsula do Conhecimento</a>
 - <a href="https://drive.google.com/file/d/1zFYpDKk3Q_kFA8Hzt4tjCpKO7KxGGN0Y/view?usp=drive_link">Glutationa como agente clareador da pele: fatos, mitos, evidências e controvérsias.</a></p>]]></content:encoded>
-      <excerpt:encoded><![CDATA[O treinamento explora o papel do glutathion como o "antioxidante mestre" essencial para a saúde e rejuvenescimento da pele. O curso detalha como o tripeptídeo protege o DNA e a matriz dérmica contra os danos causados por radicais livres e radiação UV, além de atuar na modulação da melanina para um tom mais uniforme e iluminado. O profissional compreenderá como os níveis de GSH impactam o envelhecimento celular e como utilizar este ativo para neutralizar a inflamação silenciosa e preservar a integridade das fibras de colágeno e elastina.]]></excerpt:encoded>
+      <excerpt:encoded><![CDATA[O treinamento detalha o papel do glutathion como o "antioxidante mestre" essencial para a saúde e rejuvenescimento da pele. O curso explica como o tripeptídeo protege o DNA e a matriz dérmica contra os danos causados por radicais livres e radiação UV, além de atuar na modulação da melanina para um tom mais uniforme e iluminado. O profissional compreenderá como os níveis de GSH impactam o envelhecimento celular e como utilizar este ativo para neutralizar a inflamação silenciosa e preservar a integridade das fibras de colágeno e elastina.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-30 20:09:05</wp:post_date>
-      <wp:post_name>glutathion-antioxidante-mestre-no-combate-ao-fotoenvelhecimento</wp:post_name>
+      <wp:post_date>2026-01-31 02:24:44</wp:post_date>
+      <wp:post_name>x-prof-014-glutathion-antioxidante-mestre-para-revitalizacao-e-glow-cutaneo</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
@@ -120,6 +162,11 @@
       <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
       <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
       <category domain="course_tag" nicename="glutathion" id="50007" parent="0" description=""><![CDATA[glutathion]]></category>
+      <category domain="course_tag" nicename="antioxidante-mestre" id="50008" parent="0" description=""><![CDATA[antioxidante mestre]]></category>
+      <category domain="course_tag" nicename="redox" id="50009" parent="0" description=""><![CDATA[REDOX]]></category>
+      <category domain="course_tag" nicename="iluminacao" id="50010" parent="0" description=""><![CDATA[iluminação]]></category>
+      <category domain="course_tag" nicename="rejuvenescimento" id="50011" parent="0" description=""><![CDATA[rejuvenescimento]]></category>
+      <category domain="course_tag" nicename="gsh" id="50012" parent="0" description=""><![CDATA[GSH]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
         <wp:section_name>Avaliação Final</wp:section_name>
@@ -150,7 +197,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-30 20:09:05</wp:post_date>
+      <wp:post_date>2026-01-31 02:24:44</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>
@@ -253,7 +300,7 @@
       </wp:answer>
       <wp:answer>
         <wp:question_id>100001</wp:question_id>
-        <wp:answer_title><![CDATA[Aumenta a atividade das MMPs.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[Aumentar a atividade das MMPs.]]></wp:answer_title>
         <wp:answer_value>val_100001_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
@@ -568,7 +615,7 @@
       </wp:answer>
       <wp:answer>
         <wp:question_id>100008</wp:question_id>
-        <wp:answer_title><![CDATA[Aumenta o tempo de ação da radiação UV.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[Aumentar o tempo de ação da radiação UV.]]></wp:answer_title>
         <wp:answer_value>val_100008_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>

@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Thu, 29 Jan 2026 02:05:04 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 02:27:10 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -75,13 +75,53 @@
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
+    <wp:term>
+      <wp:term_id>50008</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>melasma</wp:term_slug>
+      <wp:term_name><![CDATA[melasma]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>acido-tranexamico</wp:term_slug>
+      <wp:term_name><![CDATA[ácido tranexâmico]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50010</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>despigmentante</wp:term_slug>
+      <wp:term_name><![CDATA[despigmentante]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50011</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>pigment-control</wp:term_slug>
+      <wp:term_name><![CDATA[PIGMENT CONTROL]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50012</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>controle-solar</wp:term_slug>
+      <wp:term_name><![CDATA[controle solar]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
     <item>
-      <title>melantran3x: Desvendando o melasma</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=melantran3x-desvendando-o-melasma</link>
-      <pubDate>Thu, 29 Jan 2026 02:05:04 +0000</pubDate>
+      <title>melan tran3x system: A Ciência do Controle do Melasma e Hiperpigmentação</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=melan-tran3x-system-a-ciencia-do-controle-do-melasma-e-hiperpigmentacao</link>
+      <pubDate>Sat, 31 Jan 2026 02:27:10 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
-      <content:encoded><![CDATA[<p>O treinamento tem como foco principal o desvendando o melasma e a linha de produtos PIGMENT CONTROL SOLUTIONS da mesoestetic®. O conteúdo aborda a fisiopatologia da hiperpigmentação, explicando como as manchas são construídas através das etapas de produção, transferência, ascensão e acúmulo de melanina. É detalhada a ação do produto profissional c.prof 210 depigmentation solution (também referido como depigmentation solution®), que possui dupla ação (corretiva e reguladora) e combina ácido tranexâmico, vitamina c, N-acetil glucosamina e idebenona. O treinamento também apresenta a linha de uso domiciliar melan tran3x (concentrado e gel cream), que utiliza um mecanismo de ação sinérgica depigmentante, e o protetor solar mesoprotech® melan 130 pigment control, essencial para o controle da pigmentação.</p>
+      <content:encoded><![CDATA[<p>O treinamento <strong>melan tran3x system</strong> apresenta o estado da arte no controle multifatorial das hiperpigmentações. O curso detalha a fisiopatologia do melasma, explicando como a mancha é construída através das etapas de produção, transferência, maturação e acúmulo de melanina. É explorada a ação sinérgica multinível da linha Melan Tran3x (Concentrate e Gel Cream) e do produto profissional c.prof 210, focando em ativos revolucionários como o Ácido Tranexâmico (inibidor de plasmina e vascularização), o Try Control Peptídeo (modulação epigenética de TRP-1 e MITF) e o Ácido Kójico (quelante de cobre). O profissional aprenderá como o sistema promove a degradação lisossomal dos melanossomas (autofagia) e a importância vital da fotoproteção específica com Mesoprotech® Melan 130 para estabilizar os resultados e prevenir recidivas.</p>
 <!-- Metadados do Curso -->
 <strong>Carga horária:</strong> 21 min<br>
 <strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
@@ -89,26 +129,26 @@
 <strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
 <br>
 <p><strong>Conteúdo Programático:</strong>
-- Desvendando o melasma
-- Fisiopatologia da hiperpigmentação
-- Melanogênese e melanina
-- Como se produzem as manchas? (Produção, Transferência, Ascenção e Acumulação)
-- A mancha não nasce pronta — ela é construída
-- c.prof 210 depigmentation solution (Ações e Composição)
-- Como age o depigmentation solution®? (Dupla Ação: corretiva e reguladora)
-- Ácido tranexâmico (Mecanismo de ação na inflamação e vascularização)
-- melan tran3x (Produtos de uso domiciliar e Fórmulas de ação sinérgica depigmentantion)
-- mesoprotech® melan 130 pigment control (Proteção solar e Ativo Azeloglicina)</p>
+- Desvendando o Melasma: Por que a mancha é uma construção celular?
+- Fisiopatologia da Hiperpigmentação: Produção, Transferência e Acúmulo
+- melan tran3x system: A Abordagem Multinível da mesoestetic®
+- Ácido Tranexâmico: O inibidor mestre de plasmina e inflamação vascular
+- Try Control Peptídeo: Epigenética aplicada à regulação de MITF
+- Mecanismos de Ação: Inibição de Tirosinase, Barreira e Autofagia
+- melan tran3x Concentrate &amp; Gel Cream: Sinergia de Domiciliar
+- Degradação Lisossomal: A ciência de eliminar o pigmento formado
+- mesoprotech® melan 130 pigment control: Proteção UVB, UVA, HEV e IR
+- Protocolo Integrado: Cabine, Home Care e Manutenção de Longo Prazo</p>
 <p><strong>Material para Download:</strong>
 - <a href="https://drive.google.com/file/d/1cnyeQmphzRhpnFHoG6lYqFc46n2o-vI5/view?usp=drive_link">Aula</a>
 - <a href="https://drive.google.com/file/d/149JQ3nVKnlsShL70lOyztun9y_FtDrkR/view?usp=drive_link">Protocolo</a>
 - <a href="https://drive.google.com/file/d/12oIN0PiBLrlzPtLhE7CZQ3qsDc29sdDt/view?usp=drive_link">Produto</a>
 - <a href="https://drive.google.com/file/d/1q-vkM3EZQ8uC6ZDAK-ar939EYyVyGy3D/view?usp=drive_link">Antes e Depois</a>
 - <a href="https://drive.google.com/file/d/1IoXuLHSq8ejhr2cFb1vQIFGTTAwuPkH5/view?usp=drive_link">Cápsula do Conhecimento</a></p>]]></content:encoded>
-      <excerpt:encoded><![CDATA[O curso apresenta o sistema despigmentante avançado melan tran3x e o produto profissional c.prof 210 depigmentation solution. O treinamento detalha a fisiopatologia do melasma e como os ativos de última geração, como o ácido tranexâmico e o Try Control Peptídeo, atuam em múltiplos níveis da melanogênese, desde a inflamação até a degradação do pigmento via autofagia. O profissional aprenderá a combinar o tratamento de cabine com a manutenção domiciliar e proteção solar específica para resultados eficazes e duradouros no controle das hiperpigmentações.]]></excerpt:encoded>
+      <excerpt:encoded><![CDATA[O treinamento profissional capacita o especialista no domínio do sistema melan tran3x para o controle de hiperpigmentações complexas. O curso detalha como o sistema atua na reprogramação biológica da melanogênese, inibindo a transferência de pigmentos e ativando a autofagia celular para remover manchas acumuladas. O profissional dominará a ciência do Ácido Tranexâmico e do Try Control Peptídeo, integrando protocolos de cabine com o cuidado homecare especializado e fotoproteção avançada para entregar resultados de clareamento superiores com estabilidade clínica.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-29 02:05:04</wp:post_date>
-      <wp:post_name>melantran3x-desvendando-o-melasma</wp:post_name>
+      <wp:post_date>2026-01-31 02:27:10</wp:post_date>
+      <wp:post_name>melan-tran3x-system-a-ciencia-do-controle-do-melasma-e-hiperpigmentacao</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
@@ -123,6 +163,11 @@
       <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
       <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
       <category domain="course_tag" nicename="melantran3x" id="50007" parent="0" description=""><![CDATA[melantran3x]]></category>
+      <category domain="course_tag" nicename="melasma" id="50008" parent="0" description=""><![CDATA[melasma]]></category>
+      <category domain="course_tag" nicename="acido-tranexamico" id="50009" parent="0" description=""><![CDATA[ácido tranexâmico]]></category>
+      <category domain="course_tag" nicename="despigmentante" id="50010" parent="0" description=""><![CDATA[despigmentante]]></category>
+      <category domain="course_tag" nicename="pigment-control" id="50011" parent="0" description=""><![CDATA[PIGMENT CONTROL]]></category>
+      <category domain="course_tag" nicename="controle-solar" id="50012" parent="0" description=""><![CDATA[controle solar]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
         <wp:section_name>A aplicação da linha melantran3x® no tratamento do envelhecimento</wp:section_name>
@@ -166,7 +211,7 @@
       <title>Aula 01: Anatomia da pele</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-29 02:05:04</wp:post_date>
+      <wp:post_date>2026-01-31 02:27:10</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-01-anatomia-da-pele</wp:post_name>
@@ -185,7 +230,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100001</wp:post_id>
-      <wp:post_date>2026-01-29 02:05:04</wp:post_date>
+      <wp:post_date>2026-01-31 02:27:10</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>
@@ -475,7 +520,7 @@
       </wp:answer>
       <wp:answer>
         <wp:question_id>100006</wp:question_id>
-        <wp:answer_title><![CDATA[Um mero hidratante com ativos calmantes]]></wp:answer_title>
+        <wp:answer_title><![CDATA[Um mero hidratante com ativos canalisantes]]></wp:answer_title>
         <wp:answer_value>val_100006_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>

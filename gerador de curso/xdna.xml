@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Wed, 28 Jan 2026 03:50:38 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 02:21:29 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -71,28 +71,44 @@
       <wp:term_id>50007</wp:term_id>
       <wp:term_taxonomy>course_tag</wp:term_taxonomy>
       <wp:term_slug>x-dna</wp:term_slug>
-      <wp:term_name><![CDATA[X-dna]]></wp:term_name>
+      <wp:term_name><![CDATA[X-DNA]]></wp:term_name>
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <wp:term>
       <wp:term_id>50008</wp:term_id>
       <wp:term_taxonomy>course_tag</wp:term_taxonomy>
-      <wp:term_slug>regeneracao-celular</wp:term_slug>
-      <wp:term_name><![CDATA[regeneração celular]]></wp:term_name>
+      <wp:term_slug>pdrn</wp:term_slug>
+      <wp:term_name><![CDATA[PDRN]]></wp:term_name>
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <wp:term>
       <wp:term_id>50009</wp:term_id>
       <wp:term_taxonomy>course_tag</wp:term_taxonomy>
-      <wp:term_slug>dna</wp:term_slug>
-      <wp:term_name><![CDATA[dna]]></wp:term_name>
+      <wp:term_slug>polinucleotideos</wp:term_slug>
+      <wp:term_name><![CDATA[polinucleotídeos]]></wp:term_name>
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <wp:term>
       <wp:term_id>50010</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>reparacao-celular</wp:term_slug>
+      <wp:term_name><![CDATA[reparação celular]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50011</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>regeneracao</wp:term_slug>
+      <wp:term_name><![CDATA[regeneração]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50012</wp:term_id>
       <wp:term_taxonomy>course_tag</wp:term_taxonomy>
       <wp:term_slug>proteinas-estruturais</wp:term_slug>
       <wp:term_name><![CDATA[proteínas estruturais]]></wp:term_name>
@@ -100,12 +116,12 @@
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <item>
-      <title>X-dna no gerenciamento do envelhecimento</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=x-dna-no-gerenciamento-do-envelhecimento</link>
-      <pubDate>Wed, 28 Jan 2026 03:50:38 +0000</pubDate>
+      <title>x.prof® 010 X-DNA: O Poder dos Polinucleotídeos na Reparação Celular</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=x-prof-010-x-dna-o-poder-dos-polinucleotideos-na-reparacao-celular</link>
+      <pubDate>Sat, 31 Jan 2026 02:21:29 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
-      <content:encoded><![CDATA[<p>O curso sobre o <strong>X-dna</strong> apresenta este poderoso aliado no combate ao envelhecimento. Vamos explorar como este ativo atua na reparação do dna celular e no estímulo a proteínas estruturais fundamentais para a saúde da pele.</p>
+      <content:encoded><![CDATA[<p>O treinamento detalha o <strong>x.prof® 010 X-DNA</strong> da mesoestetic®, um ativo biotecnológico de alta performance baseado em polinucleotídeos (PDRN) extraídos por processos de purificação avançados. O curso explora como o X-DNA atua como um poderoso aliado no gerenciamento do envelhecimento, focando na reparação e proteção do DNA celular contra o estresse oxidativo. São abordados os mecanismos de estímulo às proteínas estruturais fundamentais, como colágeno e elastina, além da ativação de fibroblastos para reconstruir a matriz dérmica profunda. O treinamento destaca a versatilidade do ativo no tratamento de peles maduras, desidratadas e com danos solares, além de sua eficácia comprovada em estudos clínicos para rejuvenescimento facial e melhoria da firmeza e elasticidade, especialmente em peles em etapa de menopausa.</p>
 <!-- Metadados do Curso -->
 <strong>Carga horária:</strong> 37 min<br>
 <strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
@@ -113,14 +129,29 @@
 <strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
 <br>
 <p><strong>Conteúdo Programático:</strong>
-- X-dna – O poderoso aliado
-- Proteínas estruturais
-- X-dna – Regeneração do dna</p>
-<p><strong>Material para Download:</strong></p>]]></content:encoded>
-      <excerpt:encoded><![CDATA[Domine a tecnologia de reparação celular do X-dna. Aprenda como este ativo biotecnológico reconstrói a estrutura da derme e protege o dna celular contra o estresse oxidativo e o envelhecimento precoce.]]></excerpt:encoded>
+- x.prof® 010 X-DNA: Ciência e Biotecnologia do DNA
+- Polinucleotídeos (PDRN): O que são e como atuam na pele
+- Reparação Celular: Proteção do código genético contra danos externos
+- Estímulo às Proteínas Estruturais: Colágeno e Elastina
+- Mecanismo de Ação: Do reparo do DNA à regeneração dérmica
+- X-DNA e o Gerenciamento do Envelhecimento Precoce
+- Benefícios Clínicos: Rejuvenescimento, Firmeza e Densidade
+- X-DNA na Menopausa: Melhoria da elasticidade e hidratação profunda
+- Análise de Estudos Clínicos e Evidências Científicas
+- Protocolos e Aplicações com m.pen [pro]® e Mesoterapia</p>
+<p><strong>Material para Download:</strong>
+- <a href="https://drive.google.com/file/d/1QQAQAInen-O7oPJtmjNQkZ1tzrHWHlOY/view?usp=drive_link">Aula</a>
+- <a href="https://drive.google.com/file/d/1Q4Rk6sCcL8GCnieWvrvrNa1brDbdSUcv/view?usp=drive_link">Produto</a>
+- <a href="https://drive.google.com/file/d/1vuKNz4NdTDEM5i9U8CGamg-IFsOACcPw/view?usp=drive_link">Antes e Depois</a>
+- <a href="https://drive.google.com/file/d/1vuKNz4NdTDEM5i9U8CGamg-IFsOACcPw/view?usp=drive_link">Cápsula do Conhecimento</a>
+- <a href="https://drive.google.com/file/d/1V-3u1EnjT25BWL4sHbNOa9Mcr3mQJDrG/view?usp=drive_link">Estudo Clínico - Rejuvenescimento Facial</a>
+- <a href="https://drive.google.com/file/d/1DoIQSKvdq4qHrSM6Y2CKDVkifKN33lWk/view?usp=drive_link">Estudo Clínico - Envelhecimento e Menopausa</a>
+- <a href="https://drive.google.com/file/d/1ubwP5iRK_Vo4n1qpHwx_QkPnueJLxnh3/view?usp=drive_link">Estudo Clínico - Melhoria da firmeza e elasticidade cutânea em peles em etapa de menopausa</a>
+- <a href="https://drive.google.com/file/d/1gRmPnNzYUQxaWL-__NqbVCljfdvmqpqH/view?usp=drive_link">Estudo Clínico - O poder dos polinucleotídos</a></p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[O treinamento detalha o poder dos polinucleotídeos (PDRN) do x.prof® 010 X-DNA na restauração da saúde biológica da pele. O curso explica como o ativo protege e repara o DNA celular, estimulando a síntese de colágeno e reconstruindo a matriz dérmica. O profissional dominará as evidências clínicas do X-DNA no rejuvenescimento facial e na gestão dos impactos do envelhecimento e da menopausa, garantindo uma pele visivelmente mais firme, elástica e regenerada.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:38</wp:post_date>
-      <wp:post_name>x-dna-no-gerenciamento-do-envelhecimento</wp:post_name>
+      <wp:post_date>2026-01-31 02:21:29</wp:post_date>
+      <wp:post_name>x-prof-010-x-dna-o-poder-dos-polinucleotideos-na-reparacao-celular</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
@@ -134,16 +165,18 @@
       <category domain="course_category" nicename="marketing" id="50004" parent="0" description=""><![CDATA[Marketing]]></category>
       <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
       <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
-      <category domain="course_tag" nicename="x-dna" id="50007" parent="0" description=""><![CDATA[X-dna]]></category>
-      <category domain="course_tag" nicename="regeneracao-celular" id="50008" parent="0" description=""><![CDATA[regeneração celular]]></category>
-      <category domain="course_tag" nicename="dna" id="50009" parent="0" description=""><![CDATA[dna]]></category>
-      <category domain="course_tag" nicename="proteinas-estruturais" id="50010" parent="0" description=""><![CDATA[proteínas estruturais]]></category>
+      <category domain="course_tag" nicename="x-dna" id="50007" parent="0" description=""><![CDATA[X-DNA]]></category>
+      <category domain="course_tag" nicename="pdrn" id="50008" parent="0" description=""><![CDATA[PDRN]]></category>
+      <category domain="course_tag" nicename="polinucleotideos" id="50009" parent="0" description=""><![CDATA[polinucleotídeos]]></category>
+      <category domain="course_tag" nicename="reparacao-celular" id="50010" parent="0" description=""><![CDATA[reparação celular]]></category>
+      <category domain="course_tag" nicename="regeneracao" id="50011" parent="0" description=""><![CDATA[regeneração]]></category>
+      <category domain="course_tag" nicename="proteinas-estruturais" id="50012" parent="0" description=""><![CDATA[proteínas estruturais]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
-        <wp:section_name>A ciência do X-dna na reparação celular</wp:section_name>
+        <wp:section_name>A ciência do X-DNA® na reparação celular</wp:section_name>
         <wp:section_course_id>99000</wp:section_course_id>
         <wp:section_order>1</wp:section_order>
-        <wp:section_description><![CDATA[Entenda como a biotecnologia do X-dna protege e regenera o código genético da pele.]]></wp:section_description>
+        <wp:section_description><![CDATA[Entenda como a biotecnologia do X-DNA® protege e regenera o código genético da pele.]]></wp:section_description>
         <wp:section_item>
           <wp:section_id>100</wp:section_id>
           <wp:item_id>100000</wp:item_id>
@@ -190,10 +223,10 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Aula 01 – X-dna – O poderoso aliado</title>
+      <title>Aula 01 – X-DNA® – O poderoso aliado</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:38</wp:post_date>
+      <wp:post_date>2026-01-31 02:21:29</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-01-x-dna-o-poderoso-aliado</wp:post_name>
@@ -212,7 +245,7 @@
       <title>Aula 02 – Proteínas estruturais</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100001</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:38</wp:post_date>
+      <wp:post_date>2026-01-31 02:21:29</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-02-proteinas-estruturais</wp:post_name>
@@ -228,10 +261,10 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Aula 03 – X-dna – Regeneração do dna</title>
+      <title>Aula 03 – X-DNA® – Regeneração do dna®</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100002</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:38</wp:post_date>
+      <wp:post_date>2026-01-31 02:21:29</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-03-x-dna-regeneracao-do-dna</wp:post_name>
@@ -250,7 +283,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100003</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:38</wp:post_date>
+      <wp:post_date>2026-01-31 02:21:29</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>
@@ -289,13 +322,48 @@
         <wp:question_id>100006</wp:question_id>
         <wp:question_order>3</wp:question_order>
       </wp:question>
+      <wp:question>
+        <wp:quiz_id>100003</wp:quiz_id>
+        <wp:question_id>100007</wp:question_id>
+        <wp:question_order>4</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100003</wp:quiz_id>
+        <wp:question_id>100008</wp:question_id>
+        <wp:question_order>5</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100003</wp:quiz_id>
+        <wp:question_id>100009</wp:question_id>
+        <wp:question_order>6</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100003</wp:quiz_id>
+        <wp:question_id>100010</wp:question_id>
+        <wp:question_order>7</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100003</wp:quiz_id>
+        <wp:question_id>100011</wp:question_id>
+        <wp:question_order>8</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100003</wp:quiz_id>
+        <wp:question_id>100012</wp:question_id>
+        <wp:question_order>9</wp:question_order>
+      </wp:question>
+      <wp:question>
+        <wp:quiz_id>100003</wp:quiz_id>
+        <wp:question_id>100013</wp:question_id>
+        <wp:question_order>10</wp:question_order>
+      </wp:question>
       <wp:postmeta>
         <wp:meta_key>_lp_course</wp:meta_key>
         <wp:meta_value><![CDATA[99000]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
-      <title>Qual é o principal mecanismo de ação do X-dna no gerenciamento do envelhecimento?</title>
+      <title>Qual é o principal mecanismo de ação do X-DNA® no gerenciamento do envelhecimento?</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100004</wp:post_id>
@@ -304,7 +372,7 @@
       <wp:post_name>qual-e-o-principal-mecanismo-de-acao-do-x-dna-no-gerenciamento-do-envelhecimento</wp:post_name>
       <wp:answer>
         <wp:question_id>100004</wp:question_id>
-        <wp:answer_title><![CDATA[Reparação e proteção do dna celular]]></wp:answer_title>
+        <wp:answer_title><![CDATA[Reparação e proteção do dna® celular]]></wp:answer_title>
         <wp:answer_value>val_100004_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
         <wp:answer_is_true>yes</wp:answer_is_true>
@@ -340,7 +408,7 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Em relação às proteínas estruturais, o X-dna:</title>
+      <title>Em relação às proteínas estruturais, o X-DNA®:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100005</wp:post_id>
@@ -385,7 +453,7 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>O X-dna é indicado principalmente para:</title>
+      <title>O X-DNA® é indicado principalmente para:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100006</wp:post_id>
@@ -417,6 +485,321 @@
         <wp:question_id>100006</wp:question_id>
         <wp:answer_title><![CDATA[Peles com acne inflamada severa]]></wp:answer_title>
         <wp:answer_value>val_100006_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O X-DNA é composto basicamente por:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100007</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-x-dna-e-composto-basicamente-por</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Polissacarídeos]]></wp:answer_title>
+        <wp:answer_value>val_100007_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Polinucleotídeos (PDRN)]]></wp:answer_title>
+        <wp:answer_value>val_100007_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Lipídeos de cadeia curta]]></wp:answer_title>
+        <wp:answer_value>val_100007_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100007</wp:question_id>
+        <wp:answer_title><![CDATA[Proteínas do soro]]></wp:answer_title>
+        <wp:answer_value>val_100007_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Além da reparação do DNA, o X-DNA é conhecido por:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100008</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>alem-da-reparacao-do-dna-o-x-dna-e-conhecido-por</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Aumentar a oleosidade]]></wp:answer_title>
+        <wp:answer_value>val_100008_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Promover regeneração celular e proteção contra o estresse oxidativo]]></wp:answer_title>
+        <wp:answer_value>val_100008_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Inibir a circulação]]></wp:answer_title>
+        <wp:answer_value>val_100008_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100008</wp:question_id>
+        <wp:answer_title><![CDATA[Reduzir a espessura da derme]]></wp:answer_title>
+        <wp:answer_value>val_100008_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O X-DNA atua no gerenciamento do envelhecimento ao:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100009</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-x-dna-atua-no-gerenciamento-do-envelhecimento-ao</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Silenciar todos os genes]]></wp:answer_title>
+        <wp:answer_value>val_100009_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Proteger a integridade do código genético cutâneo]]></wp:answer_title>
+        <wp:answer_value>val_100009_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Aumentar a degradação de proteínas]]></wp:answer_title>
+        <wp:answer_value>val_100009_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[Reduzir a atividade dos fibroblastos]]></wp:answer_title>
+        <wp:answer_value>val_100009_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Em qual etapa da vida da mulher o X-DNA mostrou excelentes resultados em estudos clínicos?</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100010</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>em-qual-etapa-da-vida-da-mulher-o-x-dna-mostrou-excelentes-resultados-em-estudos-clinicos</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Infância]]></wp:answer_title>
+        <wp:answer_value>val_100010_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Adolescência]]></wp:answer_title>
+        <wp:answer_value>val_100010_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Menopausa]]></wp:answer_title>
+        <wp:answer_value>val_100010_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100010</wp:question_id>
+        <wp:answer_title><![CDATA[Gravidez (apenas uso capilar)]]></wp:answer_title>
+        <wp:answer_value>val_100010_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>O X-DNA ajuda a melhorar:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100011</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>o-x-dna-ajuda-a-melhorar</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100011</wp:question_id>
+        <wp:answer_title><![CDATA[Apenas a cor da pele]]></wp:answer_title>
+        <wp:answer_value>val_100011_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100011</wp:question_id>
+        <wp:answer_title><![CDATA[A firmeza, elasticidade e hidratação profunda]]></wp:answer_title>
+        <wp:answer_value>val_100011_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100011</wp:question_id>
+        <wp:answer_title><![CDATA[Somente as manchas de sol]]></wp:answer_title>
+        <wp:answer_value>val_100011_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100011</wp:question_id>
+        <wp:answer_title><![CDATA[A oleosidade excessiva]]></wp:answer_title>
+        <wp:answer_value>val_100011_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A regeneração do DNA promovida pelo ativo resulta em:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100012</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-regeneracao-do-dna-promovida-pelo-ativo-resulta-em</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100012</wp:question_id>
+        <wp:answer_title><![CDATA[Maior resistência celular e pele mais jovem]]></wp:answer_title>
+        <wp:answer_value>val_100012_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100012</wp:question_id>
+        <wp:answer_title><![CDATA[Pele mais fina e sensível]]></wp:answer_title>
+        <wp:answer_value>val_100012_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100012</wp:question_id>
+        <wp:answer_title><![CDATA[Aumento de radicais livres]]></wp:answer_title>
+        <wp:answer_value>val_100012_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100012</wp:question_id>
+        <wp:answer_title><![CDATA[Maior propensão a rugas]]></wp:answer_title>
+        <wp:answer_value>val_100012_4</wp:answer_value>
+        <wp:answer_order>4</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:postmeta>
+        <wp:meta_key>_lp_type</wp:meta_key>
+        <wp:meta_value><![CDATA[single_choice]]></wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_lp_explanation</wp:meta_key>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>A tecnologia dos polinucleotídeos do X-DNA é focada em:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <wp:post_id>100013</wp:post_id>
+      <wp:status>publish</wp:status>
+      <wp:post_type>lp_question</wp:post_type>
+      <wp:post_name>a-tecnologia-dos-polinucleotideos-do-x-dna-e-focada-em</wp:post_name>
+      <wp:answer>
+        <wp:question_id>100013</wp:question_id>
+        <wp:answer_title><![CDATA[Exfoliação química]]></wp:answer_title>
+        <wp:answer_value>val_100013_1</wp:answer_value>
+        <wp:answer_order>1</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100013</wp:question_id>
+        <wp:answer_title><![CDATA[Reconstrução da derme e reparo biológico]]></wp:answer_title>
+        <wp:answer_value>val_100013_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100013</wp:question_id>
+        <wp:answer_title><![CDATA[Limpeza profunda de poros]]></wp:answer_title>
+        <wp:answer_value>val_100013_3</wp:answer_value>
+        <wp:answer_order>3</wp:answer_order>
+        <wp:answer_is_true></wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100013</wp:question_id>
+        <wp:answer_title><![CDATA[Cobertura de imperfeições]]></wp:answer_title>
+        <wp:answer_value>val_100013_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>

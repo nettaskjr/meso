@@ -1,4 +1,4 @@
-# mesopeel® professional: Soluções de Peeling Químico da mesoestetic® para o Profissional de Estética
+# mesopeel® professional: Soluções de Peeling Químico com Tecnologia SENOPEPTIDE®
 
 ## Metadados
 - **Carga horária:** 15 minutos
@@ -6,30 +6,32 @@
 - **Setores:** Todos os colaboradores, distribuidores e representantes
 - **Nível:** Intermediário
 - **Categoria:** Atendimento / Vendas, Distribuidores, Farmacêuticos, Gestores, Marketing, Produtos, Representantes
-- **Tags:** mesopeel, antioxidante
+- **Tags:** mesopeel, peeling químico, SENOPEPTIDE®, renovação celular, rejuvenescimento
 - **Formador(a):** Dra. Ana Cléia Barbosa
 
 ## Descrição
-O treinamento mesopeel® professional da mesoestetic® apresenta um portefólio de peelings químicos dermocosméticos direcionado exclusivamente ao profissional estético. O procedimento visa uma regeneração cutânea acelerada e controlada através de agentes quimioesfoliantes. O portefólio inclui quatro referências segmentadas por indicação: mesopeel jessner pro e mesopeel eyecon para antienvelhecimento, mesopeel melanostop tranex para pigmentação e mesopeel blemiskin para peles oleosas e acneicas. Os resultados esperados incluem purificação da pele, melhoria da textura, combate ao envelhecimento, unificação do tom, redução de hiperpigmentações e alívio das manifestações de acne.
+O treinamento **mesopeel® professional** apresenta um portfólio avançado de peelings químicos dermocosméticos da mesoestetic®, desenvolvidos exclusivamente para o profissional estético. O curso detalha o diferencial biotecnológico da linha: o SENOPEPTIDE®, um peptídeo sintético com ação senolítica que reduz células senescentes ("células zumbis") e estimula a regeneração cutânea controlada. O treinamento abrange quatro referências principais segmentadas por indicação clínica: mesopeel Jessner Pro (antienvelhecimento), mesopeel Melanostop Tranex (pigmentação), mesopeel Blemiskin (oleosidade/acne) e mesopeel Eyecon (área periocular). O profissional aprenderá sobre os mecanismos dos alfa-hidroxiácidos (AHA) e beta-hidroxiácidos (BHA), recomendações gerais de aplicação, protocolos de segurança e ciclos de tratamento para purificação, melhoria de textura e unificação do tom de pele.
 
 **Conteúdo Programático:**
-- mesopeel® professional
-- Peeling químico
-- Nova embalagem
-- SENOPEPTIDE®
-- Recomendações gerais de aplicação
-- Portefólio estético: produtos por indicação
-- Portefólio estético: protocolo
-- CICLO DE TRATAMENTO
+- mesopeel® professional: O novo padrão em Peeling Químico
+- Conceito de Regeneração Cutânea Acelerada e Controlada
+- Inovação SENOPEPTIDE®: Ação senolítica e combate à inflamação
+- Portefólio Estético: Segmentação de produtos por indicação clínica
+- mesopeel Jessner Pro: Rejuvenescimento e luminosidade
+- mesopeel Melanostop Tranex: Foco em hiperpigmentações superficiais
+- mesopeel Blemiskin: Solução para peles oleosas e acneicas
+- mesopeel Eyecon: Protocolo específico para a zona periorbital
+- Mecanismos Moleculares: Alfa-hidroxiácidos (AHA) vs. Beta-hidroxiácidos (BHA)
+- Recomendações Gerais, Protocolos de Aplicação e Selagem com Pore Sealing Cream
 
 **Material para Download:**
 - [Aula](https://drive.google.com/file/d/1tUNDw59gzNZlHn-1L9hIXFtF7XiGMaNQ/view?usp=drive_link)
-- [Protocolo](https://drive.google.com/file/d/16meUVXVgVwGRTPhjCldcceXjtWw08-Tc/view?usp=drive_link)  
+- [Protocolo](https://drive.google.com/file/d/16meUVXVgVwGRTPhjCldcceXjtWw08-Tc/view?usp=drive_link)
 - [Produto](https://drive.google.com/file/d/1uq2-hiIlasg9MFlrHB-i-JRYCgDRNoC_/view?usp=drive_link)
 - [Antes e Depois](https://drive.google.com/file/d/1OK_5MdJxWkrObUFlGqRt1tXZHfY1hRe2/view?usp=drive_link)
 - [Cápsula do Conhecimento](https://drive.google.com/file/d/1N95uoY6pRQ842khNDuXvQHCyyQqYox1_/view?usp=drive_link)
 - [Catálogo](https://drive.google.com/file/d/1R-si0wQPRpwE6ZL16uPxo1aNo_4a-_gs/view?usp=drive_link)
-- [Estudo Clínico](https://drive.google.com/file/d/1kDhx4tJufMTgI_3le8NII0oYFW4KzFFl/view?usp=drive_link)
+- [Estudo Clínico - correção de imperfeições na zona periorbital:](https://drive.google.com/file/d/1kDhx4tJufMTgI_3le8NII0oYFW4KzFFl/view?usp=drive_link)
 
 ## Quiz: Avaliação Final
 - **Duração:** 20 minutos
@@ -96,4 +98,4 @@ O treinamento mesopeel® professional da mesoestetic® apresenta um portefólio 
 - [x] Pore sealing cream
 
 ## Resumo
-O treinamento mesopeel® professional apresenta um portfólio completo de peelings químicos dermocosméticos, focados na regeneração cutânea acelerada através do inovador SENOPEPTIDE®. Com soluções específicas para antienvelhecimento, pigmentação e acne, o curso capacita o profissional a utilizar ferramentas de alta eficácia para purificação da pele, melhoria de textura e unificação do tom cutâneo de forma controlada e segura.
+O treinamento profissional mesopeel® professional capacita o esteticista no uso da linha de peelings químicos de alta performance da mesoestetic®, agora potencializada com a tecnologia SENOPEPTIDE®. O curso detalha os protocolos específicos para rejuvenescimento, tratamento de hiperpigmentações e controle da acne, focando na regeneração cutânea acelerada e controlada. O profissional dominará os mecanismos de ação dos AHA e BHA e a aplicação segura de soluções especializadas como Melanostop Tranex e Jessner Pro, entregando resultados visíveis em purificação, textura e uniformidade do tom de pele.

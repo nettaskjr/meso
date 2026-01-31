@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Wed, 28 Jan 2026 03:50:37 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 02:12:52 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -70,13 +70,37 @@
     <wp:term>
       <wp:term_id>50007</wp:term_id>
       <wp:term_taxonomy>course_tag</wp:term_taxonomy>
-      <wp:term_slug>age-element</wp:term_slug>
-      <wp:term_name><![CDATA[age element]]></wp:term_name>
+      <wp:term_slug>cosmelan</wp:term_slug>
+      <wp:term_name><![CDATA[cosmelan]]></wp:term_name>
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <wp:term>
       <wp:term_id>50008</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>melasma</wp:term_slug>
+      <wp:term_name><![CDATA[melasma]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>despigmentacao</wp:term_slug>
+      <wp:term_name><![CDATA[despigmentação]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50010</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>hiperpigmentacao</wp:term_slug>
+      <wp:term_name><![CDATA[hiperpigmentação]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50011</wp:term_id>
       <wp:term_taxonomy>course_tag</wp:term_taxonomy>
       <wp:term_slug>epigenetica</wp:term_slug>
       <wp:term_name><![CDATA[epigenética]]></wp:term_name>
@@ -84,42 +108,42 @@
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <item>
-      <title>tratamento de melasma com cosmelan</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=tratamento-de-melasma-com-cosmelan</link>
-      <pubDate>Wed, 28 Jan 2026 03:50:37 +0000</pubDate>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>Tratamento de Melasma com cosmelan®: O Método Despigmentante Profissional</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=tratamento-de-melasma-com-cosmelan-o-metodo-despigmentante-profissional</link>
+      <pubDate>Sat, 31 Jan 2026 02:12:52 +0000</pubDate>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
-      <content:encoded><![CDATA[<p>O curso <strong>Tratamento de melasma com cosmelan</strong> detalha o método profissional desenvolvido pela mesoestetic® para o tratamento do melasma e outras hiperpigmentações cutâneas. A apresentação explica as bases biológicas da produção de melanina e como diferentes fototipos de pele reagem à radiação solar e a estímulos hormonais. O diferencial do tratamento reside na sua dupla ação, que combina a correção estética da mancha na superfície com a regulação profunda do melanócito. Entre as inovações tecnológicas destacam-se o uso de melaphenone e cosmesome, que utilizam inteligência epigenética e autofagia para degradar o pigmento existente. Além de clarear a pele, o protocolo oferece benefícios antienvelhecimento, estimulando o colágeno e protegendo contra o estresse oxidativo. Por fim, o guia orienta sobre o uso de fotoproteção específica e lista as contraindicações necessárias para garantir a segurança do paciente.</p>
+      <content:encoded><![CDATA[<p>O curso <strong>Tratamento de melasma com cosmelan®</strong> detalha o método profissional líder mundial desenvolvido pela mesoestetic® para o tratamento do melasma e hiperpigmentações cutâneas severas. A apresentação explora as bases biológicas da melanogênese e o diferencial da dupla ação do tratamento: a correção estética da mancha na superfície e a regulação profunda do melanócito para evitar o rebote. São abordadas as inovações biotecnológicas como o melaphenone® e o cosmesome®, que utilizam inteligência epigenética e autofagia para degradar o pigmento e reeducar a célula. Além do clareamento, o protocolo oferece benefícios antienvelhecimento, estimulando o colágeno e protegendo contra o estresse oxidativo. O treinamento orienta sobre o protocolo completo (cabine e home care), fotoproteção específica e segurança do paciente.</p>
 <!-- Metadados do Curso -->
 <strong>Carga horária:</strong> 1h 30min<br>
 <strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
 <strong>Nível:</strong> Intermediário<br>
-<strong>Formador(a):</strong> Ana Cléia Barbosa<br>
+<strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
 <br>
 <p><strong>Conteúdo Programático:</strong>
-- Melasma
-- Fototipos de peles
-- Entendendo a melanogênese
-- Dominando o melasma
-- melaphenone
-- cosmesome
-- Contra indicações
-- Aplicação cosmelan 1 e jornada de tratamento
-- Protocolo cosmelan
-- Aplicação em cabine</p>
+- Introdução ao Melasma e Bases Biológicas
+- Fototipos de Pele e Resposta Melanocítica
+- Entendendo a Melanogênese: O processo de formação da mancha
+- Biotecnologia cosmelan®: melaphenone® e cosmesome®
+- Ação Epigenética e Autofagia da Melanina
+- Mecanismos de Ação: Corretivo (Esfoliação/Regeneração) e Regulador (Inibição Enzimática)
+- Ação Anti-idade: Estímulo de Colágeno, Elastina e Inibição de MMPs
+- Protocolo de Aplicação: cosmelan® 1 (Cabine) e cosmelan® 2 (Manutenção)
+- Jornada de Tratamento, Contraindicações e Reações Esperadas
+- Resultados Clínicos e Referências Científicas</p>
 <p><strong>Material para Download:</strong>
 - <a href="https://drive.google.com/file/d/1fcNnomXPHgjbBLxlgc6dt3BKd-SjMyeA/view?usp=drive_link">Aula</a>
-- <a href="https://drive.google.com/file/d/1lYGVxH_8YiRsjGK3DxfDJ_gEZ4aUCcrE/view?usp=drive_link">Protocolo</a><br />
+- <a href="https://drive.google.com/file/d/1lYGVxH_8YiRsjGK3DxfDJ_gEZ4aUCcrE/view?usp=drive_link">Protocolo</a>
 - <a href="https://drive.google.com/file/d/1vLjEPoLMhx8ewXo0OdodLcElwKvmcHJH/view?usp=drive_link">Produto</a>
 - <a href="https://drive.google.com/file/d/1rJ_FfvNo9g5qx5s2H5Gg88cBXtxqRs7P/view?usp=drive_link">Antes e Depois</a>
 - <a href="https://drive.google.com/file/d/1T-Pg38xsPtYpBK_kEIHnQm6Dw2kUbStr/view?usp=drive_link">Cápsula do Conhecimento</a>
 - <a href="https://drive.google.com/file/d/1u2Na9tr6m96emfgSP9rEtLeOWEjoecpr/view?usp=drive_link">Catálogo</a>
-- <a href="https://drive.google.com/file/d/1qp8-un6je04FooVCgQS6qUnN1WdD0Wld/view?usp=drive_link">Estudo Clínico</a>
+- <a href="https://drive.google.com/file/d/1qp8-un6je04FooVCgQS6qUnN1WdD0Wld/view?usp=drive_link">Estudo Clínico - Segurança e eficácia de um tratamento despigmentante completo para as hiperpigmentações cutâneas mais difíceis</a>
 - <a href="https://drive.google.com/file/d/1VFErm9HwZoPt3c4dCwAbT2vV4YjoDHvU/view?usp=drive_link">Resultados Clínicos</a></p>]]></content:encoded>
-      <excerpt:encoded><![CDATA[Aprenda o método oficial da mesoestetic® para tratar melasma severo, neste curso exclusivo, você vai além do protocolo básico, entenda a ciência por trás da fórmula que revolucionou o mercado. O cosmelan é o método de despigmentação profissional que remove integralmente as manchas mais severas e persistentes, com a máxima eficácia e segurança.]]></excerpt:encoded>
+      <excerpt:encoded><![CDATA[O treinamento profissional oficial da mesoestetic® apresenta o método cosmelan®, a solução definitiva para o tratamento do melasma severo e hiperpigmentações persistentes. O curso detalha a ciência por trás da fórmula, unindo inibição enzimática profunda com regeneração epidérmica acelerada. O profissional compreenderá como os ativos de última geração, como melaphenone® e cosmesome®, reeducam as células através de mecanismos epigenéticos e autofagia, garantindo resultados clínicos excepcionais com foco na segurança e prevenção do efeito rebote.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
-      <wp:post_name>tratamento-de-melasma-com-cosmelan</wp:post_name>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
+      <wp:post_name>tratamento-de-melasma-com-cosmelan-o-metodo-despigmentante-profissional</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
@@ -133,14 +157,17 @@
       <category domain="course_category" nicename="marketing" id="50004" parent="0" description=""><![CDATA[Marketing]]></category>
       <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
       <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
-      <category domain="course_tag" nicename="age-element" id="50007" parent="0" description=""><![CDATA[age element]]></category>
-      <category domain="course_tag" nicename="epigenetica" id="50008" parent="0" description=""><![CDATA[epigenética]]></category>
+      <category domain="course_tag" nicename="cosmelan" id="50007" parent="0" description=""><![CDATA[cosmelan]]></category>
+      <category domain="course_tag" nicename="melasma" id="50008" parent="0" description=""><![CDATA[melasma]]></category>
+      <category domain="course_tag" nicename="despigmentacao" id="50009" parent="0" description=""><![CDATA[despigmentação]]></category>
+      <category domain="course_tag" nicename="hiperpigmentacao" id="50010" parent="0" description=""><![CDATA[hiperpigmentação]]></category>
+      <category domain="course_tag" nicename="epigenetica" id="50011" parent="0" description=""><![CDATA[epigenética]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
-        <wp:section_name>A aplicação da linha cosmelan no tratamento do melasma</wp:section_name>
+        <wp:section_name>A aplicação da linha cosmelan® no tratamento do melasma</wp:section_name>
         <wp:section_course_id>99000</wp:section_course_id>
         <wp:section_order>1</wp:section_order>
-        <wp:section_description><![CDATA[Mergulhe no mundo do melasma, neste curso, você vai aprender como se forma o melasma. Vai conhecer a célula que forma a melanina e o que desencadeia o melasma, vamos explorar os tipos de hiperpigmentação e entender a melanogênese. E para combater o melasma iremos explorar toda a linha do cosmelan o autêntico método despigmentante profissional, assim como todo o protocolo executado em cabine e em home care.]]></wp:section_description>
+        <wp:section_description><![CDATA[Mergulhe no mundo do melasma, neste curso, você vai aprender como se forma o melasma. Vai conhecer a célula que forma a melanina e o que desencadeia o melasma, vamos explorar os tipos de hiperpigmentação e entender a melanogênese. E para combater o melasma iremos explorar toda a linha do cosmelan® o autêntico método despigmentante profissional, assim como todo o protocolo executado em cabine e em home care.]]></wp:section_description>
         <wp:section_item>
           <wp:section_id>100</wp:section_id>
           <wp:item_id>100000</wp:item_id>
@@ -225,14 +252,14 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_instructor</wp:meta_key>
-        <wp:meta_value><![CDATA[Ana Cléia Barbosa]]></wp:meta_value>
+        <wp:meta_value><![CDATA[Dra. Ana Cléia Barbosa]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
       <title>Aula 01: Melasma</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-01-melasma</wp:post_name>
@@ -249,9 +276,9 @@
     </item>
     <item>
       <title>Aula 02: Fototipos de peles</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100001</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-02-fototipos-de-peles</wp:post_name>
@@ -267,10 +294,10 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Aula 03:  Entendendo a melanogênese</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>Aula 03: Entendendo a melanogênese</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100002</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-03-entendendo-a-melanogenese</wp:post_name>
@@ -287,9 +314,9 @@
     </item>
     <item>
       <title>Aula 04: Dominando o melasma</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100003</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-04-dominando-o-melasma</wp:post_name>
@@ -305,10 +332,10 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Aula 05: melaphenone</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>Aula 05: melaphenone®</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100004</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-05-melaphenone</wp:post_name>
@@ -324,10 +351,10 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Aula 06: cosmesome</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>Aula 06: cosmesome®</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100005</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-06-cosmesome</wp:post_name>
@@ -344,9 +371,9 @@
     </item>
     <item>
       <title>Aula 07: Contra indicações</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100006</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-07-contra-indicacoes</wp:post_name>
@@ -362,10 +389,10 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Aula 08: Aplicação cosmelan 1 e jornada de tratamento</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>Aula 08: Aplicação cosmelan® 1 e jornada de tratamento</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100007</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-08-aplicacao-cosmelan-1-e-jornada-de-tratamento</wp:post_name>
@@ -381,10 +408,10 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Aula 09: Protocolo cosmelan</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>Aula 09: Protocolo cosmelan®</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100008</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-09-protocolo-cosmelan</wp:post_name>
@@ -401,9 +428,9 @@
     </item>
     <item>
       <title>Aula 10: Aplicação em cabine</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100009</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_lesson</wp:post_type>
       <wp:post_name>aula-10-aplicacao-em-cabine</wp:post_name>
@@ -420,9 +447,9 @@
     </item>
     <item>
       <title>Avaliação Final</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100010</wp:post_id>
-      <wp:post_date>2026-01-28 03:50:37</wp:post_date>
+      <wp:post_date>2026-01-31 02:12:52</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>
@@ -502,8 +529,8 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Qual é o principal objetivo do tratamento com cosmelan?</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>Qual é o principal objetivo do tratamento com cosmelan®?</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100011</wp:post_id>
       <wp:status>publish</wp:status>
@@ -543,12 +570,12 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_explanation</wp:meta_key>
-        <wp:meta_value><![CDATA[O cosmelan atua tanto na remoção da mancha visível quanto na regulação da produção de melanina.]]></wp:meta_value>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
       <title>A fase mais intensa do protocolo ocorre entre:</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100012</wp:post_id>
       <wp:status>publish</wp:status>
@@ -588,12 +615,12 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_explanation</wp:meta_key>
-        <wp:meta_value><![CDATA[Os primeiros dias após a aplicação do cosmelan 1 são marcados pela maior descamação e renovação da pele.]]></wp:meta_value>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
-      <title>melaphenone atua principalmente:</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>melaphenone® atua principalmente:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100013</wp:post_id>
       <wp:status>publish</wp:status>
@@ -633,12 +660,12 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_explanation</wp:meta_key>
-        <wp:meta_value><![CDATA[É um ativo específico para a regulação enzimática da tirosinase.]]></wp:meta_value>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
-      <title>O tempo de ação da máscara cosmelan 1 é:</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>O tempo de ação da máscara cosmelan® 1 é:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100014</wp:post_id>
       <wp:status>publish</wp:status>
@@ -678,12 +705,12 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_explanation</wp:meta_key>
-        <wp:meta_value><![CDATA[O tempo varia conforme o fototipo, sendo o padrão entre 6 a 8 horas.]]></wp:meta_value>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
-      <title>cosmesome é formado por:</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>cosmesome® é formado por:</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100015</wp:post_id>
       <wp:status>publish</wp:status>
@@ -691,7 +718,7 @@
       <wp:post_name>cosmesome-e-formado-por</wp:post_name>
       <wp:answer>
         <wp:question_id>100015</wp:question_id>
-        <wp:answer_title><![CDATA[Ácido hialurônico e vitamina c]]></wp:answer_title>
+        <wp:answer_title><![CDATA[Ácido hialurônico e vitamina C]]></wp:answer_title>
         <wp:answer_value>val_100015_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
@@ -723,12 +750,12 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_explanation</wp:meta_key>
-        <wp:meta_value><![CDATA[Ativos encapsulados que utilizam biotecnologia para penetração profunda.]]></wp:meta_value>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
       <title>Qual fotoprotetor deve ser utilizado durante o protocolo?</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100016</wp:post_id>
       <wp:status>publish</wp:status>
@@ -750,7 +777,7 @@
       </wp:answer>
       <wp:answer>
         <wp:question_id>100016</wp:question_id>
-        <wp:answer_title><![CDATA[mesoprotech melan 130 pigment control]]></wp:answer_title>
+        <wp:answer_title><![CDATA[mesoprotech® melan 130 pigment control]]></wp:answer_title>
         <wp:answer_value>val_100016_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true>yes</wp:answer_is_true>
@@ -768,12 +795,12 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_explanation</wp:meta_key>
-        <wp:meta_value><![CDATA[O melan 130 oferece proteção contra UVA/UVB e luz visível, além de conter ativos despigmentantes.]]></wp:meta_value>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
-      <title>Quando o cosmelan 2 deve ser iniciado?</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <title>Quando o cosmelan® 2 deve ser iniciado?</title>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100017</wp:post_id>
       <wp:status>publish</wp:status>
@@ -813,12 +840,12 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_explanation</wp:meta_key>
-        <wp:meta_value><![CDATA[Iniciado em casa após a remoção da máscara profissional, geralmente a partir do 2º dia.]]></wp:meta_value>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
       <title>Entre as contraindicações, encontra-se:</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100018</wp:post_id>
       <wp:status>publish</wp:status>
@@ -858,12 +885,12 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_explanation</wp:meta_key>
-        <wp:meta_value><![CDATA[Pacientes com sensibilidade conhecida aos ativos da fórmula não devem realizar o tratamento.]]></wp:meta_value>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
       <title>O período de tratamento domiciliar dura:</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100019</wp:post_id>
       <wp:status>publish</wp:status>
@@ -903,12 +930,12 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_explanation</wp:meta_key>
-        <wp:meta_value><![CDATA[O protocolo completo de manutenção visa evitar o rebote da mancha.]]></wp:meta_value>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
       <title>Qual reação é esperada durante o tratamento?</title>
-      <dc:creator><![CDATA[ana-cleia-barbosa]]></dc:creator>
+      <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100020</wp:post_id>
       <wp:status>publish</wp:status>
@@ -948,7 +975,7 @@
       </wp:postmeta>
       <wp:postmeta>
         <wp:meta_key>_lp_explanation</wp:meta_key>
-        <wp:meta_value><![CDATA[São reações inflamatórias controladas inerentes ao processo de renovação intensa.]]></wp:meta_value>
+        <wp:meta_value><![CDATA[]]></wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>

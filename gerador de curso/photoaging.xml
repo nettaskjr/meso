@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Thu, 29 Jan 2026 02:17:30 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 02:22:50 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -75,13 +75,53 @@
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
+    <wp:term>
+      <wp:term_id>50008</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>booster-mitocondrial</wp:term_slug>
+      <wp:term_name><![CDATA[booster mitocondrial]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>idebenona</wp:term_slug>
+      <wp:term_name><![CDATA[idebenona]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50010</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>antioxidante</wp:term_slug>
+      <wp:term_name><![CDATA[antioxidante]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50011</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>rejuvenescimento</wp:term_slug>
+      <wp:term_name><![CDATA[rejuvenescimento]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50012</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>taurina</wp:term_slug>
+      <wp:term_name><![CDATA[taurina]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
     <item>
-      <title>photoaging solution® ou c.prof 211 photoaging solution</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=photoaging-solution-ou-c-prof-211-photoaging-solution</link>
-      <pubDate>Thu, 29 Jan 2026 02:17:30 +0000</pubDate>
+      <title>c.prof 211 photoaging solution: Booster Mitocondrial para Redensificação e Luminosidade</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=c-prof-211-photoaging-solution-booster-mitocondrial-para-redensificacao-e-luminosidade</link>
+      <pubDate>Sat, 31 Jan 2026 02:22:50 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
-      <content:encoded><![CDATA[<p>O treinamento photoaging solution® (ou c.prof 211 photoaging solution), subtitulado como "Um booster mitocondrial", apresenta uma solução profissional da mesoestetic® com uma combinação exclusiva de ácido hialurônico, idebenona, taurina e vitamina c, com foco em efeitos redensificantes, hidratantes e antioxidantes. O produto é um poderoso antioxidante que neutraliza radicais livres, estimula a produção de colágeno, inibe a produção excessiva de melanina e atua como protetor mitocondrial e reparador de danos celulares. A idebenona, um de seus componentes, é um transportador de elétrons que facilita a geração de ATP, reduz o estresse oxidativo e protege contra a apoptose celular, enquanto a taurina inibe a MMP-1, preservando o colágeno e a elastina. O objetivo geral do tratamento é combater o fotoenvelhecimento, suavizar rugas e linhas finas, clarear manchas e restaurar a luminosidade da pele.</p>
+      <content:encoded><![CDATA[<p>O treinamento <strong>c.prof 211 photoaging solution</strong> apresenta uma solução profissional de alta performance da mesoestetic®, focada no gerenciamento do fotoenvelhecimento e descrita como um verdadeiro "booster mitocondrial". O curso detalha a sinergia exclusiva entre o Ácido Hialurônico não reticulado, a Idebenona, a Taurina e a Vitamina C. O destaque é a Idebenona, um potente antioxidante mitocondrial que facilita a geração de ATP e protege contra a apoptose celular. O treinamento também explora como a Taurina preserva a matriz extracelular inibindo a MMP-1 (colagenase) e como a Vitamina C inibe a melanogênese oxidada. O profissional aprenderá a restaurar a densidade, hidratação e luminosidade da pele, suavizando rugas e linhas finas através de um protocolo que neutraliza o estresse oxidativo e protege a bioenergética celular.</p>
 <!-- Metadados do Curso -->
 <strong>Carga horária:</strong> 20 min<br>
 <strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
@@ -89,26 +129,26 @@
 <strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
 <br>
 <p><strong>Conteúdo Programático:</strong>
-- photoaging solution®
-- Um booster mitocondrial
-- Composição Exclusiva
-- Booster photoaging solution®
-- Vitamina c
-- Benefícios da vitamina c
-- Ácido hialurônico não reticulado
-- Idebenona
-- Taurina
-- Quais são os seus benefícios?</p>
+- photoaging solution: O Conceito de Booster Mitocondrial
+- Estresse Oxidativo e Fotoenvelhecimento: Impacto na vitalidade cutânea
+- Composição Exclusiva: Sinergia biotecnológica para rejuvenescimento
+- Idebenona: O antioxidante mitocondrial facilitador de ATP (BIO-ENERGIA)
+- Taurina: Inibição de MMP-1 e proteção contra a degradação de colágeno
+- Vitamina C: Ação antioxidante multifuncional e estímulo à neocolagênese
+- Ácido Hialurônico não reticulado: Hidratação profunda e suporte ao receptor CD44
+- Mecanismos de Redensificação e Proteção Celular Profunda
+- Protocolo Profissional com m.pen[pro]: Jornada e Sessões Recomendadas
+- Resultados Clínicos: Luminosidade, Textura e Uniformização do Tom</p>
 <p><strong>Material para Download:</strong>
 - <a href="https://drive.google.com/file/d/1L_EdUjS5x9_4uSqvTjbfDOPTDleqpxYn/view?usp=drive_link">Aula</a>
 - <a href="https://drive.google.com/file/d/1WNdbRzeTvJmnDkFU2fJIyDkTUBMOoHn2/view?usp=drive_link">Protocolo</a>
 - <a href="https://drive.google.com/file/d/1m5lGkZtay5NeJ-PWNxgtxxoMEjRx6zkK/view?usp=drive_link">Antes e Depois</a>
 - <a href="https://drive.google.com/file/d/1yK9wDV-EuhQE_ObSB66UR_xw539E_zLe/view?usp=drive_link">Cápsula do Conhecimento</a>
-- <a href="https://drive.google.com/file/d/1WgQ28dL_FGbgqvRhNF-sp1PT7VUT8PsE/view?usp=drive_link">Estudo Clínico</a></p>]]></content:encoded>
-      <excerpt:encoded><![CDATA[O curso aborda a solução profissional photoaging solution® da mesoestetic®, destacando sua função como um potente booster mitocondrial para o combate ao fotoenvelhecimento. Através de uma composição equilibrada que une vitamina c, idebenona, taurina e ácido hialurônico, o treinamento explica como neutralizar o estresse oxidativo celular e estimular a regeneração da matriz extracelular. O profissional aprenderá os benefícios de cada ativo e as orientações clínicas para suavizar rugas, clarear manchas e restaurar a vitalidade e luminosidade da pele com total segurança biológica.]]></excerpt:encoded>
+- <a href="https://drive.google.com/file/d/1WgQ28dL_FGbgqvRhNF-sp1PT7VUT8PsE/view?usp=drive_link">Estudo Clínico - Estudo in vivo c.prof 211 photoaging solution®</a></p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[O treinamento profissional c.prof 211 photoaging solution capacita o especialista no uso deste potente booster mitocondrial para reverter danos do fotoenvelhecimento. O curso detalha a atuação biológica da Idebenona e da Taurina na proteção da bioenergética celular e na preservação das redes de colágeno. O profissional dominará os protocolos clínicos para entregar uma pele redensificada, visivelmente mais luminosa e hidratada, neutralizando as causas biológicas do envelhecimento solar com segurança biológica.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-01-29 02:17:30</wp:post_date>
-      <wp:post_name>photoaging-solution-ou-c-prof-211-photoaging-solution</wp:post_name>
+      <wp:post_date>2026-01-31 02:22:50</wp:post_date>
+      <wp:post_name>c-prof-211-photoaging-solution-booster-mitocondrial-para-redensificacao-e-luminosidade</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
@@ -123,6 +163,11 @@
       <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
       <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
       <category domain="course_tag" nicename="photoaging" id="50007" parent="0" description=""><![CDATA[photoaging]]></category>
+      <category domain="course_tag" nicename="booster-mitocondrial" id="50008" parent="0" description=""><![CDATA[booster mitocondrial]]></category>
+      <category domain="course_tag" nicename="idebenona" id="50009" parent="0" description=""><![CDATA[idebenona]]></category>
+      <category domain="course_tag" nicename="antioxidante" id="50010" parent="0" description=""><![CDATA[antioxidante]]></category>
+      <category domain="course_tag" nicename="rejuvenescimento" id="50011" parent="0" description=""><![CDATA[rejuvenescimento]]></category>
+      <category domain="course_tag" nicename="taurina" id="50012" parent="0" description=""><![CDATA[taurina]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
         <wp:section_name>Avaliação Final</wp:section_name>
@@ -153,7 +198,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-01-29 02:17:30</wp:post_date>
+      <wp:post_date>2026-01-31 02:22:50</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>
