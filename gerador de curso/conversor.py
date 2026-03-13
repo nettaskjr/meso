@@ -242,22 +242,27 @@ class LearnPressGenerator:
                     if 'hora' in dur_text: total_minutes += num * 60
                     else: total_minutes += num
         
-        if has_durations and total_minutes > 0:
+        # Só sobrescrevemos a Carga horária se ela não existir ou se for explicitamente orquestrada para ser calculada
+        current_meta_val = self.course_data['metadata'].get('Carga horária', '').lower()
+        should_use_calculated = not current_meta_val or "calculado" in current_meta_val
+        
+        if has_durations and total_minutes > 0 and should_use_calculated:
             if total_minutes >= 60:
                 h, m = divmod(total_minutes, 60)
                 display_dur = f"{h}h" + (f" {m}min" if m > 0 else "")
             else: display_dur = f"{total_minutes} min"
             self.course_data['metadata']['Carga horária'] = display_dur
-        else:
-            manual_val = self.course_data['metadata'].get('Carga horária', '')
-            if "calculado" in manual_val.lower(): self.course_data['metadata']['Carga horária'] = "0h"
+        elif "calculado" in current_meta_val:
+            self.course_data['metadata']['Carga horária'] = "0h"
 
         # Descrição Final
         if desc_raw_text:
             meta_block = "\n<!-- Metadados do Curso -->\n"
-            exclude_from_desc = ['Imagem', 'Categoria', 'Tags', 'Autor']
+            # Lista de exclusão robusta (lowercase) para não poluir a descrição visual
+            # Removido 'Formador' da lista para que volte a aparecer na descrição
+            exclude_from_desc = [k.lower() for k in ['Imagem', 'Categoria', 'Tags', 'Autor', 'Certificado']]
             for key, val in self.course_data['metadata'].items():
-                if key not in exclude_from_desc:
+                if key.lower().strip() not in exclude_from_desc:
                     meta_block += f"<strong>{key}:</strong> {val}<br>\n"
             meta_block += "<br>\n"
             if "Conteúdo Programático" in desc_raw_text:
@@ -560,14 +565,38 @@ class LearnPressGenerator:
                 n = re.search(r'(\d+)', d)
                 if n: total_mins += (int(n.group(1))*60) if 'hora' in d.lower() else int(n.group(1))
 
-        technical_duration = f"{total_mins} minute" if total_mins > 0 else self.course_data['metadata'].get('Carga horária', '0 minute')
+        # Determina a duração técnica final. 
+        # REGRA: Se houver um valor explícito em 'Carga horária' nos metadados, e não houver vídeos, usamos ele.
+        has_videos = any(it.get('video_url') for s in self.course_data['sections'] for it in s['items'] if it['type'] == 'lp_lesson')
+        
+        explicit_meta_duration = self.course_data['metadata'].get('Carga horária', '')
+        
+        if explicit_meta_duration and not has_videos:
+            technical_duration = explicit_meta_duration
+        else:
+            technical_duration = f"{total_mins} minute" if total_mins > 0 else explicit_meta_duration or '0 minute'
+            
         technical_duration = technical_duration.lower().replace('horas', 'hour').replace('hora', 'hour').replace('minutos', 'minute').replace('minuto', 'minute')
 
-        meta_mapping = {'Carga horária': '_lp_duration', 'Nível': '_lp_level', 'Formador(a)': '_lp_instructor'}
+        meta_mapping = {
+            'Carga horária': '_lp_duration', 
+            'Nível': '_lp_level', 
+            'Formador(a)': '_lp_instructor',
+            'Certificado': '_lp_cert_template'
+        }
         for l, v in self.course_data['metadata'].items():
             k = meta_mapping.get(l)
-            if k:
-                if k == '_lp_duration': v = technical_duration
+            if not k: continue
+            
+            if k == '_lp_duration': v = technical_duration
+            
+            # Para certificados, garantimos compatibilidade com diferentes versões do LearnPress
+            if l.lower() == 'certificado':
+                for cert_key in ['_lp_cert_template', '_lp_certificate', '_lp_course_certificate']:
+                    pm = etree.SubElement(course_item, "{%s}postmeta" % NS_WP)
+                    etree.SubElement(pm, "{%s}meta_key" % NS_WP).text = cert_key
+                    etree.SubElement(pm, "{%s}meta_value" % NS_WP).text = etree.CDATA(v)
+            else:
                 pm = etree.SubElement(course_item, "{%s}postmeta" % NS_WP)
                 etree.SubElement(pm, "{%s}meta_key" % NS_WP).text = k
                 etree.SubElement(pm, "{%s}meta_value" % NS_WP).text = etree.CDATA(v)
