@@ -4,7 +4,7 @@
     <title>Mesoestetic Academy</title>
     <link>https://academy.mesoestetic.com.br</link>
     <description>Cursos e Treinamentos</description>
-    <pubDate>Fri, 13 Mar 2026 10:51:13 +0000</pubDate>
+    <pubDate>Sun, 15 Mar 2026 01:41:49 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>4.1.0</wp:wxr_version>
     <wp:base_site_url>https://academy.mesoestetic.com.br</wp:base_site_url>
@@ -70,13 +70,21 @@
     <wp:term>
       <wp:term_id>50007</wp:term_id>
       <wp:term_taxonomy>course_tag</wp:term_taxonomy>
-      <wp:term_slug>draining-solution</wp:term_slug>
-      <wp:term_name><![CDATA[draining solution]]></wp:term_name>
+      <wp:term_slug>reductonidasa</wp:term_slug>
+      <wp:term_name><![CDATA[reductonidasa]]></wp:term_name>
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <wp:term>
       <wp:term_id>50008</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>lipolitico</wp:term_slug>
+      <wp:term_name><![CDATA[lipolítico]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50009</wp:term_id>
       <wp:term_taxonomy>course_tag</wp:term_taxonomy>
       <wp:term_slug>gordura</wp:term_slug>
       <wp:term_name><![CDATA[gordura]]></wp:term_name>
@@ -84,20 +92,28 @@
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <wp:term>
-      <wp:term_id>50009</wp:term_id>
+      <wp:term_id>50010</wp:term_id>
       <wp:term_taxonomy>course_tag</wp:term_taxonomy>
-      <wp:term_slug>microagulhamento</wp:term_slug>
-      <wp:term_name><![CDATA[microagulhamento]]></wp:term_name>
+      <wp:term_slug>celulite</wp:term_slug>
+      <wp:term_name><![CDATA[celulite]]></wp:term_name>
+      <wp:term_parent><![CDATA[]]></wp:term_parent>
+      <wp:term_description><![CDATA[]]></wp:term_description>
+    </wp:term>
+    <wp:term>
+      <wp:term_id>50011</wp:term_id>
+      <wp:term_taxonomy>course_tag</wp:term_taxonomy>
+      <wp:term_slug>fibrose</wp:term_slug>
+      <wp:term_name><![CDATA[fibrose]]></wp:term_name>
       <wp:term_parent><![CDATA[]]></wp:term_parent>
       <wp:term_description><![CDATA[]]></wp:term_description>
     </wp:term>
     <item>
-      <title>draining solution: Excelência com alma</title>
-      <link>https://academy.mesoestetic.com.br/?lp_course=draining-solution-excelencia-com-alma</link>
-      <pubDate>Fri, 13 Mar 2026 10:51:13 +0000</pubDate>
+      <title>reductonidasa: Reversibilidade, controle e excelência clínica</title>
+      <link>https://academy.mesoestetic.com.br/?lp_course=reductonidasa-reversibilidade-controle-e-excelencia-clinica</link>
+      <pubDate>Sun, 15 Mar 2026 01:41:49 +0000</pubDate>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <guid isPermaLink="false">https://academy.mesoestetic.com.br/?post_type=lp_course&amp;#038;p=99000</guid>
-      <content:encoded><![CDATA[<p>O treinamento <strong>draining solution: Excelência com alma</strong> oferece uma imersão técnica completa voltada para profissionais que buscam excelência em resultados clínicos e performance comercial. A abordagem integra o embasamento científico de vanguarda — focado em mecanismos de ação e eficácia comprovada — à aplicação prática de protocolos inovadores. Contexto técnico: draining solution Benefícios: drenante, descongestionante, venotônica, melhora a circulação sanguínea, dor e edema.. Ao concluir este módulo, o aluno estará apto a dominar as soluções diagnósticas e terapêuticas da mesoestetic®, elevando o padrão de atendimento e conversão em sua prática profissional.</p>
+      <content:encoded><![CDATA[<p>O treinamento <strong>reductonidasa: Reversibilidade, controle e excelência clínica</strong> oferece uma imersão técnica completa voltada para profissionais que buscam excelência em resultados clínicos e performance comercial. A abordagem integra o embasamento científico de vanguarda — focado em mecanismos de ação e eficácia comprovada — à aplicação prática de protocolos inovadores. Contexto técnico: Excelência com alma. Reversibilidade, controle e excelência clínica Reversibilidade como padrão de excelência hialuronidase 1500 UI | mesoestetic®. Ao concluir este módulo, o aluno estará apto a dominar as soluções diagnósticas e terapêuticas da mesoestetic®, elevando o padrão de atendimento e conversão em sua prática profissional.</p>
 <!-- Metadados do Curso -->
 <strong>Carga horária:</strong> 20 minutos<br>
 <strong>Setores:</strong> Todos os colaboradores, distribuidores e representantes<br>
@@ -105,27 +121,79 @@
 <strong>Formador(a):</strong> Dra. Ana Cléia Barbosa<br>
 <br>
 <p><strong>Conteúdo Programático:</strong>
-- Possui uma combinação de ativos com efeito
-- A escina é um ativo  encontrado nas sementes do castanha-da-Índia
-- Para um tratamento completo, faça sessões</p>
-<p><strong>Material para Download:</strong>
-<strong>Aula:</strong> [dflip source="https://drive.google.com/uc?id=1Fx6G_n4svjXbieOqDqO1mc7ItcdhhEaj" download="false" type="thumb" outline="true"][/dflip]
-<strong>Protocolo:</strong> [dflip source="https://drive.google.com/uc?id=1eKYbwlsTV_JZIyLBtkBTXCRe71VobToL" download="false" type="thumb" outline="true"][/dflip]
-<strong>Produto:</strong> [dflip source="https://drive.google.com/uc?id=1Ite4e28Yy2Ae7eAORMuQ-N1orptyOwFu" download="false" type="thumb" outline="true"][/dflip]
-<strong>Cápsula do Conhecimento:</strong> [dflip source="https://drive.google.com/uc?id=1KgM6R14X-RIA6ubYwKMXtD72bcajp50b" download="false" type="thumb" outline="true"][/dflip]
-<strong>Estudo Clínico - Atividade antioxitande da rutina:</strong> [dflip source="https://drive.google.com/uc?id=1Wvi9oR9BWv3QMdqLV_GQWyrm0q2rHaax" download="false" type="thumb" outline="true"][/dflip]
-<strong>Estudo Clínico - Escina: uma revisão de suas propriedades antiedematosas, anti-inflamatórias e venotônicas:</strong> [dflip source="https://drive.google.com/uc?id=1S8k2i94_5_hrZW0xhenTprwQgXKXGnoW" download="false" type="thumb" outline="true"][/dflip]
-<strong>Estudo Clínico - Monografia da União Europeia sobre Melilotus officinalis:</strong> [dflip source="https://drive.google.com/uc?id=1dQbQhFLddYaycamCi3s7e00NdtG5BbEZ" download="false" type="thumb" outline="true"][/dflip]
-<strong>Estudo Clínico - Benefícios terapêuticos multifacetados do Ginkgo biloba:</strong> [dflip source="https://drive.google.com/uc?id=1YIunjuH5QH4fJZWkTCthXXA5h8QtGiMt" download="false" type="thumb" outline="true"][/dflip]</p>]]></content:encoded>
-      <excerpt:encoded><![CDATA[Este treinamento capacita o profissional a dominar o tratamento de draining solution através de tecnologias inovadoras e ativos sinérgicos, detalhando protocolos integrados para maximizar resultados.]]></excerpt:encoded>
+- Tratamento de áreas anatômicas cada vez mais complexas
+- Mecanismo de ação
+- Estratégia de Dose
+- Tecidos rígidos não respondem bem ao tratamento
+- Menor difusão de ativos
+- Preparar o terreno biológico
+- Maior resposta a ativos injetáveis
+- Protocolos combinados</p>
+<p><strong>Material para Download:</strong></p>
+<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 15px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; font-family: sans-serif;">
+    <div style="display: flex; align-items: center;">
+        <span style="background: #da3324; color: #ffffff; padding: 4px 6px; border-radius: 4px; font-size: 12px; font-weight: 900; margin-right: 12px; display: inline-block;">PDF</span>
+        <span style="font-weight: 600; color: #333;">Aula</span>
+    </div>
+    <a href="https://drive.google.com/file/d/1sj7ZStW9i3rq7KBQ73HoVdlBywhmnIfj/preview" target="_blank" style="background: #e0e0e0; color: #333; text-decoration: none; padding: 8px 16px; border-radius: 4px; font-size: 13px; font-weight: 500; transition: background 0.3s;" onmouseover="this.style.background='#d0d0d0'" onmouseout="this.style.background='#e0e0e0'">Visualizar</a>
+</div>
+
+<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 15px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; font-family: sans-serif;">
+    <div style="display: flex; align-items: center;">
+        <span style="background: #da3324; color: #ffffff; padding: 4px 6px; border-radius: 4px; font-size: 12px; font-weight: 900; margin-right: 12px; display: inline-block;">PDF</span>
+        <span style="font-weight: 600; color: #333;">Produto</span>
+    </div>
+    <a href="https://drive.google.com/file/d/1FQiiEZUe9at7HsRmO15MV-xVVqoJu_ZY/preview" target="_blank" style="background: #e0e0e0; color: #333; text-decoration: none; padding: 8px 16px; border-radius: 4px; font-size: 13px; font-weight: 500; transition: background 0.3s;" onmouseover="this.style.background='#d0d0d0'" onmouseout="this.style.background='#e0e0e0'">Visualizar</a>
+</div>
+
+<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 15px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; font-family: sans-serif;">
+    <div style="display: flex; align-items: center;">
+        <span style="background: #da3324; color: #ffffff; padding: 4px 6px; border-radius: 4px; font-size: 12px; font-weight: 900; margin-right: 12px; display: inline-block;">PDF</span>
+        <span style="font-weight: 600; color: #333;">Cápsula do Conhecimento</span>
+    </div>
+    <a href="https://drive.google.com/file/d/1VoM8YLHZ694w6VOQ1tVO5kFrP7wTnsVn/preview" target="_blank" style="background: #e0e0e0; color: #333; text-decoration: none; padding: 8px 16px; border-radius: 4px; font-size: 13px; font-weight: 500; transition: background 0.3s;" onmouseover="this.style.background='#d0d0d0'" onmouseout="this.style.background='#e0e0e0'">Visualizar</a>
+</div>
+
+<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 15px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; font-family: sans-serif;">
+    <div style="display: flex; align-items: center;">
+        <span style="background: #da3324; color: #ffffff; padding: 4px 6px; border-radius: 4px; font-size: 12px; font-weight: 900; margin-right: 12px; display: inline-block;">PDF</span>
+        <span style="font-weight: 600; color: #333;">Estudo Clínico - Durabilidade, comportamento e tolerabilidade de 5 produtos de hialuronidase</span>
+    </div>
+    <a href="https://drive.google.com/file/d/1gCyBboSDIu_mrH_h-nCUe-F7b8sUzPcK/preview" target="_blank" style="background: #e0e0e0; color: #333; text-decoration: none; padding: 8px 16px; border-radius: 4px; font-size: 13px; font-weight: 500; transition: background 0.3s;" onmouseover="this.style.background='#d0d0d0'" onmouseout="this.style.background='#e0e0e0'">Visualizar</a>
+</div>
+
+<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 15px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; font-family: sans-serif;">
+    <div style="display: flex; align-items: center;">
+        <span style="background: #da3324; color: #ffffff; padding: 4px 6px; border-radius: 4px; font-size: 12px; font-weight: 900; margin-right: 12px; display: inline-block;">PDF</span>
+        <span style="font-weight: 600; color: #333;">Estudo Clínico - Hialuronidase na cosmiatria: o que devemos saber?</span>
+    </div>
+    <a href="https://drive.google.com/file/d/1Ew1-Rz6gZMVwefHAIXaqI9tPcebq3UjX/preview" target="_blank" style="background: #e0e0e0; color: #333; text-decoration: none; padding: 8px 16px; border-radius: 4px; font-size: 13px; font-weight: 500; transition: background 0.3s;" onmouseover="this.style.background='#d0d0d0'" onmouseout="this.style.background='#e0e0e0'">Visualizar</a>
+</div>
+
+<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 15px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; font-family: sans-serif;">
+    <div style="display: flex; align-items: center;">
+        <span style="background: #da3324; color: #ffffff; padding: 4px 6px; border-radius: 4px; font-size: 12px; font-weight: 900; margin-right: 12px; display: inline-block;">PDF</span>
+        <span style="font-weight: 600; color: #333;">Estudo Clínico - Indicações e uso da hialuronidasa na Medicina Estética</span>
+    </div>
+    <a href="https://drive.google.com/file/d/1qOJkqm_FA6Lv5L2zl5aPo7-DxRdt_Iyc/preview" target="_blank" style="background: #e0e0e0; color: #333; text-decoration: none; padding: 8px 16px; border-radius: 4px; font-size: 13px; font-weight: 500; transition: background 0.3s;" onmouseover="this.style.background='#d0d0d0'" onmouseout="this.style.background='#e0e0e0'">Visualizar</a>
+</div>
+
+<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 15px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; font-family: sans-serif;">
+    <div style="display: flex; align-items: center;">
+        <span style="background: #da3324; color: #ffffff; padding: 4px 6px; border-radius: 4px; font-size: 12px; font-weight: 900; margin-right: 12px; display: inline-block;">PDF</span>
+        <span style="font-weight: 600; color: #333;">Estudo Clínico - Produtos enzimáticos e seu uso em Dermatologia</span>
+    </div>
+    <a href="https://drive.google.com/file/d/1qNaOtNE354PcEvBfcS6_PNHXJDKn9jSH/preview" target="_blank" style="background: #e0e0e0; color: #333; text-decoration: none; padding: 8px 16px; border-radius: 4px; font-size: 13px; font-weight: 500; transition: background 0.3s;" onmouseover="this.style.background='#d0d0d0'" onmouseout="this.style.background='#e0e0e0'">Visualizar</a>
+</div>]]></content:encoded>
+      <excerpt:encoded><![CDATA[Este treinamento capacita o profissional a dominar o tratamento de reductonidasa através de tecnologias inovadoras e ativos sinérgicos, detalhando protocolos integrados para maximizar resultados.]]></excerpt:encoded>
       <wp:post_id>99000</wp:post_id>
-      <wp:post_date>2026-03-13 10:51:13</wp:post_date>
-      <wp:post_name>draining-solution-excelencia-com-alma</wp:post_name>
+      <wp:post_date>2026-03-15 01:41:49</wp:post_date>
+      <wp:post_name>reductonidasa-reversibilidade-controle-e-excelencia-clinica</wp:post_name>
       <wp:status>draft</wp:status>
       <wp:post_type>lp_course</wp:post_type>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_id</wp:meta_key>
-        <wp:meta_value><![CDATA[1773324638]]></wp:meta_value>
+        <wp:meta_value><![CDATA[1773324758]]></wp:meta_value>
       </wp:postmeta>
       <category domain="course_category" nicename="atendimento-vendas" id="50000" parent="0" description=""><![CDATA[Atendimento / Vendas]]></category>
       <category domain="course_category" nicename="distribuidores" id="50001" parent="0" description=""><![CDATA[Distribuidores]]></category>
@@ -134,9 +202,11 @@
       <category domain="course_category" nicename="marketing" id="50004" parent="0" description=""><![CDATA[Marketing]]></category>
       <category domain="course_category" nicename="produtos" id="50005" parent="0" description=""><![CDATA[Produtos]]></category>
       <category domain="course_category" nicename="representantes" id="50006" parent="0" description=""><![CDATA[Representantes]]></category>
-      <category domain="course_tag" nicename="draining-solution" id="50007" parent="0" description=""><![CDATA[draining solution]]></category>
-      <category domain="course_tag" nicename="gordura" id="50008" parent="0" description=""><![CDATA[gordura]]></category>
-      <category domain="course_tag" nicename="microagulhamento" id="50009" parent="0" description=""><![CDATA[microagulhamento]]></category>
+      <category domain="course_tag" nicename="reductonidasa" id="50007" parent="0" description=""><![CDATA[reductonidasa]]></category>
+      <category domain="course_tag" nicename="lipolitico" id="50008" parent="0" description=""><![CDATA[lipolítico]]></category>
+      <category domain="course_tag" nicename="gordura" id="50009" parent="0" description=""><![CDATA[gordura]]></category>
+      <category domain="course_tag" nicename="celulite" id="50010" parent="0" description=""><![CDATA[celulite]]></category>
+      <category domain="course_tag" nicename="fibrose" id="50011" parent="0" description=""><![CDATA[fibrose]]></category>
       <wp:section>
         <wp:section_id>100</wp:section_id>
         <wp:section_name>Avaliação Final</wp:section_name>
@@ -179,7 +249,7 @@
       <title>Avaliação Final</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <wp:post_id>100000</wp:post_id>
-      <wp:post_date>2026-03-13 10:51:13</wp:post_date>
+      <wp:post_date>2026-03-15 01:41:49</wp:post_date>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_quiz</wp:post_type>
       <wp:post_name>avaliacao-final</wp:post_name>
@@ -259,37 +329,37 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>1. Sobre o Sistema Linfático, qual é a principal função da Linfa mencionada no texto?</title>
+      <title>Marque a opção verdadeira a respeito da hialuronidase:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100001</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>1-sobre-o-sistema-linfatico-qual-e-a-principal-funcao-da-linfa-mencionada-no-texto</wp:post_name>
+      <wp:post_name>marque-a-opcao-verdadeira-a-respeito-da-hialuronidase</wp:post_name>
       <wp:answer>
         <wp:question_id>100001</wp:question_id>
-        <wp:answer_title><![CDATA[Transportar oxigênio para os tecidos.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[é uma substância encontrada apenas no corpo humano.]]></wp:answer_title>
         <wp:answer_value>val_100001_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
-        <wp:answer_is_true>yes</wp:answer_is_true>
+        <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100001</wp:question_id>
-        <wp:answer_title><![CDATA[Realizar a filtragem do sangue nos linfonodos.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[não é uma proteína.]]></wp:answer_title>
         <wp:answer_value>val_100001_2</wp:answer_value>
         <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100001</wp:question_id>
-        <wp:answer_title><![CDATA[Remover impurezas e micróbios que se instalam entre os tecidos. (Correta)]]></wp:answer_title>
+        <wp:answer_title><![CDATA[é uma enzima encontrada naturalmente no corpo humano e também em veneno de animais.]]></wp:answer_title>
         <wp:answer_value>val_100001_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
-        <wp:answer_is_true></wp:answer_is_true>
+        <wp:answer_is_true>yes</wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100001</wp:question_id>
-        <wp:answer_title><![CDATA[Promover a vasodilatação para aumentar o fluxo sanguíneo.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[tem ação apenas no ácido hialurônico de preenchedores.]]></wp:answer_title>
         <wp:answer_value>val_100001_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
@@ -304,37 +374,37 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>2. Qual componente do draining solution é conhecido como trevo doce e apresenta atividade antiespasmódica, antiedematosa e diurética?</title>
+      <title>Qual tipo de reação enzimática a maioria das hialuronidases encontradas nos mamíferos utilizam para degradar o AH?</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100002</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>2-qual-componente-do-draining-solution-e-conhecido-como-trevo-doce-e-apresenta-atividade-antiespasmodica-antiedematosa-e-diuretica</wp:post_name>
+      <wp:post_name>qual-tipo-de-reacao-enzimatica-a-maioria-das-hialuronidases-encontradas-nos-mamiferos-utilizam-para-degradar-o-ah</wp:post_name>
       <wp:answer>
         <wp:question_id>100002</wp:question_id>
-        <wp:answer_title><![CDATA[Rutina]]></wp:answer_title>
+        <wp:answer_title><![CDATA[reação de hidrólise]]></wp:answer_title>
         <wp:answer_value>val_100002_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
         <wp:answer_is_true>yes</wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100002</wp:question_id>
-        <wp:answer_title><![CDATA[Escina]]></wp:answer_title>
+        <wp:answer_title><![CDATA[reação de ácido-base]]></wp:answer_title>
         <wp:answer_value>val_100002_2</wp:answer_value>
         <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100002</wp:question_id>
-        <wp:answer_title><![CDATA[Meliloto (Correta)]]></wp:answer_title>
+        <wp:answer_title><![CDATA[reação de glicosamina]]></wp:answer_title>
         <wp:answer_value>val_100002_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100002</wp:question_id>
-        <wp:answer_title><![CDATA[Ginkgo Biloba]]></wp:answer_title>
+        <wp:answer_title><![CDATA[reação de reductonidase]]></wp:answer_title>
         <wp:answer_value>val_100002_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
@@ -349,40 +419,40 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>3. O Meliloto age na atividade linfocinética. Qual é o resultado direto dessa ação?</title>
+      <title>Quais fatores podem afetar a atividade enzimática da hialuronidase?</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100003</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>3-o-meliloto-age-na-atividade-linfocinetica-qual-e-o-resultado-direto-dessa-acao</wp:post_name>
+      <wp:post_name>quais-fatores-podem-afetar-a-atividade-enzimatica-da-hialuronidase</wp:post_name>
       <wp:answer>
         <wp:question_id>100003</wp:question_id>
-        <wp:answer_title><![CDATA[Aumento da permeabilidade capilar.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[quantidade de AH a ser degradado]]></wp:answer_title>
         <wp:answer_value>val_100003_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
-        <wp:answer_is_true>yes</wp:answer_is_true>
+        <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100003</wp:question_id>
-        <wp:answer_title><![CDATA[Diminuição da dor e do edema por ação anti-inflamatória.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[pH]]></wp:answer_title>
         <wp:answer_value>val_100003_2</wp:answer_value>
         <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100003</wp:question_id>
-        <wp:answer_title><![CDATA[Aumento da drenagem linfática por estimulação direta dos vasos linfáticos. (Correta)]]></wp:answer_title>
+        <wp:answer_title><![CDATA[tipo de reticulador]]></wp:answer_title>
         <wp:answer_value>val_100003_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100003</wp:question_id>
-        <wp:answer_title><![CDATA[Proteção contra a perda de ATP nas células endoteliais.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[todas as alternativas acima]]></wp:answer_title>
         <wp:answer_value>val_100003_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
-        <wp:answer_is_true></wp:answer_is_true>
+        <wp:answer_is_true>yes</wp:answer_is_true>
       </wp:answer>
       <wp:postmeta>
         <wp:meta_key>_lp_type</wp:meta_key>
@@ -394,40 +464,40 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>4. A Rutina é descrita como um bioflavonoide natural. Além da atividade antioxidante, qual outra ação importante ela possui nos vasos sanguíneos?</title>
+      <title>Marque a alternativa verdadeira sobre o produto reductonidasa®:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100004</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>4-a-rutina-e-descrita-como-um-bioflavonoide-natural-alem-da-atividade-antioxidante-qual-outra-acao-importante-ela-possui-nos-vasos-sanguineos</wp:post_name>
+      <wp:post_name>marque-a-alternativa-verdadeira-sobre-o-produto-reductonidasa</wp:post_name>
       <wp:answer>
         <wp:question_id>100004</wp:question_id>
-        <wp:answer_title><![CDATA[Reduz a expressão de fatores pró-inflamatórios.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[possui duas apresentações: em solução pronta para a aplicação e em pó para reconstituição.]]></wp:answer_title>
         <wp:answer_value>val_100004_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
-        <wp:answer_is_true>yes</wp:answer_is_true>
+        <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100004</wp:question_id>
-        <wp:answer_title><![CDATA[Promove relaxamento do tecido venoso.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[contém hialuronidase 500UI]]></wp:answer_title>
         <wp:answer_value>val_100004_2</wp:answer_value>
         <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100004</wp:question_id>
-        <wp:answer_title><![CDATA[Fortalece os vasos sanguíneos e melhora a integridade capilar. (Correta)]]></wp:answer_title>
+        <wp:answer_title><![CDATA[pH 7 a 7,5]]></wp:answer_title>
         <wp:answer_value>val_100004_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100004</wp:question_id>
-        <wp:answer_title><![CDATA[Estimula diretamente a atividade linfocinética.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[nenhuma alternativa é verdadeira]]></wp:answer_title>
         <wp:answer_value>val_100004_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
-        <wp:answer_is_true></wp:answer_is_true>
+        <wp:answer_is_true>yes</wp:answer_is_true>
       </wp:answer>
       <wp:postmeta>
         <wp:meta_key>_lp_type</wp:meta_key>
@@ -439,37 +509,37 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>5. Quais compostos do Ginkgo Biloba são responsáveis por seus benefícios para a pele e estão associados à ação drenante e antioxidante?</title>
+      <title>Marque a alternativa que contém informação falsa sobre a hialuronidase:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100005</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>5-quais-compostos-do-ginkgo-biloba-sao-responsaveis-por-seus-beneficios-para-a-pele-e-estao-associados-a-acao-drenante-e-antioxidante</wp:post_name>
+      <wp:post_name>marque-a-alternativa-que-contem-informacao-falsa-sobre-a-hialuronidase</wp:post_name>
       <wp:answer>
         <wp:question_id>100005</wp:question_id>
-        <wp:answer_title><![CDATA[Cumarinas e Escina]]></wp:answer_title>
+        <wp:answer_title><![CDATA[tem ação tardia, pode levar até dois dias para início de ação.]]></wp:answer_title>
         <wp:answer_value>val_100005_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
         <wp:answer_is_true>yes</wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100005</wp:question_id>
-        <wp:answer_title><![CDATA[Terpenoides e Escina]]></wp:answer_title>
+        <wp:answer_title><![CDATA[início de ação imediata.]]></wp:answer_title>
         <wp:answer_value>val_100005_2</wp:answer_value>
         <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100005</wp:question_id>
-        <wp:answer_title><![CDATA[Flavonoides e Terpenoides (Correta)]]></wp:answer_title>
+        <wp:answer_title><![CDATA[o efeito funcional no local aplicado pode persistir por 24 a 48 horas.]]></wp:answer_title>
         <wp:answer_value>val_100005_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100005</wp:question_id>
-        <wp:answer_title><![CDATA[Rutina e Meliloto]]></wp:answer_title>
+        <wp:answer_title><![CDATA[a barreira dérmica afetada pela aplicação é completamente reconstituída após 48 horas.]]></wp:answer_title>
         <wp:answer_value>val_100005_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
@@ -484,37 +554,37 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>6. No Ginkgo Biloba, qual grupo de compostos é especificamente citado por promover a vasodilatação, auxiliando no processo de drenagem linfática?</title>
+      <title>“A enzima hialuronidase apresenta meia-vida sérica longa, de efeito sistêmico e descontrolado que pode persistir por até uma semana.”</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100006</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>6-no-ginkgo-biloba-qual-grupo-de-compostos-e-especificamente-citado-por-promover-a-vasodilatacao-auxiliando-no-processo-de-drenagem-linfatica</wp:post_name>
+      <wp:post_name>a-enzima-hialuronidase-apresenta-meia-vida-serica-longa-de-efeito-sistemico-e-descontrolado-que-pode-persistir-por-ate-uma-semana</wp:post_name>
       <wp:answer>
         <wp:question_id>100006</wp:question_id>
-        <wp:answer_title><![CDATA[Flavonoides]]></wp:answer_title>
+        <wp:answer_title><![CDATA[verdadeira]]></wp:answer_title>
         <wp:answer_value>val_100006_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
-        <wp:answer_is_true>yes</wp:answer_is_true>
-      </wp:answer>
-      <wp:answer>
-        <wp:question_id>100006</wp:question_id>
-        <wp:answer_title><![CDATA[Terpenoides (Correta)]]></wp:answer_title>
-        <wp:answer_value>val_100006_2</wp:answer_value>
-        <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100006</wp:question_id>
-        <wp:answer_title><![CDATA[Cumarinas]]></wp:answer_title>
+        <wp:answer_title><![CDATA[falsa]]></wp:answer_title>
+        <wp:answer_value>val_100006_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100006</wp:question_id>
+        <wp:answer_title><![CDATA[tem uma informação falsa]]></wp:answer_title>
         <wp:answer_value>val_100006_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100006</wp:question_id>
-        <wp:answer_title><![CDATA[Escinas]]></wp:answer_title>
+        <wp:answer_title><![CDATA[tem uma informação verdadeira]]></wp:answer_title>
         <wp:answer_value>val_100006_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
@@ -529,40 +599,40 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>7. A Escina, encontrada nas sementes da Castanha-da-Índia, possui um Efeito Venotônico. Qual é a principal característica desse efeito?</title>
+      <title>Qual alternativa contém indicação para uso de hialuronidase?</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100007</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>7-a-escina-encontrada-nas-sementes-da-castanha-da-india-possui-um-efeito-venotonico-qual-e-a-principal-caracteristica-desse-efeito</wp:post_name>
+      <wp:post_name>qual-alternativa-contem-indicacao-para-uso-de-hialuronidase</wp:post_name>
       <wp:answer>
         <wp:question_id>100007</wp:question_id>
-        <wp:answer_title><![CDATA[Aumenta a permeabilidade capilar, diminuindo o edema.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[celulite]]></wp:answer_title>
         <wp:answer_value>val_100007_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
-        <wp:answer_is_true>yes</wp:answer_is_true>
+        <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100007</wp:question_id>
-        <wp:answer_title><![CDATA[Promoção da contração efetiva do tecido venoso. (Correta)]]></wp:answer_title>
+        <wp:answer_title><![CDATA[migração de preenchimento]]></wp:answer_title>
         <wp:answer_value>val_100007_2</wp:answer_value>
         <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100007</wp:question_id>
-        <wp:answer_title><![CDATA[Eliminação direta de radicais livres.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[edema de pálpebras inferiores]]></wp:answer_title>
         <wp:answer_value>val_100007_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100007</wp:question_id>
-        <wp:answer_title><![CDATA[Estimulação da formação de radicais livres.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[todas as alternativas]]></wp:answer_title>
         <wp:answer_value>val_100007_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
-        <wp:answer_is_true></wp:answer_is_true>
+        <wp:answer_is_true>yes</wp:answer_is_true>
       </wp:answer>
       <wp:postmeta>
         <wp:meta_key>_lp_type</wp:meta_key>
@@ -574,37 +644,37 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>8. O que é a estase venosa e qual o sintoma que ela pode causar?</title>
+      <title>Marque a alternativa verdadeira sobre a hialuronidase:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100008</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>8-o-que-e-a-estase-venosa-e-qual-o-sintoma-que-ela-pode-causar</wp:post_name>
+      <wp:post_name>marque-a-alternativa-verdadeira-sobre-a-hialuronidase</wp:post_name>
       <wp:answer>
         <wp:question_id>100008</wp:question_id>
-        <wp:answer_title><![CDATA[Aumento do fluxo sanguíneo; sensação de pernas cansadas.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[não deve aplicada em áreas com procedimento recente de toxina botulínica.]]></wp:answer_title>
         <wp:answer_value>val_100008_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
         <wp:answer_is_true>yes</wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100008</wp:question_id>
-        <wp:answer_title><![CDATA[Uma estagnação do sangue nas veias; sensação de pernas pesadas e congestão. (Correta)]]></wp:answer_title>
+        <wp:answer_title><![CDATA[existe uma única indicação para aplicação da hialuronidase.]]></wp:answer_title>
         <wp:answer_value>val_100008_2</wp:answer_value>
         <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100008</wp:question_id>
-        <wp:answer_title><![CDATA[Aumento da permeabilidade capilar; formação de varizes.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[o tipo de AH não afeta a atividade da enzima.]]></wp:answer_title>
         <wp:answer_value>val_100008_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100008</wp:question_id>
-        <wp:answer_title><![CDATA[Migração extravascular de leucócitos; exacerbação da inflamação.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[não é indicado para corrigir assimetrias ou resultados indesejados de preenchedores.]]></wp:answer_title>
         <wp:answer_value>val_100008_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
@@ -619,37 +689,37 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>9. Qual é o momento de aplicação do draining solution no contexto de um tratamento completo para alterações na silhueta?</title>
+      <title>Sobre a reconstituição da reductonidasa®, marque a alternativa falsa:</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100009</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>9-qual-e-o-momento-de-aplicacao-do-draining-solution-no-contexto-de-um-tratamento-completo-para-alteracoes-na-silhueta</wp:post_name>
+      <wp:post_name>sobre-a-reconstituicao-da-reductonidasa-marque-a-alternativa-falsa</wp:post_name>
       <wp:answer>
         <wp:question_id>100009</wp:question_id>
-        <wp:answer_title><![CDATA[Na fase lipolítica.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[anti-inflamatórios (ibuprofeno, aspirina, diclofenaco) atuam como antagonistas da hialuronidase.]]></wp:answer_title>
         <wp:answer_value>val_100009_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
-        <wp:answer_is_true>yes</wp:answer_is_true>
-      </wp:answer>
-      <wp:answer>
-        <wp:question_id>100009</wp:question_id>
-        <wp:answer_title><![CDATA[Antes da fase lipolítica, na fase de drenagem. (Correta)]]></wp:answer_title>
-        <wp:answer_value>val_100009_2</wp:answer_value>
-        <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100009</wp:question_id>
-        <wp:answer_title><![CDATA[Após o microagulhamento, na fase de finalização.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[vitamina C não é uma substância que atua como antagonista da hialuronidase.]]></wp:answer_title>
+        <wp:answer_value>val_100009_2</wp:answer_value>
+        <wp:answer_order>2</wp:answer_order>
+        <wp:answer_is_true>yes</wp:answer_is_true>
+      </wp:answer>
+      <wp:answer>
+        <wp:question_id>100009</wp:question_id>
+        <wp:answer_title><![CDATA[existem substâncias que atuam como antagonistas da hialuronidase.]]></wp:answer_title>
         <wp:answer_value>val_100009_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100009</wp:question_id>
-        <wp:answer_title><![CDATA[Apenas na etapa de preparação da pele.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[o frasco deve ser armazenado em local adequado para manter sua estabilidade.]]></wp:answer_title>
         <wp:answer_value>val_100009_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
@@ -664,40 +734,40 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>10. Marque a alternativa que contém uma indicação correta do draining solution:</title>
+      <title>Marque a alternativa que apresente associações inteligentes para serem combinados junto ao reductonidasa® nos casos de celulite.</title>
       <dc:creator><![CDATA[dra-ana-cleia-barbosa]]></dc:creator>
       <content:encoded><![CDATA[]]></content:encoded>
       <wp:post_id>100010</wp:post_id>
       <wp:status>publish</wp:status>
       <wp:post_type>lp_question</wp:post_type>
-      <wp:post_name>10-marque-a-alternativa-que-contem-uma-indicacao-correta-do-draining-solution</wp:post_name>
+      <wp:post_name>marque-a-alternativa-que-apresente-associacoes-inteligentes-para-serem-combinados-junto-ao-reductonidasa-nos-casos-de-celulite</wp:post_name>
       <wp:answer>
         <wp:question_id>100010</wp:question_id>
-        <wp:answer_title><![CDATA[Ação drenante com efeito congestionante]]></wp:answer_title>
+        <wp:answer_title><![CDATA[cafeína]]></wp:answer_title>
         <wp:answer_value>val_100010_1</wp:answer_value>
         <wp:answer_order>1</wp:answer_order>
-        <wp:answer_is_true>yes</wp:answer_is_true>
+        <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100010</wp:question_id>
-        <wp:answer_title><![CDATA[Aumento da retenção de líquidos]]></wp:answer_title>
+        <wp:answer_title><![CDATA[L-carnitina]]></wp:answer_title>
         <wp:answer_value>val_100010_2</wp:answer_value>
         <wp:answer_order>2</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100010</wp:question_id>
-        <wp:answer_title><![CDATA[No contexto de um tratamento completo para alterações na silhueta, pode ser usada na fase de drenagem antes da fase lipolítica (Correta).]]></wp:answer_title>
+        <wp:answer_title><![CDATA[bioestimuladores]]></wp:answer_title>
         <wp:answer_value>val_100010_3</wp:answer_value>
         <wp:answer_order>3</wp:answer_order>
         <wp:answer_is_true></wp:answer_is_true>
       </wp:answer>
       <wp:answer>
         <wp:question_id>100010</wp:question_id>
-        <wp:answer_title><![CDATA[Contraindicado para melhora da retenção de líquidos.]]></wp:answer_title>
+        <wp:answer_title><![CDATA[todas as alternativas]]></wp:answer_title>
         <wp:answer_value>val_100010_4</wp:answer_value>
         <wp:answer_order>4</wp:answer_order>
-        <wp:answer_is_true></wp:answer_is_true>
+        <wp:answer_is_true>yes</wp:answer_is_true>
       </wp:answer>
       <wp:postmeta>
         <wp:meta_key>_lp_type</wp:meta_key>

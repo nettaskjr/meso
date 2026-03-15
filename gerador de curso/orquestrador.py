@@ -12,6 +12,10 @@ class MesoOrchestrator:
         self.course_slug = ""
         self.originais_dir = "originais"
         
+        # Configurações de Proteção de PDF
+        self.use_protection = True  # Ativa o uso de visualizadores seguros (DearFlip)
+        self.protection_plugin = "premium-button" # Opções: "dearflip", "pdf-poster", "google-embed", "premium-button", "none"
+
     def parse_specs(self):
         print(f"📖 Lendo especificações de: {self.spec_file}")
         with open(self.spec_file, 'r', encoding='utf-8') as f:
@@ -29,13 +33,71 @@ class MesoOrchestrator:
                 k, v = line.split(':', 1)
                 self.specs['metadata'][k.strip()] = v.strip()
         
-        # Extrair Links de Download
+        # Extrair Links de Download com opção de Proteção
         downloads = []
         dl_matches = re.finditer(r'- \[(.*?)\]\((.*?)\)', content)
         for m in dl_matches:
             label, url = m.groups()
-            if url.strip():
-                downloads.append(f"- [{label}]({url})")
+            url = url.strip()
+            if url:
+                # Detectar se é PDF (por extensão ou por ser link do Google Drive)
+                is_pdf = url.lower().endswith('.pdf') or "drive.google.com" in url.lower()
+                
+                if self.use_protection and is_pdf:
+                    # Tratar links do Google Drive para formato direto (melhor para plugins)
+                    if "drive.google.com" in url:
+                        drive_id_match = re.search(r'/d/([a-zA-Z0-9_-]+)', url)
+                        if drive_id_match:
+                            drive_id = drive_id_match.group(1)
+                            # Link direto para o arquivo (funciona melhor com a maioria dos plugins)
+                            url = f"https://drive.google.com/uc?id={drive_id}"
+
+                    # Gerar shortcode de proteção conforme o plugin escolhido
+                    if self.protection_plugin == "dearflip":
+                        # Shortcode do DearFlip (dflip) com download desativado
+                        downloads.append(f"**{label}:** [dflip source=\"{url}\" download=\"false\" type=\"thumb\" outline=\"true\"][/dflip]")
+                    elif self.protection_plugin == "pdf-poster":
+                        # Shortcode do PDF Poster
+                        downloads.append(f"**{label}:** [pdf-poster url=\"{url}\" download=\"none\"]")
+                    elif self.protection_plugin == "google-embed":
+                        # Iframe de visualização direta do Google (100% compatível e sem download simples)
+                        if "drive.google.com" in url:
+                            drive_id = ""
+                            id_match = re.search(r'/d/([a-zA-Z0-9_-]+)', url) or re.search(r'id=([a-zA-Z0-9_-]+)', url)
+                            if id_match:
+                                drive_id = id_match.group(1)
+                                preview_url = f"https://drive.google.com/file/d/{drive_id}/preview"
+                                downloads.append(f"**{label}:** <iframe src=\"{preview_url}\" width=\"100%\" height=\"600px\" allow=\"autoplay\"></iframe>")
+                            else:
+                                downloads.append(f"- [{label}]({url})")
+                        else:
+                            downloads.append(f"- [{label}]({url})")
+                    elif self.protection_plugin == "premium-button":
+                        # Design de Card Premium com Botão de Ação
+                        if "drive.google.com" in url:
+                            drive_id = ""
+                            id_match = re.search(r'/d/([a-zA-Z0-9_-]+)', url) or re.search(r'id=([a-zA-Z0-9_-]+)', url)
+                            if id_match:
+                                drive_id = id_match.group(1)
+                                preview_url = f"https://drive.google.com/file/d/{drive_id}/preview"
+                                card_html = f"""
+<div style="background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 15px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; font-family: sans-serif;">
+    <div style="display: flex; align-items: center;">
+        <span style="background: #da3324; color: #ffffff; padding: 4px 6px; border-radius: 4px; font-size: 12px; font-weight: 900; margin-right: 12px; display: inline-block;">PDF</span>
+        <span style="font-weight: 600; color: #333;">{label}</span>
+    </div>
+    <a href="{preview_url}" target="_blank" style="background: #e0e0e0; color: #333; text-decoration: none; padding: 8px 16px; border-radius: 4px; font-size: 13px; font-weight: 500; transition: background 0.3s;" onmouseover="this.style.background='#d0d0d0'" onmouseout="this.style.background='#e0e0e0'">Visualizar</a>
+</div>"""
+                                downloads.append(card_html)
+
+                            else:
+                                downloads.append(f"- [{label}]({url})")
+                        else:
+                            downloads.append(f"- [{label}]({url})")
+                    else:
+                        downloads.append(f"- [{label}]({url})")
+                else:
+                    downloads.append(f"- [{label}]({url})")
         self.specs['downloads'] = downloads
         
         # Quiz Meta
@@ -169,22 +231,41 @@ class MesoOrchestrator:
             opt_match = re.match(r'^([a-d])[\)\.]\s*(.*)', line, re.IGNORECASE)
             if opt_match:
                 char, opt_text = opt_match.groups()
-                # Marcar como correta se houver indicação (x) ou se for a lógica de backup
-                is_correct = '(x)' in line.lower()
-                current_opts.append((opt_text, is_correct))
+                # Marcar como correta se houver indicação '(x)' ou '(correta)'
+                is_correct = False
+                lower_text = line.lower()
+                if '(x)' in lower_text or '[x]' in lower_text or 'correta' in lower_text:
+                    is_correct = True
+                    # Limpar a marcação de 'correta' do texto em si
+                    opt_text = re.sub(r'(?i)\(x\)|\[x\]|\(correta\)', '', opt_text).strip()
+                
+                # Armazenar também a letra para possível correção posterior
+                current_opts.append((opt_text, is_correct, char.lower()))
             
+            # Se a linha indicar a resposta diretamente ex: "resposta: A"
+            elif line.lower().startswith('resposta') or line.lower().startswith('gabarito'):
+                if ':' in line:
+                    ans_str = line.split(':')[-1].strip().lower()
+                    ans_match = re.search(r'^([a-d])', ans_str)
+                    if ans_match and current_opts:
+                        ans_char = ans_match.group(1)
+                        current_opts = [(text, is_c or c == ans_char, c) for text, is_c, c in current_opts]
+
             # Se a linha parece uma pergunta (termina com ? ou a próxima linha é 'a)')
             elif line.endswith('?') or (i+1 < len(raw_lines) and re.match(r'^a[\)\.]', raw_lines[i+1], re.IGNORECASE)):
                 # Se já tínhamos uma pergunta pendente, salva ela
                 if current_q and current_opts:
-                    questions_md += self._format_question_md(current_q, current_opts)
+                    # Limpa a tupla para o _format_question_md q espera apenas 2 valores
+                    clean_opts = [(text, is_c) for text, is_c, _ in current_opts]
+                    questions_md += self._format_question_md(current_q, clean_opts)
                 
                 current_q = line
                 current_opts = []
         
         # Salva a última pergunta
         if current_q and current_opts:
-            questions_md += self._format_question_md(current_q, current_opts)
+            clean_opts = [(text, is_c) for text, is_c, _ in current_opts]
+            questions_md += self._format_question_md(current_q, clean_opts)
 
         # Montar MD Final
         md_content = f"# {self.specs['titulo']}\n\n## Metadados\n"

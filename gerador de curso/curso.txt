@@ -1,10 +1,9 @@
-curso: draining solution
+curso: reductonidasa
 
-Título: draining solution: Excelência com alma
-
+Título: reductonidasa: Reversibilidade, controle e excelência clínica
 Metadados
 Carga horária: 20 minutos
-       Imagem: 1773324638
+       Imagem: 1773324758
   Certificado: 9665
       Setores: Todos os colaboradores, distribuidores e representantes
         Nível: Avançado
@@ -18,17 +17,17 @@ Descrição:
 Conteúdo Programático:
 [gerado automaticamente a partir do arquivo na pasta originas, nao use o arquivo de avaliacao]
 
-Material para Download: [os topicos sem link devem ser desconsiderados]
-- [Aula](https://drive.google.com/file/d/1Fx6G_n4svjXbieOqDqO1mc7ItcdhhEaj/view?usp=drive_link)
-- [Protocolo](https://drive.google.com/file/d/1eKYbwlsTV_JZIyLBtkBTXCRe71VobToL/view?usp=drive_link)
-- [Produto](https://drive.google.com/file/d/1Ite4e28Yy2Ae7eAORMuQ-N1orptyOwFu/view?usp=drive_link)
+Material de estudo: [os topicos sem link devem ser desconsiderados]
+- [Aula](https://drive.google.com/file/d/1sj7ZStW9i3rq7KBQ73HoVdlBywhmnIfj/view?usp=drive_link)
+- [Protocolo]()
+- [Produto](https://drive.google.com/file/d/1FQiiEZUe9at7HsRmO15MV-xVVqoJu_ZY/view?usp=drive_link)
 - [Antes e Depois]()
-- [Cápsula do Conhecimento](https://drive.google.com/file/d/1KgM6R14X-RIA6ubYwKMXtD72bcajp50b/view?usp=drive_link)
+- [Cápsula do Conhecimento](https://drive.google.com/file/d/1VoM8YLHZ694w6VOQ1tVO5kFrP7wTnsVn/view?usp=drive_link)
 - [Catálogo]()
-- [Estudo Clínico - Atividade antioxitande da rutina](https://drive.google.com/file/d/1Wvi9oR9BWv3QMdqLV_GQWyrm0q2rHaax/view?usp=drive_link)
-- [Estudo Clínico - Escina: uma revisão de suas propriedades antiedematosas, anti-inflamatórias e venotônicas](https://drive.google.com/file/d/1S8k2i94_5_hrZW0xhenTprwQgXKXGnoW/view?usp=drive_link)
-- [Estudo Clínico - Monografia da União Europeia sobre Melilotus officinalis](https://drive.google.com/file/d/1dQbQhFLddYaycamCi3s7e00NdtG5BbEZ/view?usp=drive_link)
-- [Estudo Clínico - Benefícios terapêuticos multifacetados do Ginkgo biloba](https://drive.google.com/file/d/1YIunjuH5QH4fJZWkTCthXXA5h8QtGiMt/view?usp=drive_link)
+- [Estudo Clínico - Durabilidade, comportamento e tolerabilidade de 5 produtos de hialuronidase](https://drive.google.com/file/d/1gCyBboSDIu_mrH_h-nCUe-F7b8sUzPcK/view?usp=drive_link)
+- [Estudo Clínico - Hialuronidase na cosmiatria: o que devemos saber?](https://drive.google.com/file/d/1Ew1-Rz6gZMVwefHAIXaqI9tPcebq3UjX/view?usp=drive_link)
+- [Estudo Clínico - Indicações e uso da hialuronidasa na Medicina Estética](https://drive.google.com/file/d/1qOJkqm_FA6Lv5L2zl5aPo7-DxRdt_Iyc/view?usp=drive_link)
+- [Estudo Clínico - Produtos enzimáticos e seu uso em Dermatologia](https://drive.google.com/file/d/1qNaOtNE354PcEvBfcS6_PNHXJDKn9jSH/view?usp=drive_link)
 - [Resultados Clínicos]()
 
 [Não possui vídeos]
